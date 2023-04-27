@@ -1,0 +1,850 @@
+,update_time,publish_time,authors,journal_ref,doi,primary_category,categories,entry_id,version
+0,2022-06-19 04:45:35+00:00,2020-12-30 08:41:51+00:00,"['Mingqi Yuan', 'Qi Cao', 'Man-on Pun', 'Yi Chen']",APSIPA Transactions on Signal and Information Processing (2022),,cs.OS,"['cs.OS', 'cs.AI', 'cs.LG', 'cs.NI']",2012.15081,14
+1,2017-10-26 03:27:40+00:00,2016-04-05 19:33:27+00:00,"['Gang Lu', 'Jianfeng Zhan', 'Chongkang Tan', 'Xinlong Lin', 'Defei Kong', 'Chen Zheng', 'Fei Tang', 'Cheng Huang', 'Lei Wang', 'Tianshu Hao']",,,cs.OS,"['cs.OS', 'D.4.0; D.4.6; D.4.7']",1604.01378,5
+2,2021-11-24 12:51:43+00:00,2019-07-02 21:04:47+00:00,"['Mark D. Hill', 'Vijay Janapa Reddi']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF', 'cs.PL']",1907.02064,5
+3,2019-08-29 04:53:09+00:00,2018-12-24 03:55:32+00:00,"['Thomas Bourgeat', 'Ilia Lebedev', 'Andrew Wright', 'Sizhuo Zhang', 'Arvind', 'Srinivas Devadas']",,,cs.CR,"['cs.CR', 'cs.OS']",1812.09822,5
+4,2022-10-21 22:02:53+00:00,2022-03-01 05:32:52+00:00,"['Huaicheng Li', 'Daniel S. Berger', 'Stanko Novakovic', 'Lisa Hsu', 'Dan Ernst', 'Pantea Zardoshti', 'Monish Shah', 'Samir Rajadnya', 'Scott Lee', 'Ishwar Agarwal', 'Mark D. Hill', 'Marcus Fontoura', 'Ricardo Bianchini']",,,cs.OS,"['cs.OS', 'cs.PF']",2203.00241,4
+5,1999-04-01 00:41:47+00:00,1999-03-04 02:13:35+00:00,['Denvil Smith'],,,cs.DC,"['cs.DC', 'cs.OS', 'B.4.4; C.2.6; D.4.4']",cs/9903004,4
+6,2016-06-29 20:42:04+00:00,2015-06-04 02:11:27+00:00,"['Sebastian Angel', 'Riad S. Wahby', 'Max Howald', 'Joshua B. Leners', 'Michael Spilo', 'Zhen Sun', 'Andrew J. Blumberg', 'Michael Walfish']","Proc. USENIX Security (2016), 397--414",,cs.OS,"['cs.OS', 'cs.CR']",1506.01449,4
+7,2019-07-10 21:59:00+00:00,2018-10-03 03:27:51+00:00,"['Dave Dice', 'Alex Kogan']",,,cs.OS,"['cs.OS', 'D.1.3']",1810.01573,4
+8,2018-04-19 00:06:48+00:00,2017-07-17 16:12:15+00:00,"['Farzad Farshchi', 'Prathap Kumar Valsan', 'Renato Mancuso', 'Heechul Yun']",,,cs.AR,"['cs.AR', 'cs.OS', 'cs.PF']",1707.05260,4
+9,2019-05-20 16:35:52+00:00,2019-03-22 13:08:13+00:00,"['Fabien Bouquillon', 'Clément Ballabriga', 'Giuseppe Lipari', 'Smail Niar']",,,cs.OS,"['cs.OS', 'cs.DC']",1903.09310,4
+10,2021-12-08 19:57:34+00:00,2020-12-23 18:34:45+00:00,"['Matan Rusanovsky', 'Hagit Attiya', 'Ohad Ben-Baruch', 'Tom Gerby', 'Danny Hendler', 'Pedro Ramalhete']",,,cs.DC,"['cs.DC', 'cs.OS']",2012.12868,4
+11,2022-01-05 23:57:48+00:00,2021-02-07 17:46:25+00:00,"['Dave Dice', 'Alex Kogan']",,,cs.DC,"['cs.DC', 'cs.OS', 'D.4.1']",2102.03863,4
+12,2021-02-08 20:07:02+00:00,2020-05-19 19:46:01+00:00,"['Samantha Miller', 'Kaiyuan Zhang', 'Mengqi Chen', 'Ryan Jennings', 'Ang Chen', 'Danyang Zhuo', 'Tom Anderson']",,,cs.OS,['cs.OS'],2005.09723,3
+13,2020-08-13 18:00:46+00:00,2020-02-16 05:51:41+00:00,"['Rakesh Rajan Beck', 'Abhishek Vijeev', 'Vinod Ganapathy']",,10.1145/3372297.3417858,cs.CR,"['cs.CR', 'cs.OS']",2002.06512,3
+14,2008-06-10 07:13:01+00:00,2008-05-30 07:01:51+00:00,"['Lamia Benmouffok', 'Jean-Michel Busca', 'Joan Manuel Marquès', 'Marc Shapiro', 'Pierre Sutra', 'Georgios Tsoukalas']",,,cs.OS,"['cs.OS', 'cs.DC']",0805.4680,3
+15,2016-03-12 18:13:31+00:00,2015-12-23 22:41:04+00:00,"['Eric Missimer', 'Katherine Zhao', 'Richard West']",,,cs.OS,['cs.OS'],1512.07654,3
+16,2022-01-14 09:12:31+00:00,2021-12-13 11:19:01+00:00,"['Hugo Lefeuvre', 'Vlad-Andrei Bădoiu', 'Alexander Jung', 'Stefan Teodorescu', 'Sebastian Rauch', 'Felipe Huici', 'Costin Raiciu', 'Pierre Olivier']",,,cs.OS,['cs.OS'],2112.06566,3
+17,2014-01-30 21:39:39+00:00,2013-12-13 20:53:39+00:00,"['Jiajun Cao', 'Gregory Kerr', 'Kapil Arya', 'Gene Cooperman']",,,cs.OS,"['cs.OS', 'cs.DC', 'D.0']",1312.3938,3
+18,2011-01-24 12:39:16+00:00,2010-01-25 08:09:27+00:00,"['Shelby Funk', 'Vincent Nelis', 'Joel Goossens', 'Dragomir Milojevic', 'Geoffrey Nelissen']",,,cs.OS,"['cs.OS', 'cs.DC']",1001.4115,3
+19,2019-12-26 05:58:49+00:00,2019-08-30 10:53:00+00:00,"['Shubhendra Pal Singhal', 'M. Sridevi', 'N Sathya Narayanan', 'M J Shankar Raman']",,,cs.OS,['cs.OS'],1908.11648,3
+20,2009-02-24 18:13:25+00:00,2007-01-06 11:36:50+00:00,"['Jason Ansel', 'Kapil Arya', 'Gene Cooperman']",,,cs.DC,"['cs.DC', 'cs.OS', 'D.4.5']",cs/0701037,3
+21,2022-09-06 11:10:37+00:00,2019-11-26 21:05:00+00:00,['Lei Liu'],,,cs.DC,"['cs.DC', 'cs.LG', 'cs.OS']",1911.13208,3
+22,2020-11-23 14:19:30+00:00,2020-09-03 18:30:02+00:00,"['Zahra Tarkhani', 'Anil Madhavapeddy']",,,cs.CR,"['cs.CR', 'cs.OS']",2009.01869,3
+23,2021-01-19 18:35:27+00:00,2020-07-14 02:16:56+00:00,"['Jayashree Mohan', 'Amar Phanishayee', 'Ashish Raniwala', 'Vijay Chidambaram']",,,cs.DC,"['cs.DC', 'cs.LG', 'cs.OS']",2007.06775,3
+24,2007-07-27 13:50:46+00:00,2007-06-26 12:36:37+00:00,"['Pierre Parrend', 'Stéphane Frénot']",,,cs.CR,"['cs.CR', 'cs.OS']",0706.3812,3
+25,2021-05-09 19:21:04+00:00,2020-08-27 00:20:00+00:00,"['HyunJong Lee', 'Shadi Noghabi', 'Brian Noble', 'Matthew Furlong', 'Landon P. Cox']",,,cs.DC,"['cs.DC', 'cs.OS']",2008.11868,3
+26,2022-08-21 21:00:41+00:00,2022-03-19 17:21:01+00:00,"['Philippos Papaphilippou', 'Myrtle Shah']",,,cs.AR,"['cs.AR', 'cs.OS']",2203.10359,3
+27,2020-04-09 16:32:50+00:00,2016-08-13 22:14:47+00:00,"['Zhiyong Shan', 'Xin Wang', 'Tzi-cker Chiueh', 'Rajiv Bagai']",,,cs.OS,['cs.OS'],1608.08051,3
+28,2022-09-17 01:52:44+00:00,2022-03-19 02:49:55+00:00,"['Xingda Wei', 'Fangming Lu', 'Tianxia Wang', 'Jinyu Gu', 'Yuhan Yang', 'Rong Chen', 'Haibo Chen']",,,cs.OS,"['cs.OS', 'cs.DC']",2203.10225,3
+29,2020-01-20 12:10:51+00:00,2019-08-29 10:25:37+00:00,"['Christian Priebe', 'Divya Muthukumaran', 'Joshua Lind', 'Huanzhou Zhu', 'Shujie Cui', 'Vasily A. Sartakov', 'Peter Pietzuch']",,,cs.OS,"['cs.OS', 'cs.CR']",1908.11143,3
+30,2018-11-22 17:40:49+00:00,2016-10-10 19:59:32+00:00,"['Lihao Liang', 'Paul E. McKenney', 'Daniel Kroening', 'Tom Melham']","Design, Automation and Test in Europe Conference (2018): 61-66",10.23919/DATE.2018.8341980,cs.LO,"['cs.LO', 'cs.DC', 'cs.OS', 'cs.SE', 'D.2.4; D.1.3']",1610.03052,3
+31,2016-09-23 07:13:59+00:00,2015-05-08 19:52:46+00:00,"['Jian-Jia Chen', 'Wen-Hung Huang', 'Cong Liu']",,,cs.DS,"['cs.DS', 'cs.OS']",1505.02155,3
+32,2022-03-04 16:51:28+00:00,2021-02-19 15:20:51+00:00,"['Maximilian Bachl', 'Joachim Fabini', 'Tanja Zseby']",,,cs.CR,"['cs.CR', 'cs.LG', 'cs.NI', 'cs.OS']",2102.09980,3
+33,2018-04-27 02:19:42+00:00,2017-12-23 08:44:28+00:00,"['Waqar Ali', 'Heechul Yun']",,,cs.PF,"['cs.PF', 'cs.OS']",1712.08738,3
+34,2021-10-12 01:19:49+00:00,2021-04-28 15:46:02+00:00,"['Tegg Taekyong Sung', 'Bo Ryu']",,,cs.OS,"['cs.OS', 'cs.DC']",2104.14354,3
+35,2015-09-14 21:25:55+00:00,2015-01-28 12:38:20+00:00,"['Jian-Jia Chen', 'Wen-Hung Huang', 'Cong Liu']",,,cs.OS,['cs.OS'],1501.07084,3
+36,2019-07-10 15:52:16+00:00,2018-10-03 00:56:10+00:00,"['David Dice', 'Alex Kogan']",,,cs.OS,"['cs.OS', 'D.1.3']",1810.01553,3
+37,2021-09-01 14:53:54+00:00,2021-01-14 21:38:57+00:00,"['Hongyu Miao', 'Felix Xiaozhu Lin']",,,cs.AR,"['cs.AR', 'cs.OS']",2101.08744,3
+38,2021-08-04 18:08:18+00:00,2020-11-02 15:48:20+00:00,"['Chen Chen', 'Wenshao Zhong', 'Xingbo Wu']",,,cs.OS,"['cs.OS', 'cs.DB', 'cs.DS', 'D.4.3; E.5']",2011.01024,3
+39,2021-09-25 14:32:13+00:00,2021-04-12 09:26:04+00:00,"['Chaos Dong', 'Fang Wang', 'Jianshun Zhang']",,,cs.OS,['cs.OS'],2104.05306,3
+40,2019-06-05 19:27:33+00:00,2018-11-12 21:00:23+00:00,"['Liwei Guo', 'Shuang Zhai', 'Yi Qiao', 'Felix Xiaozhu Lin']",,,cs.OS,['cs.OS'],1811.05000,3
+41,2022-07-06 10:10:41+00:00,2020-12-28 13:03:04+00:00,"['Hejing Li', 'Jialin Li', 'Antoine Kaufmann']",,10.1145/3544216.3544253,cs.DC,"['cs.DC', 'cs.NI', 'cs.OS']",2012.14219,3
+42,2004-10-12 05:43:58+00:00,2004-06-02 21:54:50+00:00,"['George Candea', 'Shinichi Kawamoto', 'Yuichi Fujiki', 'Greg Friedman', 'Armando Fox']","Proc. 6th Symposium on Operating Systems Design and Implementation
+  (OSDI), San Francisco, CA, Dec 2004",,cs.OS,"['cs.OS', 'cs.DC', 'D.4.0']",cs/0406005,3
+43,2017-05-23 19:00:17+00:00,2017-04-29 06:22:32+00:00,"['Monowar Hasan', 'Sibin Mohan', 'Rodolfo Pellizzoni', 'Rakesh B. Bobba']",,,cs.CR,"['cs.CR', 'cs.OS']",1705.00138,3
+44,2021-08-12 22:35:55+00:00,2021-06-07 13:43:05+00:00,"['Ricardo Macedo', 'Yusuke Tanimura', 'Jason Haga', 'Vijay Chidambaram', 'José Pereira', 'João Paulo']",,,cs.DC,"['cs.DC', 'cs.OS']",2106.03617,3
+45,2017-12-19 03:20:19+00:00,2017-12-11 18:49:08+00:00,"['Carlton Shepherd', 'Raja Naeem Akram', 'Konstantinos Markantonakis']",,,cs.CR,"['cs.CR', 'cs.OS']",1712.03943,3
+46,2013-06-27 06:04:17+00:00,2013-02-04 09:09:38+00:00,"['Chun-Ho Ng', 'Patrick P. C. Lee']",,,cs.DC,"['cs.DC', 'cs.OS']",1302.0621,3
+47,2019-08-20 18:53:28+00:00,2018-01-28 17:09:14+00:00,['Gregory Michael Price'],,,cs.OS,"['cs.OS', 'cs.CR']",1801.09250,3
+48,2020-02-12 10:51:12+00:00,2019-05-30 11:37:37+00:00,"['Anirban Chakraborty', 'Sarani Bhattacharya', 'Sayandeep Saha', 'Debdeep Mukhopadhyay']",,,cs.CR,"['cs.CR', 'cs.OS']",1905.12974,3
+49,2021-05-20 15:45:04+00:00,2020-11-03 17:40:36+00:00,['Butler Lampson'],,,cs.DC,"['cs.DC', 'cs.OS', 'cs.SE']",2011.02455,3
+50,2021-07-21 21:36:31+00:00,2020-05-06 01:07:29+00:00,"['Duo Zhang', 'Om Rameshwar Gatla', 'Runzhou Han', 'Mai Zheng']",,,cs.OS,['cs.OS'],2005.02547,2
+51,2020-06-16 08:32:14+00:00,2020-06-12 13:21:59+00:00,"['Mina Sedaghat', 'Pontus Sköldström', 'Daniel Turull', 'Vinay Yadhav', 'Joacim Halén', 'Madhubala Ganesan', 'Amardeep Mehta', 'Wolfgang John']",,,cs.DC,"['cs.DC', 'cs.MA', 'cs.OS', 'D.4.7; D.4.8; D.4.1; D.4.3; D.4.4; F.1.2']",2006.07163,2
+52,2012-02-17 20:40:00+00:00,2011-12-19 20:07:54+00:00,['Abhijat Vichare'],,,cs.OS,"['cs.OS', 'D.4.7']",1112.4451,2
+53,2022-06-20 12:42:32+00:00,2021-04-13 17:23:21+00:00,"['Junjie Shi', 'Jan Duy Thien Pham', 'Malte Münch', 'Jan Viktor Hafemeister', 'Jian-Jia Chen', 'Kuan-Hsun Chen']",,,cs.OS,['cs.OS'],2104.06366,2
+54,2012-06-02 15:56:26+00:00,2012-02-23 20:12:00+00:00,"['Mohammad Iftekhar Husain', 'Lokesh Mandvekar', 'Chunming Qiao', 'Ramalingam Sridhar']",,,cs.CR,"['cs.CR', 'cs.OS']",1202.5282,2
+55,2020-05-01 21:24:00+00:00,2020-03-10 22:51:16+00:00,"['Dave Dice', 'Alex Kogan']",,,cs.OS,['cs.OS'],2003.05025,2
+56,2020-04-08 17:05:35+00:00,2020-04-07 10:33:37+00:00,"['Christian Hakert', 'Kuan-Hsun Chen', 'Paul R. Genssler', 'Georg von der Brüggen', 'Lars Bauer', 'Hussam Amrouch', 'Jian-Jia Chen', 'Jörg Henkel']",,,cs.OS,"['cs.OS', 'cs.AR']",2004.03244,2
+57,2020-12-09 08:15:30+00:00,2020-11-24 11:46:00+00:00,"['Koen Zandberg', 'Emmanuel Baccelli']",In proceedings of IFIP/IEEE PEMWN 2020,,cs.NI,"['cs.NI', 'cs.OS']",2011.12047,2
+58,2021-08-16 16:24:21+00:00,2021-03-27 17:44:29+00:00,"['Bruno Sá', 'José Martins', 'Sandro Pinto']",,,cs.AR,"['cs.AR', 'cs.OS']",2103.14951,2
+59,2011-07-12 08:46:58+00:00,2011-07-11 11:51:06+00:00,"['Qi Guo', 'Yunji Chen', 'Tianshi chen', 'Ling Li']",,,cs.PL,"['cs.PL', 'cs.OS']",1107.2003,2
+60,2016-05-30 13:35:25+00:00,2015-04-27 13:08:26+00:00,"['Weiyi Wu', 'Bryan Ford']",,,cs.OS,['cs.OS'],1504.07070,2
+61,2021-12-12 11:14:22+00:00,2021-02-20 06:20:33+00:00,"['Zhi Zhang', 'Yueqiang Cheng', 'Minghua Wang', 'Wei He', 'Wenhao Wang', 'Nepal Surya', 'Yansong Gao', 'Kang Li', 'Zhe Wang', 'Chenggang Wu']",,,cs.CR,"['cs.CR', 'cs.OS', 'cs.SE']",2102.10269,2
+62,2021-04-22 08:57:18+00:00,2020-05-20 19:54:38+00:00,"['Mohammad Sina Karvandi', 'Saleh Khalaj Monfared', 'Mohammad Sina Kiarostami', 'Dara Rahmati', 'Saeid Gorgin']",,,cs.CR,"['cs.CR', 'cs.AR', 'cs.OS']",2005.10333,2
+63,2014-02-03 23:01:55+00:00,2013-12-23 19:19:40+00:00,"['Samaneh Kazemi Nafchi', 'Rohan Garg', 'Gene Cooperman']",,,cs.OS,"['cs.OS', 'D.4.5']",1312.6650,2
+64,2020-12-10 09:37:11+00:00,2020-10-29 13:44:58+00:00,"['Taichi Miya', 'Kohta Ohshima', 'Yoshiaki Kitaguchi', 'Katsunori Yamaoka']",,,cs.NI,"['cs.NI', 'cs.OS', 'cs.PF']",2010.15572,2
+65,2020-06-23 01:28:19+00:00,2020-06-22 10:37:40+00:00,"['Taeuk Kim', 'Safdar Jamil', 'Joongeon Park', 'Youngjae Kim']",,,cs.AR,"['cs.AR', 'cs.ET', 'cs.OS']",2006.12133,2
+66,2021-05-21 21:47:51+00:00,2020-11-30 18:03:28+00:00,"['Olivier Nicole', 'Matthieu Lemerre', 'Sébastien Bardin', 'Xavier Rival']",,10.1109/RTAS52030.2021.00011,cs.CR,"['cs.CR', 'cs.OS']",2011.15065,2
+67,2020-10-23 12:21:28+00:00,2020-09-15 11:15:25+00:00,"['Maksym Planeta', 'Jan Bierbaum', 'Leo Sahaya Daphne Antony', 'Torsten Hoefler', 'Hermann Härtig']",,,cs.OS,"['cs.OS', 'cs.DC', 'cs.NI']",2009.06988,2
+68,2021-06-20 00:16:47+00:00,2020-12-29 07:17:38+00:00,"['Chia-Chi Li', 'Vikram K. Ramanna', 'Daniel Webber', 'Cole Hunter', 'Tyler Hack', 'Behnam Dezfouli']",,,cs.NI,"['cs.NI', 'cs.OS', 'cs.PF']",2012.14635,2
+69,2016-09-22 10:38:29+00:00,2015-08-26 05:20:50+00:00,"['Piyus Kedia', 'Sorav Bansal']",,,cs.OS,['cs.OS'],1508.06367,2
+70,2020-03-19 02:43:49+00:00,2020-03-17 21:09:24+00:00,"['Soroush Bateni', 'Zhendong Wang', 'Yuankun Zhu', 'Yang Hu', 'Cong Liu']",,,cs.DC,"['cs.DC', 'cs.OS']",2003.07945,2
+71,2014-05-05 16:05:35+00:00,2013-12-12 22:38:08+00:00,"['David Isaac Wolinsky', 'Bryan Ford']",,,cs.OS,"['cs.OS', 'cs.CR']",1312.3665,2
+72,2020-06-22 13:11:11+00:00,2020-06-16 07:45:22+00:00,"['Jie Zhang', 'Miryeong Kwon', 'Sanghyun Han', 'Nam Sung Kim', 'Mahmut Kandemir', 'Myoungsoo Jung']",,,cs.OS,['cs.OS'],2006.08966,2
+73,2015-04-29 20:05:56+00:00,2015-04-17 21:13:07+00:00,"['Dave Dice', 'Tim Harris', 'Alex Kogan', 'Yossi Lev']",,,cs.OS,"['cs.OS', 'D.1.3']",1504.04640,2
+74,2022-04-13 07:10:20+00:00,2020-11-20 07:48:27+00:00,"['Tuo Li', 'Bradley Hopkins', 'Sri Parameswaran']",,,cs.CR,"['cs.CR', 'cs.AR', 'cs.OS']",2011.10249,2
+75,2021-03-04 16:14:42+00:00,2020-07-09 04:45:54+00:00,"['Yifan Yuan', 'Mohammad Alian', 'Yipeng Wang', 'Ilia Kurakin', 'Ren Wang', 'Charlie Tai', 'Nam Sung Kim']",,,cs.AR,"['cs.AR', 'cs.OS']",2007.04552,2
+76,2016-03-10 11:04:54+00:00,2015-12-07 11:16:43+00:00,"['Luca Abeni', 'Giuseppe Lipari', 'Andrea Parri', 'Youcheng Sun']",,,cs.OS,['cs.OS'],1512.01984,2
+77,2015-07-26 18:50:32+00:00,2015-06-09 08:30:23+00:00,"['Ludovic Courtès', 'Ricardo Wurmus']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.SE']",1506.02822,2
+78,2020-08-03 06:04:27+00:00,2020-06-12 11:18:04+00:00,"['Sahil Dhoked', 'Neeraj Mittal']",,,cs.DC,"['cs.DC', 'cs.DS', 'cs.OS']",2006.07086,2
+79,2018-10-15 23:38:53+00:00,2018-10-12 03:54:52+00:00,"['Qian Ge', 'Yuval Yarom', 'Tom Chothia', 'Gernot Heiser']",,,cs.OS,['cs.OS'],1810.05345,2
+80,2019-09-07 05:54:07+00:00,2019-07-23 20:24:19+00:00,"['Dayeol Lee', 'David Kohlbrenner', 'Shweta Shinde', 'Dawn Song', 'Krste Asanović']",,,cs.CR,"['cs.CR', 'cs.OS']",1907.10119,2
+81,2021-03-11 19:49:06+00:00,2020-05-01 11:57:22+00:00,"[""Daniele Cono D'Elia"", 'Simone Nicchi', 'Matteo Mariani', 'Matteo Marini', 'Federico Palmaro']",,,cs.CR,"['cs.CR', 'cs.OS', 'cs.SE']",2005.00323,2
+82,2018-08-25 05:50:43+00:00,2018-08-18 06:39:03+00:00,"['Thomas Pasquier', 'Xueyuan Han', 'Thomas Moyer', 'Adam Bates', 'Olivier Hermant', 'David Eyers', 'Jean Bacon', 'Margo Seltzer']",,,cs.CR,"['cs.CR', 'cs.OS']",1808.06049,2
+83,2006-08-01 07:04:20+00:00,2006-07-11 18:54:21+00:00,"['Pierre Parrend', 'Stéphane Frénot']",,,cs.CR,"['cs.CR', 'cs.OS']",cs/0607049,2
+84,2019-11-20 21:28:47+00:00,2019-03-05 17:35:03+00:00,"['Marcela S. Melara', 'David H. Liu', 'Michael J. Freedman']",,,cs.OS,['cs.OS'],1903.01950,2
+85,2023-03-09 07:23:25+00:00,2023-02-27 15:03:15+00:00,"['Jason Zhijingcheng Yu', 'Conrad Watt', 'Aditya Badole', 'Trevor E. Carlson', 'Prateek Saxena']",,,cs.CR,"['cs.CR', 'cs.AR', 'cs.OS']",2302.13863,2
+86,2017-07-18 05:17:14+00:00,2017-07-17 10:38:13+00:00,"['Yue Chen', 'Yulong Zhang', 'Zhi Wang', 'Tao Wei']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.4.6']",1707.05082,2
+87,2020-12-14 19:15:42+00:00,2019-04-11 08:20:07+00:00,"['René Mayrhofer', 'Jeffrey Vander Stoep', 'Chad Brubaker', 'Nick Kralevich']",,,cs.CR,"['cs.CR', 'cs.OS']",1904.05572,2
+88,2023-01-12 12:10:34+00:00,2023-01-07 18:35:08+00:00,"['Robert Schilling', 'Pascal Nasahl', 'Martin Unterguggenberger', 'Stefan Mangard']",,,cs.CR,"['cs.CR', 'cs.OS']",2301.02915,2
+89,2019-07-15 09:50:24+00:00,2019-06-26 06:16:13+00:00,['Adam Lev-Libfeld'],,,cs.DS,"['cs.DS', 'cs.DC', 'cs.NI', 'cs.OS']",1906.10860,2
+90,2017-06-23 02:43:41+00:00,2017-04-19 03:30:09+00:00,"['Le Guan', 'Peng Liu', 'Xinyu Xing', 'Xinyang Ge', 'Shengzhi Zhang', 'Meng Yu', 'Trent Jaeger']",,10.1145/3081333.3081349,cs.CR,"['cs.CR', 'cs.OS']",1704.05600,2
+91,2023-03-23 20:27:09+00:00,2023-03-20 15:17:21+00:00,"['José Martins', 'Sandro Pinto']",,,cs.OS,['cs.OS'],2303.11186,2
+92,2020-06-18 01:55:53+00:00,2019-07-30 22:07:59+00:00,"['Marcela S. Melara', 'Michael J. Freedman', 'Mic Bowman']",,,cs.CR,"['cs.CR', 'cs.OS']",1907.13245,2
+93,2019-06-26 15:24:10+00:00,2019-06-24 09:11:18+00:00,"['Julien Amacher', 'Valerio Schiavoni']",,10.1007/978-3-030-22496-7_9,cs.OS,"['cs.OS', 'cs.PF']",1906.09799,2
+94,2018-06-11 14:25:54+00:00,2018-06-05 10:03:40+00:00,"['Paolo Torroni', 'Zeynep Kiziltan', 'Eugenio Faldella']",,,cs.OS,['cs.OS'],1806.01589,2
+95,2019-06-05 20:52:44+00:00,2018-08-02 21:21:50+00:00,"['Heejin Park', 'Shuang Zhai', 'Long Lu', 'Felix Xiaozhu Lin']",,,cs.CR,"['cs.CR', 'cs.DC', 'cs.OS']",1808.05078,2
+96,2019-01-15 01:47:04+00:00,2018-06-02 18:05:28+00:00,"['Anuj Kalia', 'Michael Kaminsky', 'David G. Andersen']",,,cs.OS,['cs.OS'],1806.00680,2
+97,2018-12-01 04:45:49+00:00,2018-11-24 08:54:38+00:00,"['Rafael Roman Otero', 'Alex Aravind']",,,cs.OS,['cs.OS'],1811.09792,2
+98,2020-02-11 08:51:14+00:00,2020-01-16 11:40:57+00:00,"['Mario Günzel', 'Jian-Jia Chen']",,,cs.OS,['cs.OS'],2001.05747,2
+99,2015-04-13 13:39:37+00:00,2015-04-09 23:17:01+00:00,"['Tuhin Borgohain', 'Uday Kumar', 'Sugata Sanyal']",,,cs.OS,['cs.OS'],1504.02517,2
+100,2019-09-08 15:33:45+00:00,2019-01-30 04:10:01+00:00,"['Paul Emmerich', 'Maximilian Pudelko', 'Simon Bauer', 'Stefan Huber', 'Thomas Zwickl', 'Georg Carle']",,,cs.NI,"['cs.NI', 'cs.OS']",1901.10664,2
+101,2019-01-03 20:36:43+00:00,2018-08-30 03:09:40+00:00,"['Immanuel Amirtharaj', 'Tai Groot', 'Behnam Dezfouli']",,,cs.OS,"['cs.OS', 'cs.DC', 'cs.NI', 'cs.PF']",1808.10097,2
+102,2017-09-25 16:10:02+00:00,2017-09-08 15:29:17+00:00,"['Sam Silvestro', 'Hongyu Liu', 'Corey Crosser', 'Zhiqiang Lin', 'Tongping Liu']",,10.1145/3133956.3133957,cs.OS,"['cs.OS', 'cs.CR']",1709.02746,2
+103,2020-03-14 14:58:13+00:00,2019-11-27 03:52:34+00:00,"['Monowar Hasan', 'Sibin Mohan', 'Rodolfo Pellizzoni', 'Rakesh B. Bobba']",,,cs.OS,"['cs.OS', 'cs.CR']",1911.11937,2
+104,2017-05-24 20:48:00+00:00,2017-05-19 12:48:50+00:00,"['Ján Veselý', 'Arkaprava Basu', 'Abhishek Bhattacharjee', 'Gabriel Loh', 'Mark Oskin', 'Steven K. Reinhardt']",,,cs.OS,"['cs.OS', 'D.4.4; D.4.7']",1705.06965,2
+105,2020-03-23 20:52:02+00:00,2019-08-19 13:55:44+00:00,"['Ahmad Golchin', 'Soham Sinha', 'Richard West']",,,cs.OS,"['cs.OS', 'D.4.0; D.4.7; D.4.4']",1908.06807,2
+106,2018-11-29 22:55:38+00:00,2018-02-20 11:08:31+00:00,"['Zhi Zhang', 'Yueqiang Cheng', 'Surya Nepal', 'Dongxi Liu', 'Qingni Shen', 'Fethi Rabhi']",,10.1007/978-3-030-00470-5_32,cs.CR,"['cs.CR', 'cs.OS']",1802.07062,2
+107,2017-11-08 19:08:26+00:00,2017-11-07 05:41:15+00:00,"['Dinesh Subhraveti', 'Sri Goli', 'Serge Hallyn', 'Ravi Chamarthy', 'Christos Kozyrakis']",,,cs.NI,"['cs.NI', 'cs.OS']",1711.02294,2
+108,2019-07-11 23:15:30+00:00,2019-05-26 15:38:30+00:00,"['Dave Dice', 'Alex Kogan']",,,cs.OS,['cs.OS'],1905.10818,2
+109,2021-05-31 15:53:06+00:00,2019-08-17 00:24:07+00:00,"['Soham Sinha', 'Richard West', 'Ahmad Golchin']",,10.4230/LIPIcs.ECRTS.2020.3,cs.OS,"['cs.OS', 'C.3; D.4.7; D.4.1']",1908.06211,2
+110,2022-03-15 15:50:04+00:00,2021-10-15 18:22:10+00:00,"['Liwei Guo', 'Felix Xiaozhu Lin']",,10.1145/3492321.3519565,cs.OS,"['cs.OS', 'cs.CR']",2110.08303,2
+111,2020-06-12 09:57:12+00:00,2019-12-22 00:58:54+00:00,"['Gauthier Voron', 'Vincent Gramoli']",,,cs.CR,"['cs.CR', 'cs.DC', 'cs.OS']",1912.10367,2
+112,2000-06-13 22:07:28+00:00,2000-06-08 17:02:51+00:00,['Neil J. Gunther'],,,cs.PF,"['cs.PF', 'cs.OS', 'C.4;D.4.1;D.4.8']",cs/0006015,2
+113,2005-01-09 19:07:05+00:00,2004-10-04 14:49:00+00:00,['Ignatios Souvatzis'],"Proceedings of the 2nd European BSD Conference, 2002, Amsterdam,
+  The Netherlands",,cs.OS,"['cs.OS', 'cs.DC', 'C.2.4; D.4.7']",cs/0410007,2
+114,2020-10-12 06:33:43+00:00,2019-12-23 07:58:04+00:00,"['Yutian Yang', 'Songbo Zhu', 'Wenbo Shen', 'Yajin Zhou', 'Jiadong Sun', 'Kui Ren']",,,cs.CR,"['cs.CR', 'cs.OS']",1912.10666,2
+115,2020-02-27 19:48:02+00:00,2019-12-23 16:36:23+00:00,"['Waqar Ali', 'Rodolfo Pellizzoni', 'Heechul Yun']",,,cs.OS,"['cs.OS', 'cs.DC']",1912.10959,2
+116,2016-09-28 09:17:05+00:00,2016-09-27 12:21:02+00:00,"['Kevin Elphinstone', 'Amirreza Zarrabi', 'Adrian Danis', 'Yanyan Shen', 'Gernot Heiser']",,,cs.OS,"['cs.OS', 'D.4.1; D.4.7; D.4.8']",1609.08372,2
+117,2016-09-03 22:40:31+00:00,2016-09-01 03:45:39+00:00,['Zhiyong Shan'],,,cs.CR,"['cs.CR', 'cs.OS']",1609.00100,2
+118,2022-10-21 03:50:58+00:00,2022-03-15 22:03:23+00:00,"['Zhihao Yao', 'Seyed Mohammadjavad Seyed Talebi', 'Mingyi Chen', 'Ardalan Amiri Sani', 'Thomas Anderson']",,,cs.CR,"['cs.CR', 'cs.AR', 'cs.OS']",2203.08284,2
+119,2021-09-03 12:47:12+00:00,2021-05-14 14:08:10+00:00,"['Rémi Dulong', 'Rafael Pires', 'Andreia Correia', 'Valerio Schiavoni', 'Pedro Ramalhete', 'Pascal Felber', 'Gaël Thomas']",,10.1109/DSN48987.2021.00033,cs.DC,"['cs.DC', 'cs.AR', 'cs.OS', '68M20', 'D.4.2; D.4.3; D.4.8']",2105.10397,2
+120,2015-12-03 10:38:11+00:00,2015-12-02 15:05:46+00:00,"['Gil Einziger', 'Roy Friedman', 'Ben Manes']",,,cs.OS,['cs.OS'],1512.00727,2
+121,2020-06-02 02:54:13+00:00,2019-10-07 02:13:19+00:00,"['Thomas E. Anderson', 'Marco Canini', 'Jongyul Kim', 'Dejan Kostić', 'Youngjin Kwon', 'Simon Peter', 'Waleed Reda', 'Henry N. Schuh', 'Emmett Witchel']",,,cs.DC,"['cs.DC', 'cs.OS']",1910.05106,2
+122,2017-08-21 20:09:02+00:00,2016-12-01 17:45:18+00:00,"['Javier Picorel', 'Djordje Jevdjic', 'Babak Falsafi']",,,cs.AR,"['cs.AR', 'cs.OS']",1612.00445,2
+123,2010-02-01 16:27:48+00:00,2009-12-04 20:10:12+00:00,"['Amittai Aviram', 'Bryan Ford']",,,cs.OS,"['cs.OS', 'C.1.4; D.1.3; D.3.3']",0912.0926,2
+124,2021-06-27 23:34:25+00:00,2019-09-11 20:47:58+00:00,"['Ayoosh Bansal', 'Jayati Singh', 'Yifan Hao', 'Jen-Yang Wen', 'Renato Mancuso', 'Marco Caccamo']","2020 9th Mediterranean Conference on Embedded Computing (MECO),
+  2020, pp. 1-6",10.1109/MECO49872.2020.9134262,cs.DC,"['cs.DC', 'cs.OS', 'C.0; C.3; C.4; D.4.7; J.7']",1909.05349,2
+125,2020-03-01 20:05:26+00:00,2019-09-16 02:09:58+00:00,"['Sisheng Liang', 'Zhou Yang', 'Fang Jin', 'Yong Chen']",,,cs.OS,"['cs.OS', 'cs.LG', 'cs.SY', 'eess.SY']",1909.07820,2
+126,2019-01-10 12:39:27+00:00,2018-01-17 12:28:30+00:00,"['Nikolas Ioannou', 'Kornilios Kourtis', 'Ioannis Koltsidas']",,10.1109/MASCOTS.2018.00035,cs.OS,['cs.OS'],1801.05637,2
+127,2022-01-26 01:45:24+00:00,2021-11-22 21:59:50+00:00,"['Ibrahim Umit Akgun', 'Ali Selman Aydin', 'Andrew Burford', 'Michael McNeill', 'Michael Arkhangelskiy', 'Aadil Shaikh', 'Lukas Velikov', 'Erez Zadok']",,,cs.OS,"['cs.OS', 'cs.LG']",2111.11554,2
+128,2010-09-26 01:40:36+00:00,2010-09-16 04:43:46+00:00,"['Byung-Gon Chun', 'Sunghwan Ihm', 'Petros Maniatis', 'Mayur Naik']",,,cs.DC,"['cs.DC', 'cs.OS', 'C.2.4']",1009.3088,2
+129,2022-09-02 15:26:13+00:00,2022-05-29 09:19:27+00:00,"['Mohammad Sina Karvandi', 'MohammadHossein Gholamrezaei', 'Saleh Khalaj Monfared', 'Soroush Meghdadizanjani', 'Behrooz Abbassi', 'Ali Amini', 'Reza Mortazavi', 'Saeid Gorgin', 'Dara Rahmati', 'Michael Schwarz']",,,cs.CR,"['cs.CR', 'cs.AR', 'cs.OS']",2207.05676,2
+130,2010-03-09 13:02:01+00:00,2010-03-05 20:34:44+00:00,"['Peter Fornai', 'Antal Ivanyi']","Acta Univ. Sapientiae, Informatica, 2,1 (2010) 80-89",,cs.OS,"['cs.OS', 'G.2.2']",1003.1336,2
+131,2019-04-29 04:32:16+00:00,2016-11-23 16:23:40+00:00,"['Bobby Powers', 'John Vilk', 'Emery D. Berger']",ASPLOS 2017,10.1145/3037697.3037727,cs.OS,"['cs.OS', 'cs.PL']",1611.07862,2
+132,2021-05-23 18:41:00+00:00,2021-05-18 18:35:40+00:00,"['Gil Einziger', 'Ohad Eytan', 'Roy Friedman', 'Benjamin Manes']",,,cs.OS,"['cs.OS', 'cs.DB']",2105.08770,2
+133,2010-07-25 15:40:38+00:00,2010-03-27 14:44:01+00:00,"['Amittai Aviram', 'Sen Hu', 'Bryan Ford', 'Ramakrishna Gummadi']",,,cs.OS,"['cs.OS', 'cs.CR']",1003.5303,2
+134,2016-06-02 05:32:46+00:00,2016-06-01 04:29:58+00:00,"['Anna Lyons', 'Gernot Heiser']",,,cs.OS,['cs.OS'],1606.00111,2
+135,2022-06-24 09:55:17+00:00,2022-02-11 16:08:43+00:00,"['Vasily A. Sartakov', 'Lluís Vilanova', 'David Eyers', 'Takahiro Shinagawa', 'Peter Pietzuch']",,,cs.OS,['cs.OS'],2202.05732,2
+136,2019-10-01 18:15:48+00:00,2019-09-25 17:44:55+00:00,"['Reza Fotohi', 'Mehdi Effatparvar', 'Fateme Sarkohaki', 'Shahram Behzad', 'Jaber Hoseini balov']","2012, Volume 6, Issue 12, pp 379-384",,cs.OS,['cs.OS'],1909.11644,2
+137,2021-05-18 10:40:07+00:00,2021-05-12 11:09:47+00:00,"['Jan Staschulat', 'Ralph Lange', 'Dakshina Narahari Dasari']",,,cs.RO,"['cs.RO', 'cs.OS']",2105.05590,2
+138,2022-09-22 06:33:47+00:00,2022-04-15 14:42:24+00:00,"['Jingmei Hu', 'Eric Lu', 'David A. Holland', 'Ming Kawaguchi', 'Stephen Chong', 'Margo I. Seltzer']",,10.1145/3563943,cs.PL,"['cs.PL', 'cs.OS']",2204.07167,2
+139,2019-11-08 06:36:11+00:00,2019-10-11 20:26:14+00:00,"['Reto Achermann', 'Ashish Panwar', 'Abhishek Bhattacharjee', 'Timothy Roscoe', 'Jayneel Gandhi']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.PF']",1910.05398,2
+140,2022-07-09 11:21:18+00:00,2021-11-30 09:49:32+00:00,"['Antonio Paolillo', 'Hernán Ponce-de-León', 'Thomas Haas', 'Diogo Behrens', 'Rafael Chehab', 'Ming Fu', 'Roland Meyer']",,,cs.OS,['cs.OS'],2111.15240,2
+141,2022-12-06 15:27:44+00:00,2022-09-04 14:55:41+00:00,"['Felix Schuhknecht', 'Justus Henneberg']",,,cs.DB,"['cs.DB', 'cs.OS']",2209.01635,2
+142,2022-09-05 15:34:47+00:00,2022-03-25 23:28:43+00:00,"['Michael Jones', 'Jeremy Kepner', 'Daniel Andersen', 'Aydin Buluc', 'Chansup Byun', 'K Claffy', 'Timothy Davis', 'William Arcand', 'Jonathan Bernays', 'David Bestor', 'William Bergeron', 'Vijay Gadepally', 'Micheal Houle', 'Matthew Hubbell', 'Hayden Jananthan', 'Anna Klein', 'Chad Meiners', 'Lauren Milechin', 'Julie Mullen', 'Sandeep Pisharody', 'Andrew Prout', 'Albert Reuther', 'Antonio Rosa', 'Siddharth Samsi', 'Jon Sreekanth', 'Doug Stetson', 'Charles Yee', 'Peter Michaleas']",,10.1109/HPEC55821.2022.9926332,cs.NI,"['cs.NI', 'cs.DC', 'cs.OS', 'cs.SI']",2203.13934,2
+143,2022-10-27 22:31:58+00:00,2021-06-23 23:44:27+00:00,"['Sam Kumar', 'David E. Culler', 'Raluca Ada Popa']",,,cs.OS,"['cs.OS', 'cs.CR']",2106.14651,2
+144,2022-03-23 17:28:48+00:00,2022-03-09 17:44:56+00:00,"['Zaid Qureshi', 'Vikram Sharma Mailthody', 'Isaac Gelado', 'Seung Won Min', 'Amna Masood', 'Jeongmin Park', 'Jinjun Xiong', 'CJ Newburn', 'Dmitri Vainbrand', 'I-Hsin Chung', 'Michael Garland', 'William Dally', 'Wen-mei Hwu']",,,cs.DC,"['cs.DC', 'cs.AR', 'cs.OS', 'cs.PF']",2203.04910,2
+145,2022-10-04 12:18:24+00:00,2021-10-12 18:08:38+00:00,['Roberto Natella'],"Empir Software Eng 27, 191 (2022)",10.1007/s10664-022-10233-3,cs.CR,"['cs.CR', 'cs.OS', 'cs.SE']",2110.06253,2
+146,2008-04-07 07:55:38+00:00,2008-03-30 09:26:38+00:00,"['Vandy Berten', 'Chi-Ju Chang', 'Tei-Wei Kuo']",,,cs.OS,['cs.OS'],0803.4308,2
+147,2019-03-01 05:13:22+00:00,2018-10-12 16:42:49+00:00,"['Dave Dice', 'Alex Kogan']",,,cs.OS,"['cs.OS', 'D.4.1; D.1.3']",1810.05600,2
+148,2022-05-30 11:36:09+00:00,2022-05-22 20:50:20+00:00,"['Alain Tchana', 'Raphael Colin', 'Adrien Le Berre', 'Vincent Berger', 'Benoit Combemale', 'Natacha Crooks', 'Ludovic Pailler']",,,cs.OS,"['cs.OS', 'cs.CR']",2205.10929,2
+149,2013-07-05 14:09:11+00:00,2007-01-04 09:45:28+00:00,['Franco Milicchio'],,,cs.OS,"['cs.OS', 'cs.GL']",cs/0701021,2
+150,2022-09-07 03:57:32+00:00,2022-09-04 23:38:25+00:00,"['Yuqi Fu', 'Li Liu', 'Haoliang Wang', 'Yue Cheng', 'Songqing Chen']",,,cs.OS,['cs.OS'],2209.01709,2
+151,2022-08-31 15:42:00+00:00,2022-05-18 12:12:05+00:00,"['Marco Spaziani Brunella', 'Marco Bonola', 'Animesh Trivedi']",,,cs.AR,"['cs.AR', 'cs.DC', 'cs.OS', 'cs.PL', 'C.5; D.3; D.4; B.4']",2205.08882,2
+152,2022-10-07 02:42:58+00:00,2022-05-16 07:04:11+00:00,"['Chen-Kai Lin', 'Bow-Yaw Wang']",,,cs.FL,"['cs.FL', 'cs.OS']",2205.07480,2
+153,2007-06-20 07:31:38+00:00,2007-06-19 09:44:36+00:00,"['Yvan Royon', 'Stéphane Frénot']",,,cs.OS,['cs.OS'],0706.2748,2
+154,2008-05-08 02:55:57+00:00,2008-03-21 21:28:16+00:00,"['Avik Chaudhuri', 'Prasad Naldurg', 'Sriram Rajamani']",,,cs.CR,"['cs.CR', 'cs.OS', 'cs.PL', 'D.4.6; D.2.4; F.3.1']",0803.3230,2
+155,2021-11-03 16:56:49+00:00,2021-06-10 10:54:29+00:00,"['Koen Zandberg', 'Emmanuel Baccelli']",,,cs.SE,"['cs.SE', 'cs.NI', 'cs.OS']",2106.12553,2
+156,2015-04-12 14:14:00+00:00,2006-12-16 21:37:00+00:00,['Steffen Grønneberg'],,,cs.OS,['cs.OS'],cs/0612079,2
+157,2011-09-07 13:42:51+00:00,2011-05-25 15:02:01+00:00,"['Markus Lindström', 'Gilles Geeraerts', 'Joël Goossens']",,,cs.OS,"['cs.OS', 'cs.FL']",1105.5055,2
+158,2022-10-12 05:50:01+00:00,2022-03-17 21:06:15+00:00,"['Chenxi Wang', 'Yifan Qiao', 'Haoran Ma', 'Shi Liu', 'Yiying Zhang', 'Wenguang Chen', 'Ravi Netravali', 'Miryung Kim', 'Guoqing Harry Xu']",,,cs.OS,"['cs.OS', 'cs.DC', 'cs.NI']",2203.09615,2
+159,2015-10-18 04:50:29+00:00,2015-08-26 03:43:38+00:00,"['Yan Cui', 'Quan Chen', 'Junfeng Yang']",,,cs.OS,['cs.OS'],1508.06356,2
+160,2010-12-20 22:16:29+00:00,2010-12-13 18:47:10+00:00,"['Mian Dong', 'Lin Zhong']",,,cs.OS,['cs.OS'],1012.2831,2
+161,2017-12-22 02:53:24+00:00,2017-12-21 01:26:15+00:00,"['Vyacheslav Dubeyko', 'Cyril Guyot', 'Luis Cargnini', 'Adam Manzanares']",,,cs.OS,['cs.OS'],1712.07759,2
+162,2023-03-01 03:40:50+00:00,2023-02-28 08:50:03+00:00,"['Yihan Yang', 'Zhuobin Huang', 'Antoine Kaufmann', 'Jialin Li']",,,cs.OS,['cs.OS'],2302.14417,2
+163,2022-03-13 19:04:02+00:00,2021-10-21 06:19:31+00:00,"['Rajath Shashidhara', 'Timothy Stamler', 'Antoine Kaufmann', 'Simon Peter']",,,cs.NI,"['cs.NI', 'cs.OS']",2110.10919,2
+164,2015-11-12 12:16:11+00:00,2015-10-19 16:26:47+00:00,"['Mason Thammawichai', 'Eric C. Kerrigan']",,,cs.OS,"['cs.OS', 'cs.SY', 'math.OC']",1510.05567,2
+165,2016-09-24 01:49:03+00:00,2016-07-27 07:46:13+00:00,"['Jiajun Cao', 'Kapil Arya', 'Rohan Garg', 'Shawn Matott', 'Dhabaleswar K. Panda', 'Hari Subramoni', 'Jérôme Vienne', 'Gene Cooperman']",,,cs.DC,"['cs.DC', 'cs.OS', 'C.4; D.1.3; D.2.11']",1607.07995,2
+166,2008-03-10 16:10:50+00:00,2007-12-18 13:42:45+00:00,"['Vincent Nélis', 'Joël Goossens', 'Nicolas Navet', 'Raymond Devillers', 'Dragomir Milojevic']",,,cs.OS,['cs.OS'],0712.2958,2
+167,2022-05-24 18:57:20+00:00,2022-05-22 23:55:23+00:00,"['Liwei Guo', 'Kaiyang Zhao', 'Yiying Zhang', 'Felix Xiaozhu Lin']",,,cs.CR,"['cs.CR', 'cs.OS']",2205.10963,2
+168,2008-09-08 09:22:24+00:00,2008-05-02 09:32:03+00:00,['Joël Goossens'],,,cs.OS,['cs.OS'],0805.0200,2
+169,2019-08-28 14:15:21+00:00,2019-08-28 14:15:21+00:00,"['Youmin Chen', 'Youyou Lu', 'Bohong Zhu', 'Jiwu Shu']",,,cs.OS,['cs.OS'],1908.10740,1
+170,2019-01-04 23:10:05+00:00,2019-01-04 23:10:05+00:00,['Viacheslav Dubeyko'],,,cs.OS,['cs.OS'],1901.01340,1
+171,2019-07-07 22:26:02+00:00,2019-07-07 22:26:02+00:00,"['Petr Ročkai', 'Zuzana Baranová', 'Jan Mrázek', 'Katarína Kejstová', 'Jiří Barnat']",,,cs.OS,['cs.OS'],1907.03356,1
+172,2019-08-03 13:16:51+00:00,2019-08-03 13:16:51+00:00,"['Amar Ranjan Dash', 'Sandipta Kumar Sahu', 'B Kewal']","International Journal of Computer Science, Engineering and
+  Applications (IJCSEA), AIRCC, 2019, Vol. 9(3), pp 1-21, DOI
+  :10.5012/ijcsea.2019.9301",10.5012/ijcsea.2019.9301,cs.OS,"['cs.OS', 'cs.DS']",1908.01167,1
+173,2019-08-26 21:04:37+00:00,2019-08-26 21:04:37+00:00,"['Rajat Kateja', 'Nathan Beckmann', 'Gregory R. Ganger']",,,cs.AR,"['cs.AR', 'cs.OS']",1908.09922,1
+174,2019-08-20 04:22:58+00:00,2019-08-20 04:22:58+00:00,"['Dongxu Ji', 'Qianying Zhang', 'Shijun Zhao', 'Zhiping Shi', 'Yong Guan']",,10.1109/TrustCom/BigDataSE.2019.00014,cs.CR,"['cs.CR', 'cs.OS']",1908.07159,1
+175,2019-09-23 02:03:13+00:00,2019-09-23 02:03:13+00:00,"['Rohan Kadekodi', 'Se Kwon Lee', 'Sanidhya Kashyap', 'Taesoo Kim', 'Aasheesh Kolli', 'Vijay Chidambaram']",,10.1145/3341301.3359631,cs.OS,"['cs.OS', 'cs.PF']",1909.10123,1
+176,2021-04-19 17:46:29+00:00,2021-04-19 17:46:29+00:00,"['Mayank Goel', 'Gourav Singal']",,,cs.OS,"['cs.OS', 'cs.AR']",2104.09487,1
+177,2022-06-11 21:18:16+00:00,2022-06-11 21:18:16+00:00,"['Gunnar Kudrjavets', 'Jeff Thomas', 'Nachiappan Nagappan', 'Ayushi Rastogi']",,,cs.SE,"['cs.SE', 'cs.OS']",2206.05616,1
+178,2019-09-23 14:10:16+00:00,2019-09-23 14:10:16+00:00,"['Shesha Sreenivasamurthy', 'Ethan Miller']",,,cs.OS,['cs.OS'],1909.10377,1
+179,2022-06-25 23:56:45+00:00,2022-06-25 23:56:45+00:00,"['Mariana Villarim', 'João Marcos Costa', 'Diomadson Belfort']",,,cs.OS,['cs.OS'],2206.12751,1
+180,2019-09-20 16:26:25+00:00,2019-09-20 16:26:25+00:00,['Björn B. Brandenburg'],,,cs.DC,"['cs.DC', 'cs.OS']",1909.09600,1
+181,2019-10-03 15:48:44+00:00,2019-10-03 15:48:44+00:00,"['James Cadden', 'Thomas Unger', 'Yara Awad', 'Han Dong', 'Orran Krieger', 'Jonathan Appavoo']",,,cs.OS,['cs.OS'],1910.01558,1
+182,2021-03-16 08:46:59+00:00,2021-03-16 08:46:59+00:00,"['Sandeep Kumar', 'Aravinda Prasad', 'Smruti R. Sarangi', 'Sreenivas Subramoney']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2103.10779,1
+183,2022-10-06 11:25:05+00:00,2022-10-06 11:25:05+00:00,"['Denis Pogonin', 'Igor Korkin']",,,cs.CR,"['cs.CR', 'cs.OS']",2210.02821,1
+184,2019-10-03 09:28:35+00:00,2019-10-03 09:28:35+00:00,"['Shreshth Tuli', 'Shikhar Tuli', 'Udit Jain', 'Rajkumar Buyya']","Proceedings of the 11th IEEE International Conference on Cloud
+  Computing, Sydney, Australia, December 11-13, 2019",,cs.OS,['cs.OS'],1910.01642,1
+185,2019-08-23 08:00:38+00:00,2019-08-23 08:00:38+00:00,"['Reto Achermann', 'Nora Hossle', 'Lukas Humbel', 'Daniel Schwyn', 'David Cock', 'Timothy Roscoe']",,,cs.OS,['cs.OS'],1908.08707,1
+186,2021-02-04 21:56:28+00:00,2021-02-04 21:56:28+00:00,"['Marc Brooker', 'Adrian Costin Catangiu', 'Mike Danilov', 'Alexander Graf', 'Colm MacCarthaigh', 'Andrei Sandu']",,,cs.CR,"['cs.CR', 'cs.DC', 'cs.OS']",2102.12892,1
+187,2019-09-20 02:08:24+00:00,2019-09-20 02:08:24+00:00,"['Christopher Jelesnianski', 'Jinwoo Yom', 'Changwoo Min', 'Yeongjin Jang']",,,cs.CR,"['cs.CR', 'cs.OS']",1909.09294,1
+188,2019-09-09 14:49:00+00:00,2019-09-09 14:49:00+00:00,"['Jie Gao', 'Lian Zhao', 'Xuemin', 'Shen']",,,cs.OS,"['cs.OS', 'cs.NI']",1909.04658,1
+189,2019-09-04 14:39:47+00:00,2019-09-04 14:39:47+00:00,"['Adarsha Balaji', 'Anup Das', 'Yuefeng Wu', 'Khanh Huynh', ""Francesco Dell'Anna"", 'Giacomo Indiveri', 'Jeffrey L. Krichmar', 'Nikil Dutt', 'Siebren Schaafsma', 'Francky Catthoor']",,,cs.ET,"['cs.ET', 'cs.LG', 'cs.OS']",1909.01843,1
+190,2022-05-06 15:56:40+00:00,2022-05-06 15:56:40+00:00,"['Mathias Brossard', 'Guilhem Bryant', 'Basma El Gaabouri', 'Xinxin Fan', 'Alexandre Ferreira', 'Edmund Grimley-Evans', 'Christopher Haster', 'Evan Johnson', 'Derek Miller', 'Fan Mo', 'Dominic P. Mulligan', 'Nick Spinale', 'Eric van Hensbergen', 'Hugo J. M. Vincent', 'Shale Xiong']",,,cs.CR,"['cs.CR', 'cs.OS', 'cs.PL']",2205.03322,1
+191,2022-04-12 20:03:47+00:00,2022-04-12 20:03:47+00:00,"['Hayley LeBlanc', 'Shankara Pailoor', 'Isil Dillig', 'James Bornholt', 'Vijay Chidambaram']",,,cs.OS,"['cs.OS', 'cs.SE']",2204.06066,1
+192,2019-08-09 21:33:33+00:00,2019-08-09 21:33:33+00:00,"['Wei Zhou', 'Le Guan', 'Peng Liu', 'Yuqing Zhang']",,,cs.CR,"['cs.CR', 'cs.OS']",1908.03638,1
+193,2022-06-27 15:28:44+00:00,2022-06-27 15:28:44+00:00,"['Ohad Eytan', 'Roy Friedman']",,,cs.OS,['cs.OS'],2206.13367,1
+194,2021-01-23 21:08:25+00:00,2021-01-23 21:08:25+00:00,"['Diyu Zhou', 'Yuval Tamir']",,,cs.DC,"['cs.DC', 'cs.OS']",2101.09584,1
+195,2021-12-07 17:07:53+00:00,2021-12-07 17:07:53+00:00,['Ludovic Courtès'],"1024 : Bulletin de la Soci{\'e}t{\'e} Informatique de France,
+  Soci{\'e}t{\'e} Informatique de France, 2021, pp.15-22",10.48556/SIF.1024.18.15,cs.SE,"['cs.SE', 'cs.OS']",2112.04384,1
+196,2019-06-29 19:59:21+00:00,2019-06-29 19:59:21+00:00,"['Kartik Hegde', 'Abhishek Srivastava', 'Rohit Agrawal']",,,cs.OS,"['cs.OS', 'cs.AR']",1907.00271,1
+197,2022-06-09 13:47:18+00:00,2022-06-09 13:47:18+00:00,"['Ruxandra Bălucea', 'Paul Irofti']",,,cs.CR,"['cs.CR', 'cs.OS']",2206.04507,1
+198,2022-07-15 18:17:48+00:00,2022-07-15 18:17:48+00:00,"['Christopher Branner-Augmon', 'Narek Galstyan', 'Sam Kumar', 'Emmanuel Amaro', 'Amy Ousterhout', 'Aurojit Panda', 'Sylvia Ratnasamy', 'Scott Shenker']",,,cs.OS,['cs.OS'],2207.07688,1
+199,2021-08-09 17:12:10+00:00,2021-08-09 17:12:10+00:00,"['Francesco Pagano', 'Luca Verderame', 'Alessio Merlo']","Journal of Wireless Mobile Networks, Ubiquitous Computing, and
+  Dependable Applications, September 2021",10.22667/JOWUA.2021.09.30.047,cs.CR,"['cs.CR', 'cs.OS']",2108.04183,1
+200,2021-04-12 13:23:58+00:00,2021-04-12 13:23:58+00:00,"['Marek Šuppa', 'Ondrej Jariabka', 'Adrián Matejov', 'Marek Nagy']",,10.1145/3430665.3456387,cs.CY,"['cs.CY', 'cs.HC', 'cs.OS']",2104.05456,1
+201,2019-07-27 01:36:43+00:00,2019-07-27 01:36:43+00:00,['Viacheslav Dubeyko'],,,cs.OS,['cs.OS'],1907.11825,1
+202,2019-07-11 15:33:34+00:00,2019-07-11 15:33:34+00:00,"['Michael Greenberg', 'Austin J. Blatt']",,,cs.PL,"['cs.PL', 'cs.OS']",1907.05308,1
+203,2022-09-27 01:56:19+00:00,2022-09-27 01:56:19+00:00,"['Sai sha', 'Chuandong Li', 'Yingwei Luo', 'Xiaolin Wang', 'Zhenlin Wang']",,,cs.OS,['cs.OS'],2209.13111,1
+204,2020-07-01 19:13:26+00:00,2020-07-01 19:13:26+00:00,"['Maolin Yang', 'Zewei Chen', 'Xu Jiang', 'Nan Guan', 'Hang Lei']",,,cs.OS,['cs.OS'],2007.00706,1
+205,2018-11-02 07:11:52+00:00,2018-11-02 07:11:52+00:00,"['Chandan Kalita', 'Gautam Barua', 'Priya Sehgal']",,,cs.OS,['cs.OS'],1811.00757,1
+206,2019-11-22 03:29:52+00:00,2019-11-22 03:29:52+00:00,"['Hasan Al Maruf', 'Mosharaf Chowdhury']","2020 USENIX Annual Technical Conference, USENIX ATC 2020, July
+  15-17, pages: 843--857",,cs.DC,"['cs.DC', 'cs.OS']",1911.09829,1
+207,2021-07-29 09:29:37+00:00,2021-07-29 09:29:37+00:00,"['Kan Zhong', 'Wenlin Cui', 'Youyou Lu', 'Quanzhang Liu', 'Xiaodan Yan', 'Qizhao Yuan', 'Siwei Luo', 'Keji Huang']",,,cs.OS,['cs.OS'],2107.13848,1
+208,2022-08-04 14:54:09+00:00,2022-08-04 14:54:09+00:00,"['Ayoosh Bansal', 'Anant Kandikuppa', 'Chien-Ying Chen', 'Monowar Hasan', 'Adam Bates', 'Sibin Mohan']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.4.6; C.3']",2208.02699,1
+209,2020-05-10 19:07:08+00:00,2020-05-10 19:07:08+00:00,"['Shihao Song', 'Anup Das', 'Onur Mutlu', 'Nagarajan Kandasamy']",,10.1145/3381898.3397210,cs.AR,"['cs.AR', 'cs.OS']",2005.04753,1
+210,2021-04-28 09:50:35+00:00,2021-04-28 09:50:35+00:00,"['Pritam Majumder', 'Jiayi Huang', 'Sungkeun Kim', 'Abdullah Muzahid', 'Dylan Siegers', 'Chia-Che Tsai', 'Eun Jung Kim']",,,cs.AR,"['cs.AR', 'cs.LG', 'cs.NI', 'cs.OS']",2104.13671,1
+211,2011-09-14 13:32:55+00:00,2011-09-14 13:32:55+00:00,"['H. S. Behera', 'Rakesh Mohanty', 'Sabyasachi Sahu', 'Sourav Kumar Bhoi']",,,cs.OS,['cs.OS'],1109.3076,1
+212,2021-03-12 05:14:46+00:00,2021-03-12 05:14:46+00:00,"['Joel Mandebi Mbongue', 'Danielle Tchuinkou Kwadjo', 'Christophe Bobda']",,,cs.DC,"['cs.DC', 'cs.OS']",2103.07092,1
+213,2019-01-23 05:41:42+00:00,2019-01-23 05:41:42+00:00,"['Paul Ratazzi', 'Ashok Bommisetti', 'Nian Ji', 'Wenliang Du']",,,cs.OS,"['cs.OS', 'cs.CR']",1901.07732,1
+214,2020-09-01 15:08:31+00:00,2020-09-01 15:08:31+00:00,"['Oliver Horst', 'Johannes Wiesböck', 'Raphael Wild', 'Uwe Baumgarten']",,,cs.OS,['cs.OS'],2009.00506,1
+215,2013-11-13 10:53:02+00:00,2013-11-13 10:53:02+00:00,"['Brijender Kahanwal', 'Dr. Tejinder Pal Singh', 'Dr. R. K. Tuteja']","Pelagia Research Library Advances in Applied Science Research,
+  Vol. 2(6), pp. 254-260, 2011",,cs.OS,"['cs.OS', 'cs.CR', 'cs.PF']",1311.3686,1
+216,2019-12-16 08:42:59+00:00,2019-12-16 08:42:59+00:00,"['Nawanol Theera-Ampornpunt', 'Shikhar Suryavansh', 'Sameer Manchanda', 'Rajesh Panta', 'Kaustubh Joshi', 'Mostafa Ammar', 'Mung Chiang', 'Saurabh Bagchi']",,,cs.OS,"['cs.OS', 'cs.LG', 'stat.ML']",2001.08169,1
+217,2021-01-21 23:17:42+00:00,2021-01-21 23:17:42+00:00,"['Geunsik Lim', 'Changwoo Min', 'Dong Hyun Kang', 'Young Ik Eom']",,10.1109/GCCE.2013.6664780,cs.AR,"['cs.AR', 'cs.OS']",2101.08885,1
+218,2011-03-09 07:25:00+00:00,2011-03-09 07:25:00+00:00,['Matthieu Moy'],,,cs.OS,['cs.OS'],1103.1717,1
+219,2011-05-09 22:26:15+00:00,2011-05-09 22:26:15+00:00,['Niall Douglas'],,,cs.OS,"['cs.OS', 'cs.PF', 'D.4.2']",1105.1811,1
+220,2014-11-14 02:30:08+00:00,2014-11-14 02:30:08+00:00,"['Ardalan Amiri Sani', 'Lin Zhong', 'Dan S. Wallach']",,,cs.OS,['cs.OS'],1411.3777,1
+221,2020-04-09 23:07:44+00:00,2020-04-09 23:07:44+00:00,"['Zahra Tarkhani', 'Anil Madhavapeddy']",,,cs.OS,['cs.OS'],2004.04846,1
+222,2021-01-15 01:30:48+00:00,2021-01-15 01:30:48+00:00,"['Thaleia Dimitra Doudali', 'Daniel Zahka', 'Ada Gavrilovska']",,,cs.DC,"['cs.DC', 'cs.OS']",2101.07200,1
+223,2019-09-02 17:28:05+00:00,2019-09-02 17:28:05+00:00,"['Yimeng Liu', 'Zhiwen Yu', 'Bin Guo', 'Qi Han', 'Jiangbin Su', 'Jiahao Liao']",,,cs.CY,"['cs.CY', 'cs.OS', 'cs.SE']",1909.00805,1
+224,2019-01-04 17:31:56+00:00,2019-01-04 17:31:56+00:00,"['Yuxin Ren', 'Vlad Nitu', 'Guyue Liu', 'Gabriel Parmer', 'Timothy Wood', 'Alain Tchana', 'Riley Kennedy']",,,cs.OS,['cs.OS'],1901.01222,1
+225,2019-06-17 16:49:56+00:00,2019-06-17 16:49:56+00:00,"['Ganguk Lee', 'Yeaseul Park', 'Jeongseob Ahn', 'Youngjin Kwon']",,,cs.OS,['cs.OS'],1906.07124,1
+226,2019-01-08 08:37:23+00:00,2019-01-08 08:37:23+00:00,"['Houssam-Eddine Zahaf', 'Nicola Capodieci', 'Roberto Cavicchioli', 'Marko Bertogna', 'Giuseppe Lipari']",,,cs.OS,['cs.OS'],1901.02450,1
+227,2022-04-07 08:38:37+00:00,2022-04-07 08:38:37+00:00,"['Derrick Greenspan', 'Naveed Ul Mustafa', 'Zoran Kolega', 'Mark Heinrich', 'Yan Solihin']",,,cs.OS,['cs.OS'],2204.03289,1
+228,2018-12-19 01:18:05+00:00,2018-12-19 01:18:05+00:00,"['Amirhossein Esmaili', 'Mahdi Nazemi', 'Massoud Pedram']",,,cs.OS,"['cs.OS', 'cs.DC']",1812.07723,1
+229,2019-05-07 13:09:32+00:00,2019-05-07 13:09:32+00:00,"['Gabriel Radanne', 'Thomas Gazagnaire', 'Anil Madhavapeddy', 'Jeremy Yallop', 'Richard Mortier', 'Hannes Mehnert', 'Mindy Preston', 'David Scott']",,,cs.PL,"['cs.PL', 'cs.OS']",1905.02529,1
+230,2022-05-24 15:22:16+00:00,2022-05-24 15:22:16+00:00,"['Rodrigo Siqueira', 'Nelson Lago', 'Fabio Kon', 'Dejan Milojičić']",,,cs.OS,"['cs.OS', 'cs.AR']",2205.12270,1
+231,2019-10-11 02:45:20+00:00,2019-10-11 02:45:20+00:00,"['Wei-Ming Chen', 'Tei-Wei-Kuo', 'Pi-Cheng Hsiu']",,,cs.OS,['cs.OS'],1910.04949,1
+232,2019-10-29 02:56:07+00:00,2019-10-29 02:56:07+00:00,"['Sebastian Angel', 'Mihir Nanavati', 'Siddhartha Sen']",,,cs.OS,"['cs.OS', 'cs.DC']",1910.13056,1
+233,2022-10-06 09:26:34+00:00,2022-10-06 09:26:34+00:00,"['Antonios Antoniadis', 'Joan Boyar', 'Marek Eliáš', 'Lene M. Favrholdt', 'Ruben Hoeksma', 'Kim S. Larsen', 'Adam Polak', 'Bertrand Simon']",,,cs.LG,"['cs.LG', 'cs.DS', 'cs.OS']",2210.02775,1
+234,2021-07-15 11:26:31+00:00,2021-07-15 11:26:31+00:00,"['Kevin Weiss', 'Michel Rottleuthner', 'Thomas C. Schmidt', 'Matthias Wählisch']","ACM Transactions on Embedded Computing Systems, Volume 20, Issue
+  5s, 2021",10.1145/3477040,eess.SY,"['eess.SY', 'cs.OS', 'cs.SE', 'cs.SY', 'B.8.1; D.2.5; C.3; D.4']",2107.07255,1
+235,2019-01-18 18:01:38+00:00,2019-01-18 18:01:38+00:00,"['Kyle C. Hale', 'Conor Hetland', 'Peter Dinda']",,10.1109/ICAC.2017.24,cs.OS,['cs.OS'],1901.06360,1
+236,2019-10-21 11:59:01+00:00,2019-10-21 11:59:01+00:00,"['Zhi Zhang', 'Yueqiang Cheng']",,10.1109/CLOUD.2016.0074,cs.OS,"['cs.OS', 'cs.CR', 'cs.PF']",1910.09277,1
+237,2019-06-24 21:23:18+00:00,2019-06-24 21:23:18+00:00,"['Jan S. Rellermeyer', 'Maher Amer', 'Richard Smutzer', 'Karthick Rajamani']",,10.1145/3265723.3265740,cs.DC,"['cs.DC', 'cs.OS']",1906.10239,1
+238,2019-01-24 10:44:31+00:00,2019-01-24 10:44:31+00:00,"['Gernot Heiser', 'Gerwin Klein', 'Toby Murray']",,,cs.OS,['cs.OS'],1901.08338,1
+239,2020-05-04 14:04:43+00:00,2020-05-04 14:04:43+00:00,"['Mathias Gottschlag', 'Yussuf Khalil', 'Frank Bellosa']",,,cs.OS,['cs.OS'],2005.01498,1
+240,2021-06-05 14:06:20+00:00,2021-06-05 14:06:20+00:00,"['Kaiwen Long', 'Chong Xing', 'Yuebin Qi', 'Pei Zhang', 'Changsong Wu', 'Wenxiao Fang', 'Jing Tan', 'Jie Chen', 'Shiming Zhang', 'Zuosheng Wang', 'Zuanmin Liu', 'Cao Liang', 'Jiaxiang Xu']",,,cs.DC,"['cs.DC', 'cs.OS']",2106.04514,1
+241,2022-05-15 15:38:59+00:00,2022-05-15 15:38:59+00:00,"['Raghav Dalmia', 'Aryaman Sinha', 'Ruchi Verma', 'P. K. Gupta']",,,cs.OS,['cs.OS'],2205.07314,1
+242,2020-07-10 02:03:52+00:00,2020-07-10 02:03:52+00:00,"['Zelun Kong', 'Yaswanth Yadlapalli', 'Soroush Bateni', 'Junfeng Guo', 'Cong Liu']",,,cs.OS,['cs.OS'],2007.05136,1
+243,2022-06-06 20:09:20+00:00,2022-06-06 20:09:20+00:00,"['Hasan Al Maruf', 'Hao Wang', 'Abhishek Dhanotia', 'Johannes Weiner', 'Niket Agarwal', 'Pallab Bhattacharya', 'Chris Petersen', 'Mosharaf Chowdhury', 'Shobhit Kanaujia', 'Prakash Chauhan']",,,cs.DC,"['cs.DC', 'cs.OS']",2206.02878,1
+244,2019-09-09 14:59:45+00:00,2019-09-09 14:59:45+00:00,"['Jie Gao', 'Lian Zhao', 'Xuemin', 'Shen']",,,cs.OS,"['cs.OS', 'cs.NI']",1909.04659,1
+245,2021-12-21 11:45:13+00:00,2021-12-21 11:45:13+00:00,"['Valdemar Švábenský', 'Jan Vykopal', 'Daniel Tovarňák', 'Pavel Čeleda']",,10.1109/FIE49875.2021.9637052,cs.CR,"['cs.CR', 'cs.CY', 'cs.OS', 'K.3.2']",2112.11118,1
+246,2018-10-10 00:35:05+00:00,2018-10-10 00:35:05+00:00,['Mihir Parang Mehta'],"EPTCS 280, 2018, pp. 18-29",10.4204/EPTCS.280.2,cs.LO,"['cs.LO', 'cs.OS']",1810.04309,1
+247,2021-05-28 14:57:49+00:00,2021-05-28 14:57:49+00:00,"['Paulo Silva', 'Thiago Emmanuel Pereira']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2105.13894,1
+248,2021-12-13 18:32:53+00:00,2021-12-13 18:32:53+00:00,"['Marcello Cinque', 'Domenico Cotroneo', 'Luigi De Simone', 'Stefano Rosiello']",,10.1016/j.future.2021.12.002,cs.SE,"['cs.SE', 'cs.OS']",2112.06875,1
+249,2018-10-11 15:05:44+00:00,2018-10-11 15:05:44+00:00,"['Takumi Shimada', 'Takeshi Yashiro', 'Ken Sakamura']",,,cs.OS,['cs.OS'],1810.05068,1
+250,2018-10-10 15:49:52+00:00,2018-10-10 15:49:52+00:00,"['Duwon Hong', 'Myungsuk Kim', 'Jisung Park', 'Myoungsoo Jung', 'Jihong Kim']",,,cs.OS,['cs.OS'],1810.04603,1
+251,2019-04-20 16:11:54+00:00,2019-04-20 16:11:54+00:00,"['Rohan Garg', 'Gregory Price', 'Gene Cooperman']",,,cs.DC,"['cs.DC', 'cs.OS']",1904.12595,1
+252,2019-02-22 00:39:43+00:00,2019-02-22 00:39:43+00:00,"['Christian M. Fuchs', 'Nadia M. Murillo', 'Aske Plaat', 'Erik van der Kouwe', 'Todor Stefanov']",2018 NASA/ESA Conference on Adaptive Hardware and Systems (AHS),10.1109/AHS.2018.8541457,cs.DC,"['cs.DC', 'cs.OS', 'cs.SY']",1902.09493,1
+253,2018-10-02 09:44:32+00:00,2018-10-02 09:44:32+00:00,"['Javier Verdu', 'Juan Jose Costa', 'Beatriz Otero', 'Eva Rodriguez', 'Alex Pajuelo', 'Ramon Canal']",,,cs.OS,['cs.OS'],1810.01139,1
+254,2018-09-01 06:07:39+00:00,2018-09-01 06:07:39+00:00,"['Behnam Dezfouli', 'Vahid Esmaeelzadeh', 'Jaykumar Sheth', 'Marjan Radi']",,,cs.NI,"['cs.NI', 'cs.OS']",1809.00121,1
+255,2019-05-15 06:54:55+00:00,2019-05-15 06:54:55+00:00,"['Salessawi Ferede Yitbarek', 'Todd Austin']",,,cs.CR,"['cs.CR', 'cs.OS']",1905.05975,1
+256,2019-02-09 07:25:09+00:00,2019-02-09 07:25:09+00:00,"['Eric Jonas', 'Johann Schleier-Smith', 'Vikram Sreekanti', 'Chia-Che Tsai', 'Anurag Khandelwal', 'Qifan Pu', 'Vaishaal Shankar', 'Joao Carreira', 'Karl Krauth', 'Neeraja Yadwadkar', 'Joseph E. Gonzalez', 'Raluca Ada Popa', 'Ion Stoica', 'David A. Patterson']",,,cs.OS,['cs.OS'],1902.03383,1
+257,2022-04-19 12:23:21+00:00,2022-04-19 12:23:21+00:00,"['Christoph Blumschein', 'Ilja Behnke', 'Lauritz Thamsen', 'Odej Kao']",,,cs.NI,"['cs.NI', 'cs.OS']",2204.08846,1
+258,2022-10-17 08:08:09+00:00,2022-10-17 08:08:09+00:00,"['David Yu', 'Andy Xiao']",,10.4271/2022-01-0107,cs.OS,['cs.OS'],2210.08818,1
+259,2021-04-26 17:07:07+00:00,2021-04-26 17:07:07+00:00,"['Simon Kuenzer', 'Vlad-Andrei Bădoiu', 'Hugo Lefeuvre', 'Sharan Santhanam', 'Alexander Jung', 'Gaulthier Gain', 'Cyril Soldani', 'Costin Lupu', 'Ştefan Teodorescu', 'Costi Răducanu', 'Cristian Banu', 'Laurent Mathy', 'Răzvan Deaconescu', 'Costin Raiciu', 'Felipe Huici']",,10.1145/3447786.3456248,cs.OS,['cs.OS'],2104.12721,1
+260,2020-06-02 02:41:39+00:00,2020-06-02 02:41:39+00:00,"['Tan N. Le', 'Zhenhua Liu']",,,cs.DC,"['cs.DC', 'cs.NI', 'cs.OS']",2006.01354,1
+261,2021-11-04 19:39:11+00:00,2021-11-04 19:39:11+00:00,"['Heejin Park', 'Felix Xiaozhu Lin']",,,cs.DC,"['cs.DC', 'cs.CR', 'cs.OS']",2111.03065,1
+262,2020-05-10 18:53:02+00:00,2020-05-10 18:53:02+00:00,"['Shihao Song', 'Anup Das', 'Nagarajan Kandasamy']",,10.1145/3381898.3397215,cs.AR,"['cs.AR', 'cs.OS']",2005.04750,1
+263,2019-06-09 22:15:19+00:00,2019-06-09 22:15:19+00:00,"['Tegg Taekyong Sung', 'Valliappa Chockalingam', 'Alex Yahja', 'Bo Ryu']",,,cs.LG,"['cs.LG', 'cs.OS']",1906.03724,1
+264,2011-06-14 17:26:21+00:00,2011-06-14 17:26:21+00:00,"['Luís Nogueira', 'Luís Miguel Pinho']",,,cs.DC,"['cs.DC', 'cs.OS']",1106.2766,1
+265,2020-10-23 13:43:45+00:00,2020-10-23 13:43:45+00:00,"['Yuan Chen', 'Jiaqi Li', 'Guorui Xu', 'Yajin Zhou', 'Zhi Wang', 'Cong Wang', 'Kui Ren']",,,cs.CR,"['cs.CR', 'cs.OS']",2010.12400,1
+266,2022-10-20 11:57:36+00:00,2022-10-20 11:57:36+00:00,['Abhishek Singh'],,,cs.OS,"['cs.OS', 'cs.DS', 'cs.SY', 'eess.SY', 'C.3; F.2.1; G.1.6; I.1.2']",2210.11185,1
+267,2022-10-17 10:55:15+00:00,2022-10-17 10:55:15+00:00,"['Xiaojian Liao', 'Zhe Yang', 'Jiwu Shu']",,10.1145/3552326.3567495,cs.OS,['cs.OS'],2210.08934,1
+268,2020-09-18 22:07:17+00:00,2020-09-18 22:07:17+00:00,"['Esmail Asyabi', 'Azer Bestavros', 'Renato Mancuso', 'Richard West', 'Erfan Sharafzadeh']",,,cs.OS,['cs.OS'],2009.09104,1
+269,2019-05-23 08:57:45+00:00,2019-05-23 08:57:45+00:00,['Igor Korkin'],,,cs.CR,"['cs.CR', 'cs.OS']",1905.09543,1
+270,2019-05-24 10:49:49+00:00,2019-05-24 10:49:49+00:00,"['Enis Ulqinaku', 'Julinda Stefa', 'Alessandro Mei']",,,cs.CR,"['cs.CR', 'cs.HC', 'cs.OS']",1905.10141,1
+271,2018-10-05 23:04:23+00:00,2018-10-05 23:04:23+00:00,"['Jayashree Mohan', 'Ashlie Martinez', 'Soujanya Ponnapalli', 'Pandian Raju', 'Vijay Chidambaram']",,,cs.OS,['cs.OS'],1810.02904,1
+272,2022-09-19 08:16:09+00:00,2022-09-19 08:16:09+00:00,"['Min Jia', 'Edwin Hsing. -M. Sha', 'Qingfeng Zhuge', 'Rui Xu', 'Shouzhen Gu']",,,cs.OS,"['cs.OS', 'cs.SE']",2209.08826,1
+273,2019-03-10 23:34:14+00:00,2019-03-10 23:34:14+00:00,"['Viacheslav Dubeyko', 'Om Rameshwar Gatla', 'Mai Zheng']",,,cs.OS,['cs.OS'],1903.04075,1
+274,2019-05-28 13:09:06+00:00,2019-05-28 13:09:06+00:00,"['Stefan Reif', 'Andreas Schmidt', 'Timo Hönig', 'Thorsten Herfet', 'Wolfgang Schröder-Preikschat']",,10.1145/3314206.3314211,cs.NI,"['cs.NI', 'cs.OS']",1905.11788,1
+275,2022-09-05 09:06:39+00:00,2022-09-05 09:06:39+00:00,"['Marco Barletta', 'Marcello Cinque', 'Luigi De Simone', 'Raffaele Della Corte', 'Giorgio Farina', 'Daniele Ottaviano']",,,cs.DC,"['cs.DC', 'cs.OS']",2209.01843,1
+276,2018-09-08 22:53:27+00:00,2018-09-08 22:53:27+00:00,"['Jian-Jia Chen', 'Georg von der Brüggen', 'Junjie Shi', 'Niklas Uete']",,,cs.OS,['cs.OS'],1809.02892,1
+277,2019-03-04 15:48:00+00:00,2019-03-04 15:48:00+00:00,"['Michael G Bechtel', 'Heechul Yun']",,,cs.AR,"['cs.AR', 'cs.OS']",1903.01314,1
+278,2019-06-03 14:32:03+00:00,2019-06-03 14:32:03+00:00,['Maruthi Rohit Ayyagari'],,10.14445/22312803/IJCTT-V67I5P110,cs.OS,"['cs.OS', 'cs.DC']",1906.00834,1
+279,2020-07-21 22:01:00+00:00,2020-07-21 22:01:00+00:00,"['Michael Cafarella', 'David DeWitt', 'Vijay Gadepally', 'Jeremy Kepner', 'Christos Kozyrakis', 'Tim Kraska', 'Michael Stonebraker', 'Matei Zaharia']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.DB', 'cs.DC', 'cs.NI']",2007.11112,1
+280,2021-01-18 21:02:16+00:00,2021-01-18 21:02:16+00:00,"['Alec Rohloff', 'Zackary Allen', 'Kung-Min Lin', 'Joshua Okrend', 'Chengyi Nie', 'Yu-Chia Liu', 'Hung-Wei Tseng']",,,cs.NI,"['cs.NI', 'cs.HC', 'cs.OS']",2101.07327,1
+281,2022-03-29 08:10:06+00:00,2022-03-29 08:10:06+00:00,"['Davide Sanvito', 'Giuseppe Siracusano', 'Sharan Santhanam', 'Roberto Gonzalez', 'Roberto Bifulco']",,,cs.LG,"['cs.LG', 'cs.DC', 'cs.OS']",2203.15324,1
+282,2019-11-19 15:56:46+00:00,2019-11-19 15:56:46+00:00,"['Simon Gerber', 'Gerd Zellweger', 'Reto Achermann', 'Moritz Hoffmann', 'Kornilios Kourtis', 'Timothy Roscoe', 'Dejan Milojicic']",,,cs.OS,['cs.OS'],1911.08367,1
+283,2020-08-28 06:52:41+00:00,2020-08-28 06:52:41+00:00,['Kazuichi Oe'],,,cs.PF,"['cs.PF', 'cs.AR', 'cs.OS']",2008.12501,1
+284,2022-11-15 11:15:46+00:00,2022-11-15 11:15:46+00:00,"['Anjo Vahldiek-Oberwagner', 'Mona Vij']",,,cs.OS,"['cs.OS', 'cs.CR']",2211.08056,1
+285,2020-08-08 17:41:15+00:00,2020-08-08 17:41:15+00:00,['K. Murali Krishnan'],,,cs.OS,['cs.OS'],2008.03563,1
+286,2019-04-25 19:57:31+00:00,2019-04-25 19:57:31+00:00,['Morteza Hoseinzadeh'],,,cs.AR,"['cs.AR', 'cs.OS']",1904.11560,1
+287,2022-10-09 19:26:27+00:00,2022-10-09 19:26:27+00:00,"['Everton de Matos', 'Markku Ahvenjärvi']",,,cs.CR,"['cs.CR', 'cs.OS']",2210.04328,1
+288,2015-04-26 14:57:05+00:00,2015-04-26 14:57:05+00:00,"['Michael J. Brim', 'Joshua K. Lothian']",,,cs.DC,"['cs.DC', 'cs.OS']",1504.06836,1
+289,2022-11-03 23:10:21+00:00,2022-11-03 23:10:21+00:00,"['Gabriele Tolomei', 'Lorenzo Takanen', 'Fabio Pinelli']",,,cs.OS,"['cs.OS', 'cs.LG']",2211.02177,1
+290,2020-06-03 05:47:14+00:00,2020-06-03 05:47:14+00:00,"['Davood Ghatreh Samani', 'Chavit Denninnart', 'Josef Bacik', 'Mohsen Amini Salehi']","The 49th International Conference on Parallel Processing (ICPP
+  2020)",,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2006.02055,1
+291,2021-12-13 17:13:00+00:00,2021-12-13 17:13:00+00:00,"['Peter-Jan Gootzen', 'Animesh Trivedi']",,,cs.OS,"['cs.OS', 'cs.PL']",2112.06810,1
+292,2021-11-03 16:34:07+00:00,2021-11-03 16:34:07+00:00,"['Flavia Caforio', 'Pierpaolo Iannicelli', 'Michele Paolino', 'Daniel Raho']",,10.1109/MECO52532.2021.9460246,cs.CR,"['cs.CR', 'cs.OS']",2111.02821,1
+293,2022-09-18 13:22:53+00:00,2022-09-18 13:22:53+00:00,"['Shaojun Zhang', 'Chen Wang', 'Albert Zomaya']",,,cs.DC,"['cs.DC', 'cs.AI', 'cs.OS']",2209.09645,1
+294,2019-07-28 05:06:24+00:00,2019-07-28 05:06:24+00:00,"['Takahiro Hirofuchi', 'Ryousei Takano']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.PF', 'D.4; B.3']",1907.12014,1
+295,2022-06-03 12:54:55+00:00,2022-06-03 12:54:55+00:00,"['Nick Tehrany', 'Animesh Trivedi']",,,cs.OS,"['cs.OS', 'cs.PF', 'D.4.2']",2206.01547,1
+296,2019-03-22 03:46:22+00:00,2019-03-22 03:46:22+00:00,"['María F. Borge', 'Florin Dinu', 'Willy Zwaenepoel']",,,cs.OS,"['cs.OS', 'cs.PF']",1903.09347,1
+297,2021-06-10 21:56:49+00:00,2021-06-10 21:56:49+00:00,['Igor Korkin'],,,cs.CR,"['cs.CR', 'cs.OS']",2106.06065,1
+298,2013-04-25 11:10:38+00:00,2013-04-25 11:10:38+00:00,"['Deepika Bhatia', 'Urmila Shrawankar']","International Journal of Computer Science and Information
+  Technologies (IJCSIT),Vol. 2(5) , 2011, 2380-2383",,cs.OS,['cs.OS'],1304.7001,1
+299,2022-06-01 22:45:12+00:00,2022-06-01 22:45:12+00:00,"['Ali Raza', 'Thomas Unger', 'Matthew Boyd', 'Eric Munson', 'Parul Sohal', 'Ulrich Drepper', 'Richard Jones', 'Daniel Bristot de Oliveira', 'Larry Woodman', 'Renato Mancuso', 'Jonathan Appavoo', 'Orran Krieger']",,,cs.OS,['cs.OS'],2206.00789,1
+300,2018-12-24 13:30:40+00:00,2018-12-24 13:30:40+00:00,['Igor Korkin'],,,cs.CR,"['cs.CR', 'cs.OS']",1812.09920,1
+301,2020-08-14 18:35:38+00:00,2020-08-14 18:35:38+00:00,"['Adriana Szekeres', 'Irene Zhang', 'Katelin Bailey', 'Isaac Ackerman', 'Haichen Shen', 'Franziska Roesner', 'Dan R. K. Ports', 'Arvind Krishnamurthy', 'Henry M. Levy']",,,cs.CR,"['cs.CR', 'cs.OS']",2008.06536,1
+302,2020-07-16 12:43:15+00:00,2020-07-16 12:43:15+00:00,"['Jian-Jia Chen', 'Junjie Shi', 'Georg von der Brüggen', 'Niklas Ueter']",,,cs.OS,['cs.OS'],2007.08302,1
+303,2021-12-14 07:49:32+00:00,2021-12-14 07:49:32+00:00,"['Sungbae Yoo', 'Jinbum Park', 'Seolheui Kim', 'Yeji Kim', 'Taesoo Kim']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.4.6']",2112.07213,1
+304,2022-10-10 18:41:56+00:00,2022-10-10 18:41:56+00:00,"['Abel Souza', 'Noman Bashir', 'Jorge Murillo', 'Walid Hanafy', 'Qianlin Liang', 'David Irwin', 'Prashant Shenoy']",,,cs.OS,"['cs.OS', 'cs.DC', 'cs.SE']",2210.04951,1
+305,2020-06-22 11:12:44+00:00,2020-06-22 11:12:44+00:00,"['Alex Kogan', 'Dave Dice', 'Shady Issa']",,10.1145/3342195.3387533,cs.OS,"['cs.OS', 'cs.DC', 'D.1.3; D.4.1; D.4.2']",2006.12144,1
+306,2021-01-23 22:43:28+00:00,2021-01-23 22:43:28+00:00,"['Michael Le', 'Yuval Tamir']",,,cs.SE,"['cs.SE', 'cs.OS']",2101.09282,1
+307,2021-12-13 21:04:26+00:00,2021-12-13 21:04:26+00:00,"['Han Dong', 'Sanjay Arora', 'Yara Awad', 'Tommy Unger', 'Orran Krieger', 'Jonathan Appavoo']",,,cs.OS,['cs.OS'],2112.07010,1
+308,2019-03-16 07:17:47+00:00,2019-03-16 07:17:47+00:00,"['Hsuan-Chi Kuo', 'Akshith Gunasekaran', 'Yeongjin Jang', 'Sibin Mohan', 'Rakesh B. Bobba', 'David Lie', 'Jesse Walker']",,,cs.OS,['cs.OS'],1903.06889,1
+309,2019-02-02 07:22:25+00:00,2019-02-02 07:22:25+00:00,"['Nachshon Cohen', 'David T. Aksun', 'Hillel Avni', 'James R. Larus']",,10.1145/3297858.3304046,cs.OS,"['cs.OS', 'cs.PL']",1902.00660,1
+310,2019-04-10 06:15:28+00:00,2019-04-10 06:15:28+00:00,"['Jinwoo Ahn', 'Donggyu Park', 'Chang-Gyu Lee', 'Donghyun Min', 'Junghee Lee', 'Sungyong Park', 'Qian Chen', 'Youngjae Kim']",,,cs.CR,"['cs.CR', 'cs.OS']",1904.05012,1
+311,2022-03-01 17:34:36+00:00,2022-03-01 17:34:36+00:00,"['Ben Simner', 'Alasdair Armstrong', 'Jean Pichon-Pharabod', 'Christopher Pulte', 'Richard Grisenthwaite', 'Peter Sewell']",,,cs.AR,"['cs.AR', 'cs.OS', 'cs.PL', 'C.1.2; D.3.1; F.3.2']",2203.00642,1
+312,2021-12-19 10:26:55+00:00,2021-12-19 10:26:55+00:00,"['Till Miemietz', 'Maksym Planeta', 'Viktor Laurin Reusch']",,,cs.OS,['cs.OS'],2112.10106,1
+313,2019-01-03 17:27:14+00:00,2019-01-03 17:27:14+00:00,"['Chen Zheng', 'Lei Wang', 'Sally A. McKee', 'Lixin Zhang', 'Hainan Ye', 'Jianfeng Zhan']",,,cs.OS,"['cs.OS', 'D.4.0; D.4.7; D.4.8']",1901.00825,1
+314,2020-07-23 16:33:23+00:00,2020-07-23 16:33:23+00:00,"['Frank Slomka', 'Mohammadreza Sadeghi']",,,cs.OS,"['cs.OS', 'C.4']",2007.12112,1
+315,2022-10-07 10:03:55+00:00,2022-10-07 10:03:55+00:00,"['Koen Zandberg', 'Emmanuel Baccelli', 'Shenghao Yuan', 'Frédéric Besson', 'Jean-Pierre Talpin']","23rd ACM/IFIP International Middleware Conference (MIDDLEWARE
+  2022)",,cs.OS,['cs.OS'],2210.03432,1
+316,2020-08-14 01:18:04+00:00,2020-08-14 01:18:04+00:00,['Kazuichi Oe'],,,cs.DC,"['cs.DC', 'cs.DS', 'cs.OS', 'cs.PF']",2008.06152,1
+317,2011-10-20 19:43:58+00:00,2011-10-20 19:43:58+00:00,"['Jeff A. Stuart', 'John D. Owens']",,,cs.OS,"['cs.OS', 'cs.DC', 'cs.DS', 'cs.GR', 'D.4.1; I.3.2']",1110.4623,1
+318,2020-05-26 15:56:06+00:00,2020-05-26 15:56:06+00:00,['Madhur Jain'],,,cs.OS,"['cs.OS', 'cs.DC']",2005.12821,1
+319,2011-11-22 17:00:50+00:00,2011-11-22 17:00:50+00:00,"['Miguel A. Fortuna', 'Juan A. Bonachela', 'Simon A. Levin']",,10.1073/pnas.1115960108,cs.OS,"['cs.OS', 'cs.SE']",1111.5251,1
+320,2021-10-17 00:25:21+00:00,2021-10-17 00:25:21+00:00,"['Daixuan Li', 'Jian Huang']",,,cs.AR,"['cs.AR', 'cs.LG', 'cs.OS']",2110.08685,1
+321,2020-02-28 02:37:26+00:00,2020-02-28 02:37:26+00:00,"['Corey Tessler', 'Venkata P. Modekurthy', 'Nathan Fisher', 'Abusayeed Saifullah']",,,cs.DC,"['cs.DC', 'cs.OS']",2002.12516,1
+322,2020-04-09 18:04:25+00:00,2020-04-09 18:04:25+00:00,"['Sudarsun Kannan', 'Yujie Ren', 'Abhishek Bhatacharjee']",,,cs.OS,['cs.OS'],2004.04760,1
+323,2016-03-11 14:10:18+00:00,2016-03-11 14:10:18+00:00,"['Emmanuel Baccelli', 'Kaspar Schleiser']",,,cs.CY,"['cs.CY', 'cs.NI', 'cs.OS']",1603.03635,1
+324,2021-02-25 15:22:38+00:00,2021-02-25 15:22:38+00:00,"['Yu Jian Wu', 'Hongyi Wang', 'Yuhong Zhong', 'Asaf Cidon', 'Ryan Stutsman', 'Amy Tai', 'Junfeng Yang']",,,cs.OS,"['cs.OS', 'cs.DB']",2102.12922,1
+325,2020-05-22 08:14:04+00:00,2020-05-22 08:14:04+00:00,"['Ali Mokhtari', 'Chavit Denninnart', 'Mohsen Amini Salehi']","in 29th Heterogeneity in Computing Workshop (HCW 2019), in the
+  Proceedings of the IPDPS 2019 Workshops & PhD Forum (IPDPSW)",,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2005.11050,1
+326,2020-03-31 01:44:14+00:00,2020-03-31 01:44:14+00:00,"['Simson L. Garfinkel', 'J. Spencer Love']",,,cs.OS,['cs.OS'],2004.00402,1
+327,2020-11-26 18:39:55+00:00,2020-11-26 18:39:55+00:00,"['Aleix Roca Nonell', 'Balazs Gerofi', 'Leonardo Bautista-Gomez', 'Dominique Martinet', 'Vicenç Beltran Querol', 'Yutaka Ishikawa']","Proceedings of the Workshop on Memory Centric High Performance
+  Computing (2018) 50-57",10.1145/3286475.3286477,cs.OS,"['cs.OS', 'D.4.8']",2011.13432,1
+328,2022-12-13 04:09:44+00:00,2022-12-13 04:09:44+00:00,"['Vanessa Sochat', 'Matthieu Muffato', 'Audrey Stott', 'Marco De La Pierre', 'Georgia Stuart']",,,cs.OS,"['cs.OS', 'cs.CR']",2212.07376,1
+329,2020-01-20 10:23:12+00:00,2020-01-20 10:23:12+00:00,"['Javier Picorel', 'Seyed Alireza Sanaee Kohroudi', 'Zi Yan', 'Abhishek Bhattacharjee', 'Babak Falsafi', 'Djordje Jevdjic']",,,cs.AR,"['cs.AR', 'cs.OS']",2001.07045,1
+330,2020-02-19 21:35:51+00:00,2020-02-19 21:35:51+00:00,"['Anusha Bableshwar', 'Arun Ravindran', 'Manoj Iyer']",,,cs.SE,"['cs.SE', 'cs.CR', 'cs.OS']",2002.08454,1
+331,2020-11-13 22:55:15+00:00,2020-11-13 22:55:15+00:00,"['Nan Wu', 'Pengcheng Li']",,,cs.PF,"['cs.PF', 'cs.AI', 'cs.LG', 'cs.OS']",2011.07160,1
+332,2020-01-17 05:11:55+00:00,2020-01-17 05:11:55+00:00,"['Debasis Dwibedy', 'Rakesh Mohanty']",,,cs.DS,"['cs.DS', 'cs.OS']",2001.06159,1
+333,2020-09-19 10:23:15+00:00,2020-09-19 10:23:15+00:00,"['Ayush Mangal', 'Jitesh Jain', 'Keerat Kaur Guliani', 'Omkar Bhalerao']",,,cs.OS,"['cs.OS', 'cs.AI', 'cs.LG', 'stat.ML']",2009.09206,1
+334,2019-12-07 11:44:37+00:00,2019-12-07 11:44:37+00:00,"['Domenico Cotroneo', 'Antonio Ken Iannillo', 'Roberto Natella', 'Stefano Rosiello']","IEEE Transactions on Reliability, 2019",10.1109/TR.2019.2954384,cs.SE,"['cs.SE', 'cs.OS']",1912.03490,1
+335,2021-02-13 18:12:34+00:00,2021-02-13 18:12:34+00:00,"['William Findlay', 'David Barrera', 'Anil Somayaji']",,,cs.CR,"['cs.CR', 'cs.OS']",2102.06972,1
+336,2021-02-22 17:24:08+00:00,2021-02-22 17:24:08+00:00,['Ruslan Savchenko'],,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2102.11198,1
+337,2022-11-04 05:31:48+00:00,2022-11-04 05:31:48+00:00,"['Vinayak Trivedi', 'Tushar Gurjar', 'Sumaiya Shaikh', 'Saketh Maddamsetty', 'Debadatta Mishra']",,,cs.CR,"['cs.CR', 'cs.OS']",2211.02266,1
+338,2019-11-30 09:12:12+00:00,2019-11-30 09:12:12+00:00,"['Thi Huyen Chau Nguyen', 'Werner Grass', 'Klaus Jansen']",,,cs.OS,['cs.OS'],1912.01161,1
+339,2020-12-14 20:02:26+00:00,2020-12-14 20:02:26+00:00,"['Daniel W. Song', 'Konstantinos Mamouras', 'Ang Chen', 'Nathan Dautenhahn', 'Dan S. Wallach']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.2.4; D.4.3; D.4.5; D.4.6']",2012.07917,1
+340,2021-10-20 03:22:38+00:00,2021-10-20 03:22:38+00:00,"['Dhruv Matani', 'Gaurav Menghani']",,,cs.DS,"['cs.DS', 'cs.OS', 'cs.PF']",2110.10357,1
+341,2022-01-24 13:17:51+00:00,2022-01-24 13:17:51+00:00,"['Jiahao Chen', 'Dingji Li', 'Zeyu Mi', 'Yuxuan Liu', 'Binyu Zang', 'Haibing Guan', 'Haibo Chen']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.CR']",2201.09652,1
+342,2019-12-15 08:09:31+00:00,2019-12-15 08:09:31+00:00,"['Sungjoon Koh', 'Junhyeok Jang', 'Changrim Lee', 'Miryeong Kwon', 'Jie Zhang', 'Myoungsoo Jung']",,,cs.OS,['cs.OS'],1912.06998,1
+343,2016-03-17 19:43:36+00:00,2016-03-17 19:43:36+00:00,"['Harshal Sheth', 'Aashish Welling']",,,cs.OS,['cs.OS'],1603.05636,1
+344,2012-02-17 22:33:12+00:00,2012-02-17 22:33:12+00:00,"['Shashi Shekhar', 'Michael Dietz', 'Dan S. Wallach']",,,cs.OS,['cs.OS'],1202.4030,1
+345,2021-09-10 01:05:52+00:00,2021-09-10 01:05:52+00:00,"['Chien-Hao Chen', 'Ren-Song Tsay']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2109.04605,1
+346,2019-03-08 23:58:52+00:00,2019-03-08 23:58:52+00:00,['Viacheslav Dubeyko'],,,cs.OS,['cs.OS'],1903.03701,1
+347,1998-09-02 17:11:54+00:00,1998-09-02 17:11:54+00:00,"['Werner Vogels', 'Dan Dumitriu', 'Ken Birman', 'Rod Gamache', 'Mike Massa', 'Rob Short', 'John Vert', 'Joe Barrera']","Proceedings of FTCS'98, June 23-25, 1998 in Munich, Germany",,cs.OS,"['cs.OS', 'cs.DC', 'C.4; C.5;D.4.5']",cs/9809006,1
+348,2022-02-21 17:53:01+00:00,2022-02-21 17:53:01+00:00,"['Nika Mansouri Ghiasi', 'Jisung Park', 'Harun Mustafa', 'Jeremie Kim', 'Ataberk Olgun', 'Arvid Gollwitzer', 'Damla Senol Cali', 'Can Firtina', 'Haiyu Mao', 'Nour Almadhoun Alserr', 'Rachata Ausavarungnirun', 'Nandita Vijaykumar', 'Mohammed Alser', 'Onur Mutlu']",,,cs.AR,"['cs.AR', 'cs.DC', 'cs.OS', 'q-bio.GN']",2202.10400,1
+349,2021-01-26 11:03:02+00:00,2021-01-26 11:03:02+00:00,"['Geunsik Lim', 'Changwoo Min', 'Young Ik Eom']",,10.1109/ICCE.2013.6487055,cs.OS,"['cs.OS', 'cs.PF']",2101.10707,1
+350,2020-09-06 13:56:40+00:00,2020-09-06 13:56:40+00:00,"['Reto Achermann', 'Nora Hossle', 'Lukas Humbel', 'Daniel Schwyn', 'David Cock', 'Timothy Roscoe']",,,cs.OS,"['cs.OS', 'D.4; D.4.6']",2009.02737,1
+351,2020-04-20 13:03:14+00:00,2020-04-20 13:03:14+00:00,"['Pierpaolo Santucci', 'Emiliano Ingrassia', 'Giulio Picierro', 'Marco Cesati']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.4.6; K.6.5']",2004.09252,1
+352,2011-09-12 21:49:38+00:00,2011-09-12 21:49:38+00:00,"['Nitin Garg', 'Ed Zhu', 'Fabiano C. Botelho']",,,cs.OS,['cs.OS'],1109.2638,1
+353,2021-01-21 08:32:13+00:00,2021-01-21 08:32:13+00:00,"['Geunsik Lim', 'MyungJoo Ham']",,10.1145/2901318.2901320,cs.DC,"['cs.DC', 'cs.OS']",2101.09360,1
+354,2021-01-21 23:28:55+00:00,2021-01-21 23:28:55+00:00,"['Geunsik Lim', 'Sang-Bum Suh']",,10.1109/ICSESS.2014.6933553,cs.DC,"['cs.DC', 'cs.OS']",2101.09284,1
+355,2021-04-30 09:37:14+00:00,2021-04-30 09:37:14+00:00,"['Wojciech Ozga', 'Do Le Quoc', 'Christof Fetzer']","Proceedings of 2021 IEEE International Conference on Cloud
+  Computing (IEEE CLOUD'21)",,cs.CR,"['cs.CR', 'cs.OS']",2104.14862,1
+356,2021-08-01 12:36:13+00:00,2021-08-01 12:36:13+00:00,"['Madhav P. Desai', 'Aniket Deshmukh']",,,cs.AR,"['cs.AR', 'cs.OS']",2108.00444,1
+357,2021-01-04 18:42:54+00:00,2021-01-04 18:42:54+00:00,"['Alvin Cheung', 'Natacha Crooks', 'Joseph M. Hellerstein', 'Matthew Milano']",CIDR 2021,,cs.DC,"['cs.DC', 'cs.DB', 'cs.OS', 'cs.PL']",2101.01159,1
+358,2022-12-06 15:31:20+00:00,2022-12-06 15:31:20+00:00,"['Gabryel Mason-Williams', 'Dave Bond', 'Mark Basham']",,,cs.DC,"['cs.DC', 'cs.OS']",2212.03054,1
+359,2022-01-31 12:13:17+00:00,2022-01-31 12:13:17+00:00,"['Luis Gerhorst', 'Benedict Herzog', 'Stefan Reif', 'Wolfgang Schröder-Preikschat', 'Timo Hönig']","PLOS'21: Proceedings of the 11th Workshop on Programming Languages
+  and Operating Systems. 2021. Association for Computing Machinery (ACM), New
+  York, NY, USA, Pages 1-8",10.1145/3477113.3487267,cs.CR,"['cs.CR', 'cs.OS', 'cs.PL']",2201.13160,1
+360,2023-02-22 13:10:07+00:00,2023-02-22 13:10:07+00:00,"['Simon Shillaker', 'Carlos Segarra', 'Eleftheria Mappoura', 'Mayeul Fournial', 'Lluis Vilanova', 'Peter Pietzuch']",,,cs.DC,"['cs.DC', 'cs.OS']",2302.11358,1
+361,2023-03-17 18:48:50+00:00,2023-03-17 18:48:50+00:00,"['Michael Howard', 'Bruce Irvin']",,,cs.OS,"['cs.OS', 'F.2.2, I.2.7']",2303.10204,1
+362,2023-02-20 23:54:04+00:00,2023-02-20 23:54:04+00:00,"['Jinghao Jia', 'YiFei Zhu', 'Dan Williams', 'Andrea Arcangeli', 'Claudio Canella', 'Hubertus Franke', 'Tobin Feldman-Fitzthum', 'Dimitrios Skarlatos', 'Daniel Gruss', 'Tianyin Xu']",,,cs.OS,"['cs.OS', 'cs.CR']",2302.10366,1
+363,2023-02-19 03:49:02+00:00,2023-02-19 03:49:02+00:00,"['Jie Ren', 'Dong Xu', 'Ivy Peng', 'Junhee Ryu', 'Kwangsik Shin', 'Daewoo Kim', 'Dong Li']",,,cs.PF,"['cs.PF', 'cs.OS']",2302.09468,1
+364,2023-02-17 17:13:35+00:00,2023-02-17 17:13:35+00:00,"['Stefan Bosse', 'Sarah Bornemann', 'Björn Lüssem']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.LG']",2302.09002,1
+365,2023-03-23 12:43:57+00:00,2023-03-23 12:43:57+00:00,"['Shengzhe Wang', 'Zihang Lin', 'Suzhen Wu', 'Hong Jiang', 'Jie Zhang', 'Bo Mao']",,,cs.AR,"['cs.AR', 'cs.OS']",2303.13226,1
+366,2023-03-22 12:16:00+00:00,2023-03-22 12:16:00+00:00,"['Carmine Cesarano', 'Marcello Cinque', 'Domenico Cotroneo', 'Luigi De Simone', 'Giorgio Farina']",,,cs.CR,"['cs.CR', 'cs.OS']",2303.12817,1
+367,2023-03-20 06:38:10+00:00,2023-03-20 06:38:10+00:00,"['Ali Mokhtari', 'Drake Rawls', 'Tony Huynh', 'Jeremiah Green', 'Mohsen Amini Salehi']",,,cs.DC,"['cs.DC', 'cs.AR', 'cs.OS']",2303.10901,1
+368,2023-04-18 03:49:17+00:00,2023-04-18 03:49:17+00:00,"['Zhuojia Shen', 'John Criswell']",,,cs.CR,"['cs.CR', 'cs.OS']",2304.08717,1
+369,2023-04-17 19:14:37+00:00,2023-04-17 19:14:37+00:00,"['Tânia Esteves', 'Ricardo Macedo', 'Rui Oliveira', 'João Paulo']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2304.08569,1
+370,2023-04-14 18:47:55+00:00,2023-04-14 18:47:55+00:00,"['Jingrong Chen', 'Yongji Wu', 'Shihan Lin', 'Yechen Xu', 'Xinhao Kong', 'Thomas Anderson', 'Matthew Lentz', 'Xiaowei Yang', 'Danyang Zhuo']",,,cs.NI,"['cs.NI', 'cs.OS']",2304.07349,1
+371,2023-04-11 11:29:51+00:00,2023-04-11 11:29:51+00:00,"['Yiquan Chen', 'Zhen Jin', 'Yijing Wang', 'Yi Chen', 'Hao Yu', 'Jiexiong Xu', 'Jinlong Chen', 'Wenhai Lin', 'Kanghua Fang', 'Chengkun Wei', 'Qiang Liu', 'Yuan Xie', 'Wenzhi Chen']",,,cs.AR,"['cs.AR', 'cs.OS']",2304.05148,1
+372,2023-04-07 23:25:48+00:00,2023-04-07 23:25:48+00:00,"['Yiyuan Yang', 'Rongshang Li', 'Qiquan Shi', 'Xijun Li', 'Gang Hu', 'Xing Li', 'Mingxuan Yuan']",,,cs.OS,"['cs.OS', 'cs.DC', 'cs.LG']",2304.03864,1
+373,2023-04-04 11:30:24+00:00,2023-04-04 11:30:24+00:00,"['Anna Panagopoulou', 'Michele Paolino', 'Daniel Raho']",,,cs.OS,['cs.OS'],2304.01721,1
+374,2023-02-13 14:55:06+00:00,2023-02-13 14:55:06+00:00,"['Ricardo Macedo', 'Mariana Miranda', 'Yusuke Tanimura', 'Jason Haga', 'Amit Ruhela', 'Stephen Lien Harrell', 'Richard Todd Evans', 'José Pereira', 'João Paulo']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",2302.06418,1
+375,2022-12-24 06:36:36+00:00,2022-12-24 06:36:36+00:00,"['Caihua Li', 'Seung-seob Lee', 'Min Hong Yun', 'Lin Zhong']",,,cs.OS,"['cs.OS', 'cs.CR']",2212.12671,1
+376,2019-12-09 09:39:31+00:00,2019-12-09 09:39:31+00:00,"['Nicolas Gibelin', 'Rémi Cailletaud', 'Gabriel Moreau', 'Jean-François Scariot', 'Gabrielle Feltin', 'Anthony Defize']",,,cs.DC,"['cs.DC', 'cs.OS']",1912.03923,1
+377,2020-01-21 11:42:17+00:00,2020-01-21 11:42:17+00:00,"['Youren Shen', 'Hongliang Tian', 'Yu Chen', 'Kang Chen', 'Runji Wang', 'Yi Xu', 'Yubin Xia']",,10.1145/3373376.3378469,cs.OS,"['cs.OS', 'cs.AR', 'cs.CR']",2001.07450,1
+378,2022-03-25 00:24:44+00:00,2022-03-25 00:24:44+00:00,"['Aporva Amarnath', 'Subhankar Pal', 'Hiwot Kassa', 'Augusto Vega', 'Alper Buyuktosunoglu', 'Hubertus Franke', 'John-David Wellman', 'Ronald Dreslinski', 'Pradip Bose']",,,cs.AR,"['cs.AR', 'cs.DC', 'cs.OS']",2203.13396,1
+379,2022-12-30 23:37:39+00:00,2022-12-30 23:37:39+00:00,"['Jinghan Sun', 'Shaobo Li', 'Yunxin Sun', 'Chao Sun', 'Dejan Vucinic', 'Jian Huang']",,10.1145/3575693.3575744,cs.OS,['cs.OS'],2301.00072,1
+380,2019-12-02 05:05:39+00:00,2019-12-02 05:05:39+00:00,"['Pulkit A. Misra', 'Jeffrey S. Chase', 'Johannes Gehrke', 'Alvin R. Lebeck']",,,cs.DB,"['cs.DB', 'cs.OS']",1912.00580,1
+381,2020-01-26 16:24:08+00:00,2020-01-26 16:24:08+00:00,"['Stella Bitchebe', 'Djob Mvondo', 'Alain Tchana', 'Laurent Réveillère', 'Noël De Palma']",,,cs.DC,"['cs.DC', 'cs.OS']",2001.09991,1
+382,2020-04-06 07:24:40+00:00,2020-04-06 07:24:40+00:00,"['Arvind Easwaran', 'Insik Shin', 'Insup Lee']","Springer Real-Time Systems, Volume 43, Pages 25-59, July 2009",10.1007/s11241-009-9073-x,cs.OS,"['cs.OS', 'cs.DC']",2004.02439,1
+383,2022-12-08 11:23:48+00:00,2022-12-08 11:23:48+00:00,"['Yuekai Jia', 'Shuang Liu', 'Wenhao Wang', 'Yu Chen', 'Zhengde Zhai', 'Shoumeng Yan', 'Zhengyu He']","In 2022 USENIX Annual Technical Conference (USENIX ATC 22), pages
+  437-454, Carlsbad, CA, July 2022. USENIX Association",,cs.CR,"['cs.CR', 'cs.AR', 'cs.OS']",2212.04197,1
+384,2022-02-18 12:50:30+00:00,2022-02-18 12:50:30+00:00,"['Stefan Reif', 'Phillip Raffeck', 'Luis Gerhorst', 'Wolfgang Schröder-Preikschat', 'Timo Hönig']","SBESC'21: Proceedings of the XI Brazilian Symposium on Computing
+  Systems Engineering. 2021. IEEE, Pages 1-8",10.1109/SBESC53686.2021.9628358,cs.OS,['cs.OS'],2202.09365,1
+385,2022-01-20 18:58:44+00:00,2022-01-20 18:58:44+00:00,"['Ruslan Nikolaev', 'Hassan Nadeem', 'Cathlyn Stone', 'Binoy Ravindran']",,10.1145/3503222.3507779,cs.OS,"['cs.OS', 'cs.CR']",2201.08378,1
+386,2022-01-19 20:07:24+00:00,2022-01-19 20:07:24+00:00,['Victor Yodaiken'],,10.1145/3477113.3487274,cs.OS,"['cs.OS', 'cs.PL', 'd.4, d.3', 'D.4; D.3']",2201.07845,1
+387,2020-10-15 15:52:25+00:00,2020-10-15 15:52:25+00:00,"['Jonas Höchst', 'Alvar Penning', 'Patrick Lampe', 'Bernd Freisleben']",,,cs.OS,"['cs.OS', 'cs.CY']",2010.07833,1
+388,2021-09-22 20:09:25+00:00,2021-09-22 20:09:25+00:00,"['Michael Greenberg', 'Konstantinos Kallas', 'Nikos Vasilakis', 'Stephen Kell']",,,cs.OS,"['cs.OS', 'cs.PL']",2109.11016,1
+389,2023-01-27 17:57:37+00:00,2023-01-27 17:57:37+00:00,"['Dongsheng Yang', 'Daniel S. Berger', 'Kai Li', 'Wyatt Lloyd']",,,cs.OS,"['cs.OS', 'cs.DC']",2301.11886,1
+390,2023-03-17 01:52:02+00:00,2023-03-17 01:52:02+00:00,"['Mark Mansi', 'Michael M. Swift']",,,cs.OS,"['cs.OS', 'cs.DC', 'D.4.7; D.4.2; D.4.8; C.2.4']",2303.09725,1
+391,2023-01-31 05:31:45+00:00,2023-01-31 05:31:45+00:00,"['Hongyi Lu', 'Shuai Wang', 'Yechang Wu', 'Wanning He', 'Fengwei Zhang']",,,cs.CR,"['cs.CR', 'cs.OS']",2301.13421,1
+392,2020-08-05 14:07:24+00:00,2020-08-05 14:07:24+00:00,['A. H. Bell-Thomas'],,,cs.OS,['cs.OS'],2008.02145,1
+393,2021-10-22 05:36:52+00:00,2021-10-22 05:36:52+00:00,"['Dhruv Matani', 'Ketan Shah', 'Anirban Mitra']",,,cs.DS,"['cs.DS', 'cs.IR', 'cs.OS']",2110.11602,1
+394,2021-04-06 09:49:56+00:00,2021-04-06 09:49:56+00:00,"['Robert Danicki', 'Martin Haug', 'Ilja Behnke', 'Laurenz Mädje', 'Lauritz Thamsen']",,10.1145/3434770.3459733,cs.NI,"['cs.NI', 'cs.OS']",2104.02393,1
+395,2013-04-22 19:29:05+00:00,2013-04-22 19:29:05+00:00,"['Jürgen Teich', 'Wolfgang Schröder-Preikschat', 'Andreas Herkersdorf']",,,cs.OS,['cs.OS'],1304.6067,1
+396,2012-06-02 18:22:37+00:00,2012-06-02 18:22:37+00:00,"['Elsayed Saad', 'Medhat Awadalla', 'Mohamed Shalan', 'Abdullah Elewi']","the International Journal of Computer Science Issues (IJCSI), Vol.
+  9, Issue 2, No. 1, 2012, pp. 176-183",,cs.OS,['cs.OS'],1206.0396,1
+397,2020-03-25 00:37:56+00:00,2020-03-25 00:37:56+00:00,"['Jack West', 'Neil Kingensmith', 'George K. Thiruvathukal']",,,cs.DC,"['cs.DC', 'cs.OS']",2003.12452,1
+398,2011-03-20 06:56:27+00:00,2011-03-20 06:56:27+00:00,"['H. S. Behera', 'Simpi Patel', 'Bijayalakshmi Panda']",,10.5120/2037-2648,cs.OS,['cs.OS'],1103.3832,1
+399,2020-02-18 12:26:24+00:00,2020-02-18 12:26:24+00:00,"['William B. Mingardi', 'Gustavo M. D. Vieira']","WPerformance '19: Proceedings of the XVIII Computer and
+  Communication Systems Workshop, SBC, 2019",10.5753/wperformance.2019.6458,cs.OS,['cs.OS'],2002.07515,1
+400,2011-11-08 15:03:26+00:00,2011-11-08 15:03:26+00:00,"['A. A. Boudhir', 'M. Bouhorma', 'M. Ben Ahmed', 'Elbrak Said']","International Journal of Wireless & Mobile Networks October Issue
+  2011",10.5121/ijwmn,cs.NI,"['cs.NI', 'cs.MM', 'cs.OS', 'J.2.2']",1111.1930,1
+401,2020-03-11 04:03:40+00:00,2020-03-11 04:03:40+00:00,"['Xiaozhe Gu', 'Arvind Easwaran']","IEEE Real-Time Systems Symposium (RTSS), Porto, Portugal, 2016,
+  pages 47-56",10.1109/RTSS.2016.014,cs.DC,"['cs.DC', 'cs.OS']",2003.08364,1
+402,2020-03-11 08:58:29+00:00,2020-03-11 08:58:29+00:00,"['Saravanan Ramanathan', 'Arvind Easwaran', 'Hyeonjoong Cho']","Springer Real-Time Systems, Issue 54, pages 247-277, April 2018",10.1007/s11241-017-9296-1,cs.OS,"['cs.OS', 'cs.SY', 'eess.SY']",2003.05168,1
+403,2020-10-26 14:07:06+00:00,2020-10-26 14:07:06+00:00,"['Ryousei Takano', 'Kuniyasu Suzaki']",,,cs.OS,['cs.OS'],2010.13594,1
+404,2020-04-12 01:59:20+00:00,2020-04-12 01:59:20+00:00,"['David Domingo', 'Kyle Stratton', 'Sudarsun Kannan']",,,cs.OS,['cs.OS'],2004.05524,1
+405,2022-01-10 10:19:49+00:00,2022-01-10 10:19:49+00:00,"['Tristan Braud', 'Lik-Hang Lee', 'Ahmad Alhilal', 'Carlos Bermejo Fernández', 'Pan Hui']",,,cs.HC,"['cs.HC', 'cs.MM', 'cs.OS']",2201.03256,1
+406,2011-04-18 15:39:21+00:00,2011-04-18 15:39:21+00:00,"['Paul Regnier', 'George Lima', 'Ernesto Massa']",,,cs.OS,"['cs.OS', '98B35, 68M20', 'C.3.3']",1104.3523,1
+407,2022-03-18 10:54:33+00:00,2022-03-18 10:54:33+00:00,['Amirhosein Sayyadabdi'],,,cs.CR,"['cs.CR', 'cs.OS']",2203.09857,1
+408,2012-05-01 09:17:43+00:00,2012-05-01 09:17:43+00:00,"['Jagbeer Singh', 'Satyendra Prasad Singh']",,,cs.OS,['cs.OS'],1205.0124,1
+409,2020-10-17 08:34:08+00:00,2020-10-17 08:34:08+00:00,"['Yanliang Zou', 'Tongliang Deng', 'Jian Zhang', 'Chen Chen', 'Shu Yin']",,,cs.OS,['cs.OS'],2010.08741,1
+410,2011-03-11 19:12:15+00:00,2011-03-11 19:12:15+00:00,"['Felix Xiaozhu Lin', 'Zhen Wang', 'Robert LiKamWa', 'Lin Zhong']",,,cs.OS,"['cs.OS', 'cs.PL']",1103.2348,1
+411,2012-04-01 11:05:34+00:00,2012-04-01 11:05:34+00:00,['Youssef Bassil'],,,cs.OS,['cs.OS'],1204.0197,1
+412,2022-01-19 16:51:18+00:00,2022-01-19 16:51:18+00:00,"['Zahra Tarkhani', 'Lorena Qendro', ""Malachy O'Connor Brown"", 'Oscar Hill', 'Cecilia Mascolo', 'Anil Madhavapeddy']",,,cs.CR,"['cs.CR', 'cs.HC', 'cs.LG', 'cs.OS']",2201.07711,1
+413,2011-03-11 18:36:38+00:00,2011-03-11 18:36:38+00:00,"['Nabil Litayem', 'Ahmed Ben Achballah', 'Slim Ben Saoud']",,,cs.OS,['cs.OS'],1103.2336,1
+414,2021-10-22 11:05:34+00:00,2021-10-22 11:05:34+00:00,"['Wenjun Huang', 'Marcus Paradies']",,,cs.AR,"['cs.AR', 'cs.DB', 'cs.OS']",2111.01947,1
+415,2020-04-20 20:35:12+00:00,2020-04-20 20:35:12+00:00,"['Rajat Kateja', 'Andy Pavlo', 'Gregory R. Ganger']",,,cs.OS,['cs.OS'],2004.09619,1
+416,2011-09-14 13:26:07+00:00,2011-09-14 13:26:07+00:00,"['Rakesh Mohanty', 'Manas Das', 'M. Lakshmi Prasanna', 'Sudhashree']",,,cs.OS,['cs.OS'],1109.3075,1
+417,2020-03-11 08:38:34+00:00,2020-03-11 08:38:34+00:00,"['Xiaozhe Gu', 'Arvind Easwaran']","ACM Transactions on Embedded Computing Systems, Volume 17, Issue
+  1, Pages 24:1-24:24, November 2017",10.1145/3105922,cs.OS,"['cs.OS', 'cs.SY', 'eess.SY']",2003.05160,1
+418,2011-11-25 02:10:11+00:00,2011-11-25 02:10:11+00:00,"['Fumin Zhang', 'Zhenwu Shi', 'Shayok Mukhopadhyay']",,,cs.ET,"['cs.ET', 'cs.OS', 'cs.SY', 'C.3; D.4.1; G.4']",1111.5880,1
+419,2020-03-11 03:32:55+00:00,2020-03-11 03:32:55+00:00,"['Jalil Boudjadar', 'Saravanan Ramanathan', 'Arvind Easwaran', 'Ulrik Nyman']","IEEE/ACM International Symposium on Distributed Simulation and
+  Real Time Applications (DS-RT), Cosenza, Italy, 2019, pages 1-10",10.1109/DS-RT47707.2019.8958666,cs.OS,['cs.OS'],2003.05442,1
+420,2020-04-14 08:35:33+00:00,2020-04-14 08:35:33+00:00,"['Aleix Roca', 'Samuel Rodríguez', 'Albert Segura', 'Kevin Marquet', 'Vicenç Beltran']",,10.1109/HiPC.2019.00050,cs.OS,"['cs.OS', 'cs.DC', 'D.4.1; D.3.3']",2004.06354,1
+421,2011-11-22 21:44:25+00:00,2011-11-22 21:44:25+00:00,"['Abbas Noon', 'Ali Kalakech', 'Seifedine Kadry']","IJCSI International Journal of Computer Science Issues, Vol. 8,
+  Issue 3, No. 1, 2011, 224-229",,cs.OS,"['cs.OS', '68N25', 'B.1.5']",1111.5348,1
+422,2011-12-21 19:02:12+00:00,2011-12-21 19:02:12+00:00,"['Ye Li', 'Matthew Danish', 'Richard West']",,,cs.OS,['cs.OS'],1112.5136,1
+423,2020-03-11 05:11:33+00:00,2020-03-11 05:11:33+00:00,"['Saravanan Ramanathan', 'Arvind Easwaran']","Design, Automation & Test in Europe Conference & Exhibition
+  (DATE), 2017, Lausanne, 2017, pages 238-243",10.23919/DATE.2017.7926989,cs.OS,['cs.OS'],2003.05445,1
+424,2020-03-03 05:33:23+00:00,2020-03-03 05:33:23+00:00,"['Arnab Paul', 'Mamdudul Haque Khan', 'M. Muktadir Rahman', 'Tanvir Zaman Khan', 'Prajoy Podder', 'Md. Yeasir Akram Khan']","2015 International Conference on Electrical, Electronics, Signals,
+  Communication and Optimization (EESCO)",10.1109/EESCO.2015.7253744,cs.DC,"['cs.DC', 'cs.NI', 'cs.OS']",2003.01107,1
+425,2020-11-27 12:27:31+00:00,2020-11-27 12:27:31+00:00,"['Sofian Hamad', 'Taoufik Yeferny']","IJCSNS International Journal of Computer Science and Network
+  Security, VOL.20 No.3, March 2020",,cs.NI,"['cs.NI', 'cs.OS']",2101.03109,1
+426,2010-12-14 16:10:08+00:00,2010-12-14 16:10:08+00:00,"['Ahmad Rahmati', 'Clay Shepard', 'Chad Tossell', 'Angela Nicoara', 'Lin Zhong', 'Phil Kortum', 'Jatinder Singh']",,,cs.NI,"['cs.NI', 'cs.OS']",1012.3071,1
+427,2011-10-26 13:53:41+00:00,2011-10-26 13:53:41+00:00,"['Vandy Berten', 'Joël Goossens']",,,cs.OS,['cs.OS'],1110.5793,1
+428,2020-02-25 13:43:53+00:00,2020-02-25 13:43:53+00:00,"['Kornilios Kourtis', 'Animesh Trivedi', 'Nikolas Ioannou']",,,cs.DC,"['cs.DC', 'cs.OS']",2002.11528,1
+429,2022-01-25 17:21:58+00:00,2022-01-25 17:21:58+00:00,"['Yawen Wang', 'Daniel Crankshaw', 'Neeraja J. Yadwadkar', 'Daniel Berger', 'Christos Kozyrakis', 'Ricardo Bianchini']",,,cs.OS,['cs.OS'],2201.10477,1
+430,2020-03-11 05:00:53+00:00,2020-03-11 05:00:53+00:00,['Arvind Easwaran'],"IEEE Real-Time Systems Symposium (RTSS), Vancouver, Canada, 2013,
+  pages 78-87",10.1109/RTSS.2013.16,cs.OS,['cs.OS'],2003.05444,1
+431,2011-03-20 06:45:16+00:00,2011-03-20 06:45:16+00:00,"['H. S. Behera', 'Rakesh Mohanty', 'Debashree Nayak']",,,cs.OS,['cs.OS'],1103.3831,1
+432,2013-01-21 10:00:22+00:00,2013-01-21 10:00:22+00:00,['Omar Kermia'],"International Journal of Computer Applications 62(14):1-7, January
+  2013. Published by Foundation of Computer Science, New York, USA",10.5120/10145-4978,cs.OS,"['cs.OS', 'cs.DC']",1301.4800,1
+433,2013-02-22 09:01:24+00:00,2013-02-22 09:01:24+00:00,"['Mikael Moghadam', 'David Johan Christensen', 'David Brandt', 'Ulrik Pagh Schultz']",,,cs.RO,"['cs.RO', 'cs.OS', 'cs.PL', 'cs.SE']",1302.5521,1
+434,2011-05-09 17:29:03+00:00,2011-05-09 17:29:03+00:00,"['Rakesh Mohanty', 'H. S. Behera', 'Khusbu Patwari', 'Monisha Dash', 'M. Lakshmi Prasanna']","International Journal of Advanced Computer Science and
+  Applications(IJACSA), Vol. 2 No. 2, February 2011 2011, 46-50",,cs.OS,['cs.OS'],1105.1736,1
+435,2011-04-12 04:06:34+00:00,2011-04-12 04:06:34+00:00,"['Heechul Yun', 'Cheolgi Kim', 'Lui Sha']",,,cs.OS,"['cs.OS', 'cs.SY']",1104.2110,1
+436,2010-12-18 00:51:57+00:00,2010-12-18 00:51:57+00:00,"['George Anderson', 'Tshilidzi Marwala', 'Fulufhelo Vincent Nelwamondo']",,,cs.OS,['cs.OS'],1012.4045,1
+437,2011-05-09 22:39:46+00:00,2011-05-09 22:39:46+00:00,['Niall Douglas'],,,cs.OS,"['cs.OS', 'cs.PF', 'C.4; D.4.2']",1105.1815,1
+438,2011-06-15 15:18:27+00:00,2011-06-15 15:18:27+00:00,['Michiel W. van Tol'],,,cs.PF,"['cs.PF', 'cs.DC', 'cs.OS']",1106.2992,1
+439,2011-05-16 21:45:54+00:00,2011-05-16 21:45:54+00:00,"['Sokol Kosta', 'Andrius Aucinas', 'Pan Hui', 'Richard Mortier', 'Xinwen Zhang']",,,cs.DC,"['cs.DC', 'cs.NI', 'cs.OS']",1105.3232,1
+440,2012-05-29 17:10:29+00:00,2012-05-29 17:10:29+00:00,"['Plawan Kumar Rath', 'G. N. Anil']",,,cs.OS,['cs.OS'],1205.6423,1
+441,2011-07-24 19:39:02+00:00,2011-07-24 19:39:02+00:00,"['Roya Golchay', 'Frédéric Le Mouël', 'Stéphane Frénot', 'Julien Ponge']",UbiMob'2011 (2011) 45--48,,cs.OS,['cs.OS'],1107.4786,1
+442,2021-01-20 10:54:59+00:00,2021-01-20 10:54:59+00:00,"['Geunsik Lim', 'Donghyun Kang', 'Young Ik Eom']",,10.1109/TCE.2020.3033328,cs.OS,"['cs.OS', 'cs.DC', 'cs.PF']",2101.08062,1
+443,2020-09-01 14:24:20+00:00,2020-09-01 14:24:20+00:00,"['Oliver Horst', 'Uwe Baumgarten']",,,cs.OS,['cs.OS'],2009.00466,1
+444,2020-11-24 13:54:55+00:00,2020-11-24 13:54:55+00:00,"['Venkat Sri Sai Ram', 'Ashish Panwar', 'Arkaprava Basu']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.PF', 'D.4']",2011.12092,1
+445,2021-01-21 22:54:21+00:00,2021-01-21 22:54:21+00:00,"['Geunsik Lim', 'Changwoo Min', 'Young Ik Eom']",,10.1109/TCE.2013.6689690,cs.AR,"['cs.AR', 'cs.OS', 'cs.PF']",2101.08877,1
+446,2013-02-20 15:50:29+00:00,2013-02-20 15:50:29+00:00,"['Marco Sironi', 'Francesco Tisato']",,,cs.OS,['cs.OS'],1302.5109,1
+447,2019-04-23 14:14:49+00:00,2019-04-23 14:14:49+00:00,"['Moo-Ryong Ra', 'Hee Won Lee']",,,cs.DC,"['cs.DC', 'cs.OS']",1904.09984,1
+448,2019-10-31 15:47:35+00:00,2019-10-31 15:47:35+00:00,"['Bharath Honnesara Sreenivasa', 'Ajay Rajan']",,,cs.PF,"['cs.PF', 'cs.OS']",1910.14546,1
+449,2019-12-14 15:17:00+00:00,2019-12-14 15:17:00+00:00,"['Ronny Chevalier', 'David Plaquin', 'Chris Dalton', 'Guillaume Hiet']","Proceedings of the 35th Annual Computer Security Applications
+  Conference. ACM, 2019. p. 762-775",10.1145/3359789.3359792,cs.CR,"['cs.CR', 'cs.OS']",1912.06863,1
+450,2010-12-28 04:35:02+00:00,2010-12-28 04:35:02+00:00,"['Santhi Baskaran', 'P. Thambidurai']",,,cs.OS,['cs.OS'],1012.5695,1
+451,2010-12-29 12:41:13+00:00,2010-12-29 12:41:13+00:00,"['Joël Goossens', 'Patrick Meumeu Yomsi']",,,cs.OS,['cs.OS'],1012.5929,1
+452,2010-11-13 02:17:29+00:00,2010-11-13 02:17:29+00:00,"['Hongtao Huang', 'Feng Xia', 'Jijie Wang', 'Siyu Lei', 'Guowei Wu']",,10.1109/FCST.2010.105,cs.DC,"['cs.DC', 'cs.OS', '68M20', 'C.3; D.4']",1011.3087,1
+453,2011-02-10 12:15:58+00:00,2011-02-10 12:15:58+00:00,"['Vincent Nelis', 'Patrick Meumeu Yomsi', 'Björn Andersson', 'Joël Goossens']",,,cs.OS,['cs.OS'],1102.2094,1
+454,2011-05-25 16:15:35+00:00,2011-05-25 16:15:35+00:00,"['Irina Iulia Lupu', 'Joël Goossens']",,,cs.OS,['cs.OS'],1105.5080,1
+455,2012-05-08 13:12:27+00:00,2012-05-08 13:12:27+00:00,"['Sumit Sharma', 'Rohitt Sharma', 'Paramjit Singh', 'Aditya Mahajan']","International Journal of Computer Science, Engineering and
+  Applications (IJCSEA) 2,2: 177-184 April 2012",10.5121/ijcsea.2012.2215,cs.OS,['cs.OS'],1205.1687,1
+456,2010-10-27 05:04:38+00:00,2010-10-27 05:04:38+00:00,"['Matthieu Lemerre', 'Vincent David', 'Christophe Aussaguès', 'Guy Vidal-Naquet']","EPTCS 38, 2010, pp. 83-98",10.4204/EPTCS.38.9,cs.LO,"['cs.LO', 'cs.FL', 'cs.OS', 'cs.SE']",1010.5571,1
+457,2012-06-27 09:33:06+00:00,2012-06-27 09:33:06+00:00,"['Javier Merino', 'Valentin Puente', 'José Ángel Gregorio']",,,cs.AR,"['cs.AR', 'cs.OS']",1206.6213,1
+458,2020-04-12 01:25:04+00:00,2020-04-12 01:25:04+00:00,"['Fei Wen', 'Mian Qin', 'Paul Gratz', 'Narasimha Reddy']",,,cs.AR,"['cs.AR', 'cs.OS']",2004.05518,1
+459,2010-11-08 09:07:54+00:00,2010-11-08 09:07:54+00:00,"['George Anderson', 'Tshilidzi Marwala', 'Fulufhelo V. Nelwamondo']",,,cs.OS,['cs.OS'],1011.1735,1
+460,2019-11-20 08:57:09+00:00,2019-11-20 08:57:09+00:00,"['Roni Haecki', 'Lukas Humbel', 'Reto Achermann', 'David Cock', 'Daniel Schwyn', 'Timothy Roscoe']",,,cs.OS,['cs.OS'],1911.08773,1
+461,2011-01-06 10:28:58+00:00,2011-01-06 10:28:58+00:00,"['Sudipta Das', 'Lawrence Jenkins', 'Debasis Sengupta']",,,cs.OS,['cs.OS'],1101.1466,1
+462,2013-02-07 13:52:09+00:00,2013-02-07 13:52:09+00:00,"['Nathan Fisher', 'Joël Goossens', 'Pradeep M. Hettiarachchi', 'Antonio Paolillo']",,,cs.OS,['cs.OS'],1302.1747,1
+463,2013-02-22 07:32:48+00:00,2013-02-22 07:32:48+00:00,"['Srimugunthan', 'K. Gopinath', 'Giridhar Appaji Nag Yasa']",,,cs.OS,['cs.OS'],1302.5502,1
+464,2021-11-18 14:35:14+00:00,2021-11-18 14:35:14+00:00,"['Mario Günzel', 'Kuan-Hsun Chen', 'Jian-Jia Chen']",,,cs.OS,['cs.OS'],2111.09725,1
+465,2013-02-06 10:06:39+00:00,2013-02-06 10:06:39+00:00,"['Youcheng Sun', 'Romain Soulat', 'Giuseppe Lipari', 'Étienne André', 'Laurent Fribourg']",,,cs.DC,"['cs.DC', 'cs.OS']",1302.1306,1
+466,2020-09-16 08:16:27+00:00,2020-09-16 08:16:27+00:00,"['Johann Schleier-Smith', 'Leonhard Holz', 'Nathan Pemberton', 'Joseph M. Hellerstein']",,,cs.DC,"['cs.DC', 'cs.OS']",2009.09845,1
+467,2010-12-15 20:38:40+00:00,2010-12-15 20:38:40+00:00,"['Mohammad R Nikseresht', 'Anil Somayaji', 'Anil Maheshwari']",,,cs.OS,['cs.OS'],1012.3452,1
+468,2020-02-20 18:25:42+00:00,2020-02-20 18:25:42+00:00,"['Ruslan Nikolaev', 'Mincheol Sung', 'Binoy Ravindran']",,10.1145/3381052.3381316,cs.OS,['cs.OS'],2002.08928,1
+469,2016-05-19 05:03:00+00:00,2016-05-19 05:03:00+00:00,['SungWon Chung'],,,cs.OS,['cs.OS'],1605.05810,1
+470,2021-04-09 13:16:06+00:00,2021-04-09 13:16:06+00:00,"['Jiyang Chen', 'Tomasz Kloda', 'Ayoosh Bansal', 'Rohan Tabish', 'Chien-Ying Chen', 'Bo Liu', 'Sibin Mohan', 'Marco Caccamo', 'Lui Sha']",,,cs.CR,"['cs.CR', 'cs.OS']",2104.04528,1
+471,2008-03-16 18:24:13+00:00,2008-03-16 18:24:13+00:00,"['V Sriram', 'Ganesh Narayan', 'K Gopinath']","Fourth International IEEE Security in Storage Workshop, 2007 -
+  SISW '07. Publication Date: 27-27 Sept. 2007 On page(s): 34-45",10.1109/SISW.2007.7,cs.OS,"['cs.OS', 'cs.CR', 'cs.DC', 'cs.NI', 'cs.PF', 'D.4.6; D.4.2; C.2.4']",0803.2365,1
+472,2013-09-06 18:14:04+00:00,2013-09-06 18:14:04+00:00,"['Pierre Olivier', 'Jalil Boukhobza', 'Eric Senn']",,,cs.OS,"['cs.OS', 'cs.PF']",1309.1714,1
+473,2013-07-16 05:25:16+00:00,2013-07-16 05:25:16+00:00,"['Neetu Goel', 'R. B. Garg']","Published in National Conference on Information Communication &
+  Networks, Dated: April 6,2013 organized by Tecnia Institute of Advanced
+  Studies",,cs.OS,['cs.OS'],1307.4167,1
+474,2014-02-20 08:33:02+00:00,2014-02-20 08:33:02+00:00,['Asen Petkov Iliev'],"IJITEE (ISSN: 2278 - 3075, Volume-3, Issue-4, September 2013) 96 -
+  98",,cs.OS,['cs.OS'],1402.4929,1
+475,2013-10-03 05:51:48+00:00,2013-10-03 05:51:48+00:00,"['Thomas M. Baumann', 'Jose Gracia']",,,cs.SE,"['cs.SE', 'cs.OS', 'cs.PL']",1310.0901,1
+476,2014-06-21 02:04:56+00:00,2014-06-21 02:04:56+00:00,"['Ashkan Rahimian', 'Raha Ziarati', 'Stere Preda', 'Mourad Debbabi']","LNCS 8352, 2014, pp 408-425",10.1007/978-3-319-05302-8_25,cs.CR,"['cs.CR', 'cs.NI', 'cs.OS', 'cs.SE', 'D.4.6; K.6.5; E.3; D.2.7']",1406.5569,1
+477,2013-05-07 10:22:31+00:00,2013-05-07 10:22:31+00:00,"['Pier Stanislao Paolucci', 'Iuliana Bacivarov', 'Gert Goossens', 'Rainer Leupers', 'Frédéric Rousseau', 'Christoph Schumacher', 'Lothar Thiele', 'Piero Vicini']",,10.12837/2013T01,cs.DC,"['cs.DC', 'cs.AR', 'cs.NE', 'cs.OS', 'cs.PL', 'C.1.4; C.3; B.7.2; F.2.2']",1305.1459,1
+478,2013-11-13 22:05:58+00:00,2013-11-13 22:05:58+00:00,"['Thanh Do', 'Haryadi S. Gunawi']",,,cs.OS,"['cs.OS', 'cs.DC']",1311.3322,1
+479,2012-07-06 11:48:24+00:00,2012-07-06 11:48:24+00:00,"['P. Radha Krishna Reddy', 'Ashim Roy', 'G. Sireesha', 'Ismatha Begum', 'S. Siva Ramaiah']",,,cs.OS,['cs.OS'],1207.1591,1
+480,2013-06-06 06:57:57+00:00,2013-06-06 06:57:57+00:00,"['Joël Goossens', 'Pascal Richard']",,,cs.OS,['cs.OS'],1306.1316,1
+481,2016-08-15 15:26:22+00:00,2016-08-15 15:26:22+00:00,"['Răzvan Deaconescu', 'Luke Deshotels', 'Mihai Bucicoiu', 'William Enck', 'Lucas Davi', 'Ahmad-Reza Sadeghi']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.4.6']",1608.04303,1
+482,2013-04-12 07:33:42+00:00,2013-04-12 07:33:42+00:00,"['Radhwan Y Ameen', 'Asmaa Y. Hamo']",,,cs.OS,['cs.OS'],1304.3557,1
+483,2013-05-16 15:54:12+00:00,2013-05-16 15:54:12+00:00,"['Emmanuel Grolleau', 'Joël Goossens', 'Liliana Cucu-Grosjean']",,,cs.OS,['cs.OS'],1305.3849,1
+484,2016-06-14 14:22:25+00:00,2016-06-14 14:22:25+00:00,"['Jian-Jia Chen', 'Björn B. Brandenburg']",,10.4230/LITES-v004-i001-a001,cs.DC,"['cs.DC', 'cs.OS', 'C.3; D.4.1']",1606.04386,1
+485,2016-06-08 16:52:03+00:00,2016-06-08 16:52:03+00:00,"['Mason Thammawichai', 'Eric C. Kerrigan']","Proc. 55th IEEE Conference on Decision and Control, 2016",10.1109/CDC.2016.7798501,cs.OS,"['cs.OS', 'cs.DC', 'cs.SY', 'math.OC']",1606.02635,1
+486,2004-12-09 01:20:39+00:00,2004-12-09 01:20:39+00:00,"['Kevin Lai', 'Lars Rasmusson', 'Eytan Adar', 'Stephen Sorkin', 'Li Zhang', 'Bernardo A. Huberman']",,,cs.DC,"['cs.DC', 'cs.OS', 'C.2.4; D.4.1; K.6.4']",cs/0412038,1
+487,2013-05-15 02:53:19+00:00,2013-05-15 02:53:19+00:00,"['Weibin Sun', 'Robert Ricci']",,,cs.OS,"['cs.OS', 'D.4.7']",1305.3345,1
+488,2012-11-20 19:33:08+00:00,2012-11-20 19:33:08+00:00,['Mohamed Farag'],"International Journal of Computer Science & Information Technology
+  (IJCSIT) Vol 4, No 5, October 2012",10.5121/ijcsit.2012.4510,cs.OS,"['cs.OS', 'cs.SY']",1211.4839,1
+489,2012-11-20 19:38:00+00:00,2012-11-20 19:38:00+00:00,['Mohamed Farag'],,10.5121/ijcsit.2012.4405,cs.OS,['cs.OS'],1211.4840,1
+490,2012-09-19 03:59:12+00:00,2012-09-19 03:59:12+00:00,"['Kamlesh Sharma', 'T. V. Prasad']",,,cs.OS,['cs.OS'],1209.4600,1
+491,2012-11-27 02:36:45+00:00,2012-11-27 02:36:45+00:00,"['Hendrik Tews', 'Marcus Völp', 'Tjark Weber']","EPTCS 102, 2012, pp. 73-87",10.4204/EPTCS.102.8,cs.LO,"['cs.LO', 'cs.OS', 'cs.PL']",1211.6190,1
+492,2005-08-31 01:44:35+00:00,2005-08-31 01:44:35+00:00,"['Mary Baker', 'Mehul Shah', 'David S. H. Rosenthal', 'Mema Roussopoulos', 'Petros Maniatis', 'TJ Giuli', 'Prashanth Bungale']",,,cs.DL,"['cs.DL', 'cs.DB', 'cs.OS']",cs/0508130,1
+493,2012-12-08 12:56:49+00:00,2012-12-08 12:56:49+00:00,"['Rohan Garg', 'Komal Sodha', 'Gene Cooperman']",,,cs.OS,['cs.OS'],1212.1787,1
+494,2012-12-12 11:37:48+00:00,2012-12-12 11:37:48+00:00,"['Vincenzo Bonifaci', 'Alberto Marchetti-Spaccamela', 'Sebastian Stiller', 'Andreas Wiese']","Proceedings of the 2013 25th Euromicro Conference on Real-Time
+  Systems",10.1109/ECRTS.2013.32,cs.DS,"['cs.DS', 'cs.OS', 'D.4.1; F.2.2']",1212.2778,1
+495,2012-11-27 02:37:28+00:00,2012-11-27 02:37:28+00:00,"['Christel Baier', 'Marcus Daum', 'Benjamin Engel', 'Hermann Härtig', 'Joachim Klein', 'Sascha Klüppelholz', 'Steffen Märcker', 'Hendrik Tews', 'Marcus Völp']","EPTCS 102, 2012, pp. 156-166",10.4204/EPTCS.102.14,cs.LO,"['cs.LO', 'cs.OS']",1211.6196,1
+496,2012-08-31 06:31:48+00:00,2012-08-31 06:31:48+00:00,"['Pierre Olivier', 'Jalil Boukhobza', 'Eric Senn']",,,cs.OS,['cs.OS'],1208.6390,1
+497,2006-01-14 23:21:31+00:00,2006-01-14 23:21:31+00:00,['Sorav Bansal'],,,cs.OS,"['cs.OS', 'cs.CR']",cs/0601068,1
+498,2012-10-03 09:15:19+00:00,2012-10-03 09:15:19+00:00,"['Julien Ponge', 'Frédéric Le Mouël']",,,cs.OS,"['cs.OS', 'cs.PL']",1210.1039,1
+499,2012-08-31 06:53:14+00:00,2012-08-31 06:53:14+00:00,"['Piyus Kedia', 'Sorav Bansal', 'Deepak Deshpande', 'Sreekanth Iyer']",,10.1109/CCEM.2012.6354601,cs.OS,"['cs.OS', 'cs.DC']",1208.6406,1
+500,2004-11-23 16:52:26+00:00,2004-11-23 16:52:26+00:00,"['C. A. G. Assis', 'E. S. T. Fernandes', 'V. C. Barbosa']","Computer Journal 49 (2006), 744-761",10.1093/comjnl/bxl044,cs.OS,"['cs.OS', 'B.3.2']",cs/0411080,1
+501,2012-11-27 02:36:24+00:00,2012-11-27 02:36:24+00:00,"['Gidon Ernst', 'Gerhard Schellhorn', 'Dominik Haneberg', 'Jörg Pfähler', 'Wolfgang Reif']","EPTCS 102, 2012, pp. 33-45",10.4204/EPTCS.102.5,cs.LO,"['cs.LO', 'cs.OS', 'cs.SE']",1211.6187,1
+502,2012-10-24 07:56:48+00:00,2012-10-24 07:56:48+00:00,"['S. Yashvir', 'Om Prakash']",,,cs.OS,['cs.OS'],1210.6447,1
+503,2012-08-31 09:04:05+00:00,2012-08-31 09:04:05+00:00,"['Pierre Olivier', 'Jalil Boukhobza']","ACM SIGBED Review 9(2) 38-42 9, 2 (2012) 38-42",,cs.OS,"['cs.OS', 'cs.AR', 'cs.PF']",1208.6428,1
+504,2010-10-21 10:12:59+00:00,2010-10-21 10:12:59+00:00,"['Fabiano de S. Oliveira', 'Valmir C. Barbosa']","Networks 63 (2014), 203-210",10.1002/net.21537,cs.DC,"['cs.DC', 'cs.OS']",1010.4411,1
+505,2012-10-10 12:13:30+00:00,2012-10-10 12:13:30+00:00,"['Oumair Naseer', 'Rana Atif Ali Khan']",,,cs.SY,"['cs.SY', 'cs.OS']",1210.2882,1
+506,2022-01-03 11:39:46+00:00,2022-01-03 11:39:46+00:00,"['Ilja Behnke', 'Philipp Wiesner', 'Robert Danicki', 'Lauritz Thamsen']",,10.1145/3477314.3507165,cs.NI,"['cs.NI', 'cs.AR', 'cs.DC', 'cs.OS', 'C.2.4; B.4.1; D.4.4']",2201.00594,1
+507,2013-05-12 02:44:15+00:00,2013-05-12 02:44:15+00:00,"['Jun Wang', 'Xi Xiong', 'Peng Liu']",,,cs.OS,"['cs.OS', 'cs.CR', 'D.4.6']",1305.2553,1
+508,2019-05-20 16:16:17+00:00,2019-05-20 16:16:17+00:00,"['Sahil Suneja', 'Canturk Isci']",,,cs.CR,"['cs.CR', 'cs.OS', 'cs.SE']",1905.08192,1
+509,1999-08-03 14:50:09+00:00,1999-08-03 14:50:09+00:00,['Burkhard D. Burow'],,,cs.PL,"['cs.PL', 'cs.DC', 'cs.OS', 'A.1;D.1.1;D.1.3;D.1.4;D.2.11;D.3.2;D.3.3;D.3.4;D.4.5;D.4.7;E.1;F.1.2']",cs/9908002,1
+510,2004-09-17 21:51:24+00:00,2004-09-17 21:51:24+00:00,['Paul Stanton'],,,cs.OS,"['cs.OS', 'cs.CR', 'D.4.3;D.4.6;K.6.5']",cs/0409034,1
+511,2006-11-22 19:28:31+00:00,2006-11-22 19:28:31+00:00,"['Mark Miyashita', 'Mikhail Nesterenko']",,,cs.DC,"['cs.DC', 'cs.DS', 'cs.OS']",cs/0611117,1
+512,2005-04-13 16:37:59+00:00,2005-04-13 16:37:59+00:00,"['Tassos S. Argyros', 'David R. Cheriton']",,,cs.DC,"['cs.DC', 'cs.DB', 'cs.NI', 'cs.OS', 'cs.PL']",cs/0504051,1
+513,2010-08-09 19:23:10+00:00,2010-08-09 19:23:10+00:00,"['Ananth Narayan S', 'Somsubhra Sharangi', 'Alexandra Fedorova']",,,cs.PF,"['cs.PF', 'cs.OS']",1008.1571,1
+514,2006-11-14 10:11:34+00:00,2006-11-14 10:11:34+00:00,"['Christophe Rippert', 'Alexandre Courbot', 'Gilles Grimaud']","Dans 3rd ACM International Conference on the Principles and
+  Practice of Programming in Java (2004)",,cs.OS,['cs.OS'],cs/0611055,1
+515,2007-10-25 08:09:07+00:00,2007-10-25 08:09:07+00:00,['Tadashi Takeuchi'],"Dans Design, Automation and Test in Europe - DATE'05, Munich :
+  Allemagne (2005)",,cs.OS,['cs.OS'],0710.4635,1
+516,2004-03-06 02:52:17+00:00,2004-03-06 02:52:17+00:00,"['George Candea', 'Armando Fox']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.NI', 'D.4.5']",cs/0403007,1
+517,2008-01-28 14:30:34+00:00,2008-01-28 14:30:34+00:00,"['Liliana Cucu', 'Joël Goossens']",,,cs.OS,['cs.OS'],0801.4292,1
+518,2005-11-02 19:52:58+00:00,2005-11-02 19:52:58+00:00,['Nadir Kiyanclar'],,,cs.OS,"['cs.OS', 'D.4.m']",cs/0511010,1
+519,2005-02-02 04:43:33+00:00,2005-02-02 04:43:33+00:00,"['Peter Kukol', 'Jim Gray']",,,cs.PF,"['cs.PF', 'cs.OS']",cs/0502012,1
+520,2005-02-04 22:48:31+00:00,2005-02-04 22:48:31+00:00,['Kevin Lai'],,,cs.OS,"['cs.OS', 'D.4.0; D.4.7; K.6.0']",cs/0502027,1
+521,2005-08-12 16:13:32+00:00,2005-08-12 16:13:32+00:00,['Michel R. Dagenais'],,,cs.PF,"['cs.PF', 'cs.OS']",cs/0508063,1
+522,2007-05-19 00:02:24+00:00,2007-05-19 00:02:24+00:00,['Joachim J. Wlodarz'],,,cs.OS,"['cs.OS', 'cs.CR']",0705.2786,1
+523,2017-09-28 19:30:05+00:00,2017-09-28 19:30:05+00:00,"['Carlos Arango', 'Rémy Dernat', 'John Sanabria']",,,cs.OS,"['cs.OS', 'cs.DC', 'cs.PF']",1709.10140,1
+524,2014-04-06 23:53:01+00:00,2014-04-06 23:53:01+00:00,['Yauhen Klimiankou'],"International Journal of Computer Science and Information
+  Security, Vol. 12 No. 1 JAN 2014",,cs.OS,['cs.OS'],1404.1637,1
+525,2006-03-18 17:27:22+00:00,2006-03-18 17:27:22+00:00,"['Bryan Ford', 'Jacob Strauss', 'Chris Lesniewski-Laas', 'Sean Rhea', 'Frans Kaashoek', 'Robert Morris']","5th International Workshop on Peer-to-Peer Systems, February 2006
+  (IPTPS 2006), Santa Barbara, CA",,cs.NI,"['cs.NI', 'cs.DC', 'cs.OS', 'C.2.1; C.2.2']",cs/0603076,1
+526,2003-09-23 13:57:01+00:00,2003-09-23 13:57:01+00:00,['V. C. Barbosa'],,10.1007/978-1-4757-3609-0_2,cs.OS,"['cs.OS', 'cs.DC', 'D.1.3; D.4.1']",cs/0309044,1
+527,2012-11-27 02:36:10+00:00,2012-11-27 02:36:10+00:00,"['Sidney Amani', 'Peter Chubb', 'Alastair F. Donaldson', 'Alexander Legg', 'Leonid Ryzhyk', 'Yanjin Zhu']","EPTCS 102, 2012, pp. 4-17",10.4204/EPTCS.102.3,cs.OS,"['cs.OS', 'cs.SE', 'D.4.4; B.4.2; D.2.4']",1211.6185,1
+528,2003-02-24 22:03:30+00:00,2003-02-24 22:03:30+00:00,"['Sampsa Fabritius', 'Raimondas Lencevicius', 'Edu Metz', 'Alexander Ran']",,,cs.SE,"['cs.SE', 'cs.OS', 'D.2.8;D.4.1']",cs/0302033,1
+529,2000-06-08 16:50:24+00:00,2000-06-08 16:50:24+00:00,['Neil J. Gunther'],Proc. CMG'99 Conf. p.194-205,,cs.PF,"['cs.PF', 'cs.OS', 'C.4;D.4.1;D.4.8']",cs/0006014,1
+530,2005-03-28 15:32:43+00:00,2005-03-28 15:32:43+00:00,"['Sameer Tilak', 'Bhanu Pisupati', 'Kenneth Chiu', 'Geoffrey Brown', 'Nael Abu-Ghazaleh']",,,cs.NI,"['cs.NI', 'cs.OS', 'D.4.3 Distributed file systems; C.2.1 Wireless communication']",cs/0503074,1
+531,2001-04-07 17:17:14+00:00,2001-04-07 17:17:14+00:00,"['David G. Andersen', 'Deepak Bansal', 'Dorothy Curtis', 'Srinivasan Seshan', 'Hari Balakrishnan']",Proc. OSDI 2000,,cs.NI,"['cs.NI', 'cs.OS', 'D.4.4']",cs/0104012,1
+532,2001-11-10 03:30:11+00:00,2001-11-10 03:30:11+00:00,['Till Straumann'],eConf C011127 (2001) WEBT001,,cs.OS,"['cs.OS', 'D.4']",cs/0111035,1
+533,2002-10-31 01:51:00+00:00,2002-10-31 01:51:00+00:00,['Srinidhi Varadarajan'],,,cs.PL,"['cs.PL', 'cs.OS', 'D.2.11 D.2.12 D.1.3 D.3.2 D.3.4']",cs/0210031,1
+534,1999-05-05 01:43:13+00:00,1999-05-05 01:43:13+00:00,['Burkhard D. Burow'],,,cs.PL,"['cs.PL', 'cs.DC', 'cs.OS', 'A.1;D.1.1;D.1.3;D.1.4;D.2.3;D.2.11;D.3.2;D.3.3;D.3.4;D.4.1;D.4.5;\n  D.4.7;E.1;F.1.2;F.3.3']",cs/9905002,1
+535,2004-03-11 04:01:51+00:00,2004-03-11 04:01:51+00:00,['George Candea'],"WIP Session, USENIX Technical Conference, Boston, MA, June 2004",,cs.OS,"['cs.OS', 'cs.DC', 'D.4.7']",cs/0403013,1
+536,1999-04-26 21:13:00+00:00,1999-04-26 21:13:00+00:00,['Walter Eaves'],,,cs.DC,"['cs.DC', 'cs.OS', 'C.2.0; C.2.4; D.4.7; H.5.1; K.6.4; D.4.6']",cs/9904020,1
+537,2012-12-14 15:33:45+00:00,2012-12-14 15:33:45+00:00,['Shri Prakash Dwivedi'],,,cs.OS,['cs.OS'],1212.3502,1
+538,2000-03-15 19:20:53+00:00,2000-03-15 19:20:53+00:00,['Oleg Kiselyov'],,,cs.OS,"['cs.OS', 'cs.NI', 'D.4.3; D.4.4; E.5; C.2.2; C.2.4']",cs/0003064,1
+539,2008-03-23 19:10:00+00:00,2008-03-23 19:10:00+00:00,"['Bhargava Kumar K', 'Ganesh M. Narayan', 'K. Gopinath']","Proceedings of the 24th IEEE Conference on Mass Storage Systems
+  and Technologies, 2007 - MSST '07",,cs.NI,"['cs.NI', 'cs.DC', 'cs.OS', 'cs.PF', 'B.3.2; D.4.2; H.3.4; C.2.2']",0803.3338,1
+540,2005-02-24 14:13:56+00:00,2005-02-24 14:13:56+00:00,"['A. Streit', 'D. Erwin', 'Th. Lippert', 'D. Mallmann', 'R. Menday', 'M. Rambadt', 'M. Riedel', 'M. Romberg', 'B. Schuller', 'Ph. Wieder']",,,cs.DC,"['cs.DC', 'cs.OS']",cs/0502090,1
+541,1999-03-22 21:24:35+00:00,1999-03-22 21:24:35+00:00,"['Thomas Kistler', 'Michael Franz']",,,cs.OS,"['cs.OS', 'cs.PL', 'D.3.4']",cs/9903014,1
+542,2006-03-06 00:46:09+00:00,2006-03-06 00:46:09+00:00,"['Joy Mukherjee', 'Srinidhi Varadarajan']",,,cs.PL,"['cs.PL', 'cs.OS', 'cs.SE']",cs/0603021,1
+543,2018-09-17 12:17:01+00:00,2018-09-17 12:17:01+00:00,"['Pier Luigi Ventre', 'Paolo Lungaroni', 'Giuseppe Siracusano', 'Claudio Pisa', 'Florian Schmidt', 'Francesco Lombardo', 'Stefano Salsano']",,,cs.DC,"['cs.DC', 'cs.NI', 'cs.OS', 'cs.PF']",1809.07701,1
+544,2019-03-05 17:40:38+00:00,2019-03-05 17:40:38+00:00,['Peter Braam'],,,cs.OS,['cs.OS'],1903.01955,1
+545,2013-06-04 16:27:30+00:00,2013-06-04 16:27:30+00:00,"['Gary A. McGilvary', 'Adam Barker', 'Ashley Lloyd', 'Malcolm Atkinson']",,10.1109/CCGrid.2013.14,cs.DC,"['cs.DC', 'cs.OS']",1306.0846,1
+546,2012-12-27 11:55:43+00:00,2012-12-27 11:55:43+00:00,"['Sajjad Haider', 'Mehboob Yasin', 'Naveed Hussain', 'Muhammad Imran']",,,cs.NI,"['cs.NI', 'cs.OS']",1212.6354,1
+547,2008-10-02 09:41:52+00:00,2008-10-02 09:41:52+00:00,"['Filipe Cabecinhas', 'Nuno Lopes', 'Renato Crisostomo', 'Luis Veiga']",,,cs.PL,"['cs.PL', 'cs.OS']",0810.0372,1
+548,2008-07-24 17:51:07+00:00,2008-07-24 17:51:07+00:00,"['Frédéric Le Mouël', 'Noha Ibrahim', 'Stéphane Frénot']","Dans 3er Congreso Nacional de Ciencias de la Computacion
+  (CNCC'2005) (2005)",,cs.OS,"['cs.OS', 'cs.SE']",0807.3933,1
+549,2017-04-28 11:17:51+00:00,2017-04-28 11:17:51+00:00,"['Muhammad Ali Awan', 'Konstantinos Bletsas', 'Pedro F. Souto', 'Benny Akesson', 'Eduardo Tovar']",,,cs.OS,['cs.OS'],1704.08876,1
+550,2010-05-28 08:55:12+00:00,2010-05-28 08:55:12+00:00,"['Jalil Boukhobza', 'Timsit Claude']","RenPar'17 / SympA'2006 / CFSE'5 / JC'2006, Canet en Roussillon :
+  France (2006)",,cs.PF,"['cs.PF', 'cs.OS']",1005.5241,1
+551,2017-07-25 00:59:32+00:00,2017-07-25 00:59:32+00:00,"['Blake Caldwell', 'Youngbin Im', 'Sangtae Ha', 'Richard Han', 'Eric Keller']",,,cs.OS,['cs.OS'],1707.07780,1
+552,2010-06-30 13:01:58+00:00,2010-06-30 13:01:58+00:00,"['Aristide Fattori', 'Roberto Paleari', 'Lorenzo Martignoni', 'Mattia Monga']",,10.1145/1858996.1859085,cs.OS,"['cs.OS', 'cs.SE', 'D.2.5; D.4.9']",1006.5845,1
+553,2009-10-21 11:31:14+00:00,2009-10-21 11:31:14+00:00,['Andrei I. Yafimau'],,,cs.AR,"['cs.AR', 'cs.OS', 'C.1.2; D.4.1; D.4.2']",0910.4052,1
+554,2010-04-21 12:31:53+00:00,2010-04-21 12:31:53+00:00,"['Patrick Meumeu Yomsi', 'Vincent Nelis', 'Joël Goossens']",,,cs.OS,['cs.OS'],1004.3687,1
+555,2008-09-30 15:55:04+00:00,2008-09-30 15:55:04+00:00,"['Vincent Nélis', 'Joël Goossens']",,,cs.OS,['cs.OS'],0809.5238,1
+556,2010-05-27 12:28:51+00:00,2010-05-27 12:28:51+00:00,['Mario Bravetti'],,,cs.SE,"['cs.SE', 'cs.OS']",1005.5045,1
+557,2010-02-01 18:31:06+00:00,2010-02-01 18:31:06+00:00,"['Jayanthkumar Kannan', 'Petros Maniatis', 'Byung-Gon Chun']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.4.6']",1002.0298,1
+558,2010-05-19 14:17:56+00:00,2010-05-19 14:17:56+00:00,"['Amittai Aviram', 'Shu-Chun Weng', 'Sen Hu', 'Bryan Ford']",,,cs.OS,"['cs.OS', 'cs.DC']",1005.3450,1
+559,2010-03-29 12:51:23+00:00,2010-03-29 12:51:23+00:00,['C. A. Middelburg'],,,cs.OS,"['cs.OS', 'D.4.m']",1003.5525,1
+560,2010-03-22 06:52:12+00:00,2010-03-22 06:52:12+00:00,"['Richa Gupta', 'Sanjiv Tokekar']","Journal of Computing, Volume 2, Issue 3, March 2010,
+  https://sites.google.com/site/journalofcomputing/",,cs.OS,['cs.OS'],1003.4088,1
+561,2010-04-21 14:24:13+00:00,2010-04-21 14:24:13+00:00,"['Irina Lupu', 'Pierre Courbin', 'Laurent George', 'Joël Goossens']","IEEE International Conference on Emerging Technologies and Factory
+  Automation, 2010",,cs.OS,['cs.OS'],1004.3715,1
+562,2006-11-22 18:25:43+00:00,2006-11-22 18:25:43+00:00,"['Mikhail Nesterenko', 'Sébastien Tixeuil']","13th Colloquium on Structural Information and Communication
+  Complexity (SIROCCO), LNCS Volume 4056 pp. 212-226, Chester, UK, July 2006",10.1007/11780823_17,cs.DC,"['cs.DC', 'cs.DS', 'cs.OS']",cs/0611116,1
+563,2006-03-18 17:11:04+00:00,2006-03-18 17:11:04+00:00,['Bryan Ford'],"Second Workshop on Hot Topics in Networks (HotNets-II), November
+  2003, Cambridge, MA",,cs.NI,"['cs.NI', 'cs.OS', 'C.2.1; C.2.2']",cs/0603075,1
+564,2010-06-10 18:13:36+00:00,2010-06-10 18:13:36+00:00,['Spits Warnars H. L. H'],"Widya, Vol 21,No. 230, pp. 9-15, November 2004",,cs.OS,"['cs.OS', 'D.4.0']",1006.2104,1
+565,2009-12-19 01:18:05+00:00,2009-12-19 01:18:05+00:00,['Sathish Gopalakrishnan'],,,cs.PF,"['cs.PF', 'cs.DM', 'cs.OS']",0912.3852,1
+566,2008-06-01 08:30:10+00:00,2008-06-01 08:30:10+00:00,"['Feng Xia', 'Yu-Chu Tian', 'Youxian Sun', 'Jinxiang Dong']",,,cs.OS,"['cs.OS', 'D.4.1; C.3']",0806.0132,1
+567,2009-10-29 08:38:32+00:00,2009-10-29 08:38:32+00:00,"['Ilkka Norros', 'Hannu Reittu', 'Timo Eirola']",Queueing Systems (2011) 67: 183,10.1007/s11134-011-9209-2,cs.OS,"['cs.OS', 'math.PR', '60K25, 68M14']",0910.5577,1
+568,2008-09-06 04:38:34+00:00,2008-09-06 04:38:34+00:00,"['Vandy Berten', 'Chi-Ju Chang', 'Tei-Wei Kuo']",,,cs.OS,['cs.OS'],0809.1132,1
+569,2010-06-04 09:03:39+00:00,2010-06-04 09:03:39+00:00,"['J. A. Bergstra', 'C. A. Middelburg']",,,cs.OS,"['cs.OS', 'D.4.0']",1006.0813,1
+570,2009-12-20 23:49:25+00:00,2009-12-20 23:49:25+00:00,['Emil Vassev'],,,cs.OS,"['cs.OS', 'cs.SE']",0912.4062,1
+571,2009-10-27 17:31:02+00:00,2009-10-27 17:31:02+00:00,"['Ana Maria Visan', 'Artem Polyakov', 'Praveen S. Solanki', 'Kapil Arya', 'Tyler Denniston', 'Gene Cooperman']",,,cs.OS,"['cs.OS', 'cs.SE', 'D.2.5; D.4.5']",0910.5046,1
+572,2010-06-14 08:51:05+00:00,2010-06-14 08:51:05+00:00,"['François Dorin', 'Patrick Meumeu Yomsi', 'Joël Goossens', 'Pascal Richard']",,,cs.OS,['cs.OS'],1006.2637,1
+573,2008-10-07 23:03:29+00:00,2008-10-07 23:03:29+00:00,['Victor Yodaiken'],,,cs.DM,"['cs.DM', 'cs.OS']",0810.1316,1
+574,2008-05-21 09:38:15+00:00,2008-05-21 09:38:15+00:00,"['S. Collette', 'L. Cucu', 'J. Goossens']",,,cs.OS,['cs.OS'],0805.3237,1
+575,2010-01-21 06:02:41+00:00,2010-01-21 06:02:41+00:00,"['A. Christy Persya', 'T. R. Gopalakrishnan Nair']","Fourth Innovative Conference on Embedded Systems, Mobile
+  Communication and Computing, 2009",,cs.OS,['cs.OS'],1001.3727,1
+576,2010-01-01 00:34:59+00:00,2010-01-01 00:34:59+00:00,['Edward Walker'],,,cs.DC,"['cs.DC', 'cs.OS', 'C.2.4; D.4.3']",1001.0196,1
+577,2017-07-17 22:26:19+00:00,2017-07-17 22:26:19+00:00,['Ayman Noor'],,,cs.OS,"['cs.OS', 'cs.PF']",1707.05405,1
+578,2008-06-11 00:03:00+00:00,2008-06-11 00:03:00+00:00,"['Ted Herman', 'Morten Mjelde']",,,cs.OS,"['cs.OS', 'cs.DC', 'C.2.4; D.1.3; C.3']",0806.1768,1
+579,2010-02-17 17:52:17+00:00,2010-02-17 17:52:17+00:00,"['M. Tarighi', 'S. A. Motamedi', 'S. Sharifian']",,,cs.OS,"['cs.OS', 'cs.NI']",1002.3329,1
+580,2008-06-09 07:23:28+00:00,2008-06-09 07:23:28+00:00,"['Feng Xia', 'Guosong Tian', 'Youxian Sun']","ACM SIGPLAN Notices, vol.42, no.12, pp. 7-14, Dec. 2007",,cs.OS,"['cs.OS', 'D.4.1; C.3']",0806.1381,1
+581,2008-08-06 20:33:56+00:00,2008-08-06 20:33:56+00:00,['Mahesh Arumugam'],,,cs.OS,"['cs.OS', 'cs.DC']",0808.0920,1
+582,2007-09-28 09:04:27+00:00,2007-09-28 09:04:27+00:00,['Jeremy Lee'],,,cs.OS,"['cs.OS', 'cs.DC', 'E.1']",0709.4558,1
+583,2013-04-13 04:04:08+00:00,2013-04-13 04:04:08+00:00,"['Ardalan Amiri Sani', 'Sreekumar Nair', 'Lin Zhong', 'Quinn Jacobson']",,,cs.OS,['cs.OS'],1304.3771,1
+584,2017-05-10 06:47:40+00:00,2017-05-10 06:47:40+00:00,"['Youyou Lu', 'Jiwu Shu', 'Long Sun', 'Onur Mutlu']",,10.1109/TPDS.2017.2701364,cs.AR,"['cs.AR', 'cs.OS']",1705.03623,1
+585,2009-12-03 09:06:59+00:00,2009-12-03 09:06:59+00:00,"['C. Yaashuwanth', 'Dr. R. Ramesh']","International Journal of Computer Science and Information
+  Security, IJCSIS, Vol. 6, No. 2, pp. 061-066, November 2009, USA",,cs.OS,['cs.OS'],0912.0606,1
+586,2009-09-28 10:54:48+00:00,2009-09-28 10:54:48+00:00,['Norbert Bátfai'],,,cs.OS,"['cs.OS', 'cs.DC', 'D.4.7; C.2.4']",0909.5064,1
+587,2013-08-06 07:54:19+00:00,2013-08-06 07:54:19+00:00,['Abhijat Vichare'],,,cs.OS,"['cs.OS', 'D.4.7']",1308.1199,1
+588,2009-06-01 12:10:10+00:00,2009-06-01 12:10:10+00:00,"['Vincent Nelis', 'Joel Goossens']",,,cs.OS,['cs.OS'],0906.0268,1
+589,2009-07-26 02:19:42+00:00,2009-07-26 02:19:42+00:00,"['Christian Vecchiola', 'Xingchen Chu', 'Rajkumar Buyya']",,,cs.DC,"['cs.DC', 'cs.CE', 'cs.NI', 'cs.OS', 'cs.PL', 'cs.SE', 'C.1.4; C.2.4']",0907.4622,1
+590,2009-08-25 12:46:56+00:00,2009-08-25 12:46:56+00:00,"['Liliana Cucu-Grosjean', 'Joël Goossens']",,,cs.OS,['cs.OS'],0908.3519,1
+591,2017-08-21 23:10:59+00:00,2017-08-21 23:10:59+00:00,"['Mahoukpégo Parfait Tokponnon', 'Marc Lobelle', 'Eugene C. Ezin']",,,cs.OS,['cs.OS'],1708.06450,1
+592,2009-02-10 09:14:59+00:00,2009-02-10 09:14:59+00:00,"['Roberto Di Cosmo', 'Stefano Zacchiroli', 'Paulo Trezentos']","International Workshop On Hot Topics In Software Upgrades
+  Proceedings of the 1st International Workshop on Hot Topics in Software
+  Upgrades, Nashville, Tennessee : \'Etats-Unis d'Am\'erique (2008)",10.1145/1490283.1490292,cs.SE,"['cs.SE', 'cs.OS']",0902.1610,1
+593,2017-05-19 11:01:54+00:00,2017-05-19 11:01:54+00:00,"['Ralf Ramsauer', 'Jan Kiszka', 'Daniel Lohmann', 'Wolfgang Mauerer']","Proceedings of the 13th Workshop on Operating Systems Platforms
+  for Embedded Real-Time Applications (OSPERT 2017)",,cs.OS,['cs.OS'],1705.06932,1
+594,2017-04-04 21:43:04+00:00,2017-04-04 21:43:04+00:00,['Lei Liu'],,,cs.OS,['cs.OS'],1704.01198,1
+595,2017-05-16 16:41:43+00:00,2017-05-16 16:41:43+00:00,"['Pascal Richard', 'Joël Goossens', 'Shinpei Kato']",,,cs.OS,['cs.OS'],1705.05798,1
+596,2017-03-02 18:52:45+00:00,2017-03-02 18:52:45+00:00,"['Rohan Garg', 'Kapil Arya', 'Jiajun Cao', 'Gene Cooperman', 'Jeff Evans', 'Ankit Garg', 'Neil A. Rosenberg', 'K. Suresh']",,,cs.OS,"['cs.OS', 'cs.AR', 'B.6.3']",1703.00897,1
+597,2008-09-24 06:10:39+00:00,2008-09-24 06:10:39+00:00,"['Vandy Berten', 'Joël Goossens']",,,cs.OS,"['cs.OS', 'D.4.1']",0809.4082,1
+598,2017-04-04 13:26:31+00:00,2017-04-04 13:26:31+00:00,"['Gilles Geeraerts', 'Joël Goossens', 'Thi-Van-Anh Nguyen']",,,cs.GT,"['cs.GT', 'cs.OS']",1704.00999,1
+599,2017-05-21 05:51:21+00:00,2017-05-21 05:51:21+00:00,"['Juncheng Yang', 'Reza Karimi', 'Trausti Sæmundsson', 'Avani Wildani', 'Ymir Vigfusson']",,,cs.PF,"['cs.PF', 'cs.DC', 'cs.OS']",1705.07400,1
+600,2013-07-16 05:21:34+00:00,2013-07-16 05:21:34+00:00,"['Neetu Goel', 'R. B. Garg']","International Journal of Graphics & Image Processing |Vol 2|issue
+  4|November 2012",,cs.OS,['cs.OS'],1307.4165,1
+601,2017-05-07 04:07:10+00:00,2017-05-07 04:07:10+00:00,"['Chien-Ying Chen', 'AmirEmad Ghassami', 'Sibin Mohan', 'Negar Kiyavash', 'Rakesh B. Bobba', 'Rodolfo Pellizzoni', 'Man-Ki Yoon']",,,cs.CR,"['cs.CR', 'cs.OS']",1705.02561,1
+602,2009-03-14 04:28:55+00:00,2009-03-14 04:28:55+00:00,"['Rodrigo N. Calheiros', 'Rajiv Ranjan', 'Cesar A. F. De Rose', 'Rajkumar Buyya']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.SE', 'C.2.4']",0903.2525,1
+603,2017-05-26 16:39:55+00:00,2017-05-26 16:39:55+00:00,"['Rajani Kumari', 'Vivek Kumar Sharma', 'Sandeep Kumar']","International Journal of Computer Applications, Volume 77, No 17,
+  September 2013","10.5120/13612-1323 10.5120/13612-1323 10.5120/13612-1323
+  10.5120/13612-1323",cs.OS,"['cs.OS', 'cs.AI']",1706.02621,1
+604,2017-08-23 09:31:28+00:00,2017-08-23 09:31:28+00:00,"['Christian M. Fuchs', 'Todor Stefanov', 'Nadia Murillo', 'Aske Plaat']",,,cs.DC,"['cs.DC', 'cs.OS']",1708.06931,1
+605,2008-03-25 20:52:17+00:00,2008-03-25 20:52:17+00:00,"['Mikhail Nesterenko', 'Adnan Vora']","The 2nd IEEE International Conference on Mobile Ad-hoc and Sensor
+  Systems (MASS 2005), Washington, DC, November, 2005",10.1109/MAHSS.2005.1542862,cs.OS,"['cs.OS', 'cs.DC', 'cs.DS', 'C.2.2; C.2.1; F.2.2']",0803.3632,1
+606,2017-07-26 16:02:29+00:00,2017-07-26 16:02:29+00:00,"['Jayashree Mohan', 'Rohan Kadekodi', 'Vijay Chidambaram']",,,cs.OS,['cs.OS'],1707.08514,1
+607,2010-06-14 07:17:14+00:00,2010-06-14 07:17:14+00:00,"['Joël Goossens', 'Vandy Berten']",,,cs.OS,['cs.OS'],1006.2617,1
+608,2017-07-22 13:29:01+00:00,2017-07-22 13:29:01+00:00,['Gal Oren'],,,cs.OS,['cs.OS'],1707.07161,1
+609,2013-08-13 14:37:51+00:00,2013-08-13 14:37:51+00:00,"['Holger Machens', 'Volker Turau']",,,cs.DC,"['cs.DC', 'cs.OS', '65Y05']",1308.2881,1
+610,2017-05-26 20:03:18+00:00,2017-05-26 20:03:18+00:00,"['Peter Macko', 'Xiongzi Ge', 'John Haskins Jr.', 'James Kelley', 'David Slik', 'Keith A. Smith', 'Maxim G. Smith']",,,cs.OS,['cs.OS'],1705.09701,1
+611,2009-09-09 18:09:06+00:00,2009-09-09 18:09:06+00:00,"['Ragib Hasan', 'Radu Sion', 'Marianne Winslett']",,,cs.DB,"['cs.DB', 'cs.OS']",0909.1763,1
+612,2022-03-09 15:32:40+00:00,2022-03-09 15:32:40+00:00,"['Roy Friedman', 'Or Goaz', 'Dor Hovav']",,,cs.NI,"['cs.NI', 'cs.OS']",2203.04803,1
+613,2017-05-10 02:30:06+00:00,2017-05-10 02:30:06+00:00,"['Tao Lu', 'Ping Huang', 'Xubin He', 'Matthew Welch', 'Steven Gonzales', 'Ming Zhang']",,,cs.OS,"['cs.OS', 'D.4.2']",1705.03591,1
+614,2017-03-08 17:26:02+00:00,2017-03-08 17:26:02+00:00,"['Guilherme Avelino', 'Leonardo Passos', 'Andre Hora', 'Marco Tulio Valente']",,10.1007/978-3-319-57735-7_15,cs.SE,"['cs.SE', 'cs.OS', 'cs.SI']",1703.02925,1
+615,2004-12-17 15:38:19+00:00,2004-12-17 15:38:19+00:00,['Elizabeth Haubert'],,,cs.HC,"['cs.HC', 'cs.OS', 'H.1.2']",cs/0412074,1
+616,2017-03-20 02:47:57+00:00,2017-03-20 02:47:57+00:00,"['Reto Achermann', 'Lukas Humbel', 'David Cock', 'Timothy Roscoe']","EPTCS 244, 2017, pp. 66-116",10.4204/EPTCS.244.4,cs.OS,"['cs.OS', 'cs.AR', 'D.4; D.4.2; D.4.7; D.3.4']",1703.06571,1
+617,2017-08-29 10:24:40+00:00,2017-08-29 10:24:40+00:00,"['Theofilos Petsios', 'Adrian Tang', 'Dimitris Mitropoulos', 'Salvatore Stolfo', 'Angelos D. Keromytis', 'Suman Jana']",,,cs.CR,"['cs.CR', 'cs.OS']",1708.09334,1
+618,2015-12-23 04:39:00+00:00,2015-12-23 04:39:00+00:00,"['Yao Guo', 'Junyang Lu']",,,cs.OS,"['cs.OS', 'C.3']",1512.07351,1
+619,2013-12-17 20:43:33+00:00,2013-12-17 20:43:33+00:00,"['Ardalan Amiri Sani', 'Kevin Boos', 'Min Hong Yun', 'Lin Zhong']",,,cs.OS,['cs.OS'],1312.4931,1
+620,2018-01-09 08:28:11+00:00,2018-01-09 08:28:11+00:00,"['Martine Lenders', 'Peter Kietzmann', 'Oliver Hahm', 'Hauke Petersen', 'Cenk Gündoğan', 'Emmanuel Baccelli', 'Kaspar Schleiser', 'Thomas C. Schmidt', 'Matthias Wählisch']",,,cs.NI,"['cs.NI', 'cs.OS']",1801.02833,1
+621,2015-12-21 23:35:42+00:00,2015-12-21 23:35:42+00:00,['Yan Cui'],,,cs.OS,['cs.OS'],1512.06908,1
+622,2013-10-23 17:35:03+00:00,2013-10-23 17:35:03+00:00,"['Richard West', 'Ye Li', 'Eric Missimer']",,,cs.OS,['cs.OS'],1310.6349,1
+623,2014-06-04 18:18:37+00:00,2014-06-04 18:18:37+00:00,"['José Marinho', 'Stefan M. Petters']",,,cs.DC,"['cs.DC', 'cs.OS']",1406.1133,1
+624,2018-02-28 11:51:26+00:00,2018-02-28 11:51:26+00:00,"['Jian-Jia Chen', 'Georg von der Brüggen', 'Niklas Ueter']",,,cs.OS,"['cs.OS', 'cs.DC']",1802.10376,1
+625,2017-03-24 15:38:17+00:00,2017-03-24 15:38:17+00:00,['Carlos Antonio Perea-Gómez'],,,cs.DC,"['cs.DC', 'cs.OS']",1703.08469,1
+626,2018-08-07 08:21:58+00:00,2018-08-07 08:21:58+00:00,"['Chen-Kai Lin', 'Ching-Chun', 'Huang', 'Bow-Yaw Wang']",,,cs.OS,"['cs.OS', 'cs.FL', 'cs.LO']",1808.04239,1
+627,2016-09-15 19:18:12+00:00,2016-09-15 19:18:12+00:00,"['Zhiyong Shan', 'Yang Yu', 'Tzi-cker Chiueh']",,,cs.OS,['cs.OS'],1609.04781,1
+628,2018-08-02 21:37:29+00:00,2018-08-02 21:37:29+00:00,"['Giuseppe Petracca', 'Jens Grossklags', 'Patrick McDaniel', 'Trent Jaeger']",,,cs.CR,"['cs.CR', 'cs.HC', 'cs.OS']",1808.05579,1
+629,2016-10-26 00:37:34+00:00,2016-10-26 00:37:34+00:00,"['Asaf Cidon', 'Daniel Rushton', 'Stephen M. Rumble', 'Ryan Stutsman']",,,cs.OS,['cs.OS'],1610.08129,1
+630,2016-12-20 20:14:35+00:00,2016-12-20 20:14:35+00:00,"['Jessica Nettelblad', 'Carl Nettelblad']",,,cs.OS,['cs.OS'],1612.06830,1
+631,2017-02-08 19:21:13+00:00,2017-02-08 19:21:13+00:00,"['Assaf Eisenman', 'Asaf Cidon', 'Evgenya Pergament', 'Or Haimovich', 'Ryan Stutsman', 'Mohammad Alizadeh', 'Sachin Katti']",,,cs.OS,['cs.OS'],1702.02588,1
+632,2018-06-04 14:29:41+00:00,2018-06-04 14:29:41+00:00,"['Janis Danisevskis', 'Michael Peter', 'Jan Nordholz']",,,cs.OS,['cs.OS'],1806.01147,1
+633,2018-01-14 14:31:46+00:00,2018-01-14 14:31:46+00:00,"['Eslam Elnikety', 'Deepak Garg', 'Peter Druschel']",,,cs.CR,"['cs.CR', 'cs.OS']",1801.04565,1
+634,2016-07-15 14:52:57+00:00,2016-07-15 14:52:57+00:00,"['Mason Thammawichai', 'Eric C. Kerrigan']","Real-Time Systems, 2017",10.1007/s11241-017-9291-6,cs.DC,"['cs.DC', 'cs.OS', 'cs.SY', 'math.OC']",1607.07763,1
+635,2017-03-22 16:07:11+00:00,2017-03-22 16:07:11+00:00,"['Lei Liu', 'Mengyao Xie', 'Hao Yang']",,,cs.OS,"['cs.OS', 'cs.AR']",1703.07725,1
+636,2018-04-30 15:08:54+00:00,2018-04-30 15:08:54+00:00,"['Rachata Ausavarungnirun', 'Joshua Landgraf', 'Vance Miller', 'Saugata Ghose', 'Jayneel Gandhi', 'Christopher J. Rossbach', 'Onur Mutlu']",,,cs.OS,"['cs.OS', 'cs.AR']",1804.11265,1
+637,2017-12-18 07:32:19+00:00,2017-12-18 07:32:19+00:00,"['Houssam Eddine Zahaf', 'Giuseppe Lipari', 'Luca Abeni', 'Houssam-Eddine Zahaf']","Proceedings of International Conference on Real-Time Networks and
+  Systems, 2017, 10, pp.1-24",10.1145/3139258.3139280,cs.OS,['cs.OS'],1712.06276,1
+638,2016-08-01 15:33:14+00:00,2016-08-01 15:33:14+00:00,"['Blake A. Hechtman', 'Andrew D. Hilton', 'Daniel J. Sorin']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PL']",1608.00571,1
+639,2018-07-14 00:02:55+00:00,2018-07-14 00:02:55+00:00,"['Jeremy Kepner', 'Ron Brightwell', 'Alan Edelman', 'Vijay Gadepally', 'Hayden Jananthan', 'Michael Jones', 'Sam Madden', 'Peter Michaleas', 'Hamed Okhravi', 'Kevin Pedretti', 'Albert Reuther', 'Thomas Sterling', 'Mike Stonebraker']",,10.1109/HPEC.2018.8547577,cs.DC,"['cs.DC', 'cs.DB', 'cs.OS', 'cs.PF']",1807.05308,1
+640,2017-10-26 21:34:34+00:00,2017-10-26 21:34:34+00:00,"['Seo Jin Park', 'John Ousterhout']",,,cs.DC,"['cs.DC', 'cs.OS']",1710.09921,1
+641,2014-08-02 19:56:24+00:00,2014-08-02 19:56:24+00:00,"['M. V. Panduranga Rao', 'K. C. Shet']","International Journal of Computer Trends and Technology (IJCTT),
+  Volume 13, Number 3, Pages: 113-119, July 2014. ISSN:2231-2803",10.14445/22312803/IJCTT-V13P124,cs.OS,"['cs.OS', '68U20', 'D.3.2']",1408.0990,1
+642,2018-04-04 03:26:13+00:00,2018-04-04 03:26:13+00:00,"['Hongyu Liu', 'Sam Silvestro', 'Wei Wang', 'Chen Tian', 'Tongping Liu']",,10.1145/3192366.3192380,cs.OS,['cs.OS'],1804.01226,1
+643,2013-08-03 14:09:23+00:00,2013-08-03 14:09:23+00:00,"['Meisam Booshehri', 'Abbas Malekpour', 'Peter Luksch']","International Journal of Computer Science and Information
+  Security, Vol. 11, No. 5, pp. 73-76 , 2013",,cs.PL,"['cs.PL', 'cs.OS', '68Nxx', 'D.3.4']",1308.0698,1
+644,2018-08-17 22:35:15+00:00,2018-08-17 22:35:15+00:00,"['Sumit Maheshwari', 'Saurabh Deochake', 'Ridip De', 'Anish Grover']",,,cs.OS,"['cs.OS', 'cs.NI']",1808.08192,1
+645,2016-09-07 16:53:40+00:00,2016-09-07 16:53:40+00:00,['Gennady Pekhimenko'],,,cs.AR,"['cs.AR', 'cs.OS']",1609.02067,1
+646,2018-02-02 13:21:13+00:00,2018-02-02 13:21:13+00:00,"['Florian Schmidt', 'Mathias Niepert', 'Felipe Huici']",,,cs.DC,"['cs.DC', 'cs.LG', 'cs.OS']",1802.00673,1
+647,2018-08-20 13:15:56+00:00,2018-08-20 13:15:56+00:00,"['Stefan Reif', 'Andreas Schmidt', 'Timo Hönig', 'Thorsten Herfet', 'Wolfgang Schröder-Preikschat']",,10.1145/3267419.3267422,cs.NI,"['cs.NI', 'cs.OS']",1808.06434,1
+648,2014-05-22 07:52:45+00:00,2014-05-22 07:52:45+00:00,"['Francesco Gadaleta', 'Nick Nikiforakis', 'Yves Younan', 'Wouter Joosen']",,,cs.OS,"['cs.OS', 'cs.CR']",1405.5651,1
+649,2018-03-26 03:52:05+00:00,2018-03-26 03:52:05+00:00,"['Shinsuke Hamada', 'Soramichi Akiyama', 'Mitaro Namiki']",,,cs.DC,"['cs.DC', 'cs.ET', 'cs.OS']",1804.00705,1
+650,2018-07-17 16:34:43+00:00,2018-07-17 16:34:43+00:00,['David Kreitschmann'],,,cs.NI,"['cs.NI', 'cs.OS']",1808.07353,1
+651,2016-05-04 07:36:46+00:00,2016-05-04 07:36:46+00:00,"['Junaid Shuja', 'Abdullah Gani', 'Sajjad A. Madani']",,,cs.OS,['cs.OS'],1605.01168,1
+652,2014-05-28 18:28:45+00:00,2014-05-28 18:28:45+00:00,"['Guangmo Tong', 'Cong Liu']",,,cs.OS,['cs.OS'],1405.7322,1
+653,2014-03-05 15:43:57+00:00,2014-03-05 15:43:57+00:00,"['Michael Hanspach', 'Jörg Keller']","In Proceedings of the 7th Layered Assurance Workshop, New Orleans,
+  LA, USA, December 2013",,cs.CR,"['cs.CR', 'cs.OS', 'cs.SD']",1403.1165,1
+654,2014-03-03 08:27:29+00:00,2014-03-03 08:27:29+00:00,"['Sanjaya Kumar Panda', 'Debasis Dash', 'Jitendra Kumar Rout']",International Journal of Computer Applications 2013,10.5120/10667-5445,cs.OS,['cs.OS'],1403.0335,1
+655,2018-06-29 14:19:12+00:00,2018-06-29 14:19:12+00:00,"['Flavio R Massaro Jr.', 'Paulo S. Martins', 'Edson L. Ursini']",,,cs.OS,['cs.OS'],1806.11431,1
+656,2017-01-13 16:15:53+00:00,2017-01-13 16:15:53+00:00,"['Christof Schlaak', 'Maher Fakih', 'Ralf Stemmer']",,,cs.DC,"['cs.DC', 'cs.AR', 'cs.OS', '68M20']",1701.03709,1
+657,2017-10-17 09:07:13+00:00,2017-10-17 09:07:13+00:00,"['Elena Reshetova', 'Hans Liljestrand', 'Andrew Paverd', 'N. Asokan']",,10.1002/spe.2638,cs.CR,"['cs.CR', 'cs.OS']",1710.06175,1
+658,2018-01-26 15:59:51+00:00,2018-01-26 15:59:51+00:00,['Alexander Thomasian'],,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF']",1801.08873,1
+659,2014-04-23 15:55:50+00:00,2014-04-23 15:55:50+00:00,"['Sanjaya Kumar Panda', 'Sourav Kumar Bhoi']",,,cs.OS,['cs.OS'],1404.5869,1
+660,2017-11-14 21:28:19+00:00,2017-11-14 21:28:19+00:00,"['Harini Kolamunna', 'Kanchana Thilakarathna', 'Diego Perino', 'Dwight Makaroff', 'Aruna Seneviratne']",,,cs.OS,"['cs.OS', 'cs.NI']",1711.08495,1
+661,2017-11-20 12:17:23+00:00,2017-11-20 12:17:23+00:00,"['Benjamin Hof', 'Georg Carle']",,,cs.CR,"['cs.CR', 'cs.OS']",1711.07278,1
+662,2018-03-11 12:09:27+00:00,2018-03-11 12:09:27+00:00,"['Ofir Shwartz', 'Yitzhak Birk']",,,cs.CR,"['cs.CR', 'cs.AR', 'cs.DC', 'cs.OS']",1803.03951,1
+663,2014-05-12 16:41:49+00:00,2014-05-12 16:41:49+00:00,"['Björn Döbel', 'Robert Muschner', 'Hermann Härtig']",,,cs.DC,"['cs.DC', 'cs.OS']",1405.2913,1
+664,2017-11-07 02:09:09+00:00,2017-11-07 02:09:09+00:00,"['Youjip Won', 'Jaemin Jung', 'Gyeongyeol Choi', 'Joontaek Oh', 'Seongbae Son', 'Jooyoung Hwang', 'Sangyeun Cho']",,,cs.OS,['cs.OS'],1711.02258,1
+665,2017-11-02 15:45:05+00:00,2017-11-02 15:45:05+00:00,"['Zhen Huang', 'David Lie']","44th Annual IEEE/IFIP International Conference on Dependable
+  Systems and Networks, 2014, pages={479-490}",10.1109/DSN.2014.51,cs.SE,"['cs.SE', 'cs.LG', 'cs.OS', 'B.8.1; I.5.3']",1711.04030,1
+666,2007-10-25 09:47:35+00:00,2007-10-25 09:47:35+00:00,"['M. Abdelsalam Hassan', 'Keishi Sakanushi', 'Yoshinori Takeuchi', 'Masaharu Imai']","Dans Design, Automation and Test in Europe - DATE'05, Munich :
+  Allemagne (2005)",,cs.OS,['cs.OS'],0710.4746,1
+667,2017-10-24 11:14:02+00:00,2017-10-24 11:14:02+00:00,"['Stephanie Abraham', 'Tyler Silva', 'Robert Decourcy', 'Jim Cardon']",,,cs.CR,"['cs.CR', 'cs.OS']",1710.08705,1
+668,2005-07-29 19:33:13+00:00,2005-07-29 19:33:13+00:00,"['Michel R. Dagenais', 'Karim Yaghmour', 'Charles Levert', 'Makan Pourzandi']",,,cs.PF,"['cs.PF', 'cs.OS']",cs/0507073,1
+669,2021-09-23 22:10:26+00:00,2021-09-23 22:10:26+00:00,"['Haoran Qiu', 'Yongzhou Chen', 'Tianyin Xu', 'Zbigniew T. Kalbarczyk', 'Ravishankar K. Iyer']",,,cs.OS,"['cs.OS', 'cs.PF']",2109.11666,1
+670,2012-09-04 16:16:20+00:00,2012-09-04 16:16:20+00:00,"['Alessandro Armando', 'Alessio Merlo', 'Luca Verderame']",,,cs.CR,"['cs.CR', 'cs.OS', 'D.4.2; C.1.3']",1209.0687,1
+671,2022-02-03 07:05:13+00:00,2022-02-03 07:05:13+00:00,['Anil Yelam'],,,cs.DC,"['cs.DC', 'cs.OS']",2202.02223,1
+672,2022-07-05 07:27:04+00:00,2022-07-05 07:27:04+00:00,"['Pratik Mishra', 'Rekha Pitchumani', 'Yang Suk Kee']",,10.48550/arXiv.2207.01849,cs.DB,"['cs.DB', 'cs.AR', 'cs.DC', 'cs.OS', 'cs.PF']",2207.01849,1
+673,2018-02-02 14:23:00+00:00,2018-02-02 14:23:00+00:00,"['Diego Didona', 'Willy Zwaenepoel']",,,cs.DB,"['cs.DB', 'cs.OS']",1802.00696,1
+674,2015-05-07 16:31:21+00:00,2015-05-07 16:31:21+00:00,"['Teng Wang', 'Sarp Oral', 'Michael Pritchard', 'Kevin Vasko', 'Weikuan Yu']",,,cs.DC,"['cs.DC', 'cs.OS']",1505.01765,1
+675,2022-12-21 20:15:17+00:00,2022-12-21 20:15:17+00:00,"['Ali Mokhtari', 'Mohsen Amini Salehi']","Tutorial at 15th ACM/IEEE Utility Cloud Computing (UCC '22)
+  conference, Vancouver, Washington, USA, Dec. 2022",,cs.DC,"['cs.DC', 'cs.OS']",2212.11333,1
+676,2017-12-13 23:14:28+00:00,2017-12-13 23:14:28+00:00,"['Niklas Ueter', 'Georg von der Brüggen', 'Jian-Jia Chen', 'Jing Li', 'Kunal Agrawal']",,,cs.OS,"['cs.OS', 'cs.DC']",1712.05040,1
+677,2018-02-03 06:18:56+00:00,2018-02-03 06:18:56+00:00,"['Amr Alanwar', 'Fatima M. Anwar', 'Joao P Hespanha', 'Mani Srivastava']",,,cs.RO,"['cs.RO', 'cs.NI', 'cs.OS', 'cs.SY']",1802.00922,1
+678,1998-12-10 16:49:04+00:00,1998-12-10 16:49:04+00:00,"['Erik T. Mueller', 'Johanna D. Moore', 'Gerald J. Popek']",,,cs.OS,"['cs.OS', 'cs.DC', 'H.2.4']",cs/9812011,1
+679,2016-05-02 06:24:43+00:00,2016-05-02 06:24:43+00:00,"['Amar Ranjan Dash', 'Sandipta kumar Sahu', 'Sanjay Kumar Samantra']","International Journal of Computer Science, Engineering and
+  Information Technology (IJCSEIT), Vol. 5,No.1, February 2015",10.5121/ijcseit.2015.5102,cs.OS,['cs.OS'],1605.00362,1
+680,2017-11-22 05:47:15+00:00,2017-11-22 05:47:15+00:00,['Magnus Jahnen'],,,cs.OS,['cs.OS'],1711.08139,1
+681,2014-04-01 00:40:01+00:00,2014-04-01 00:40:01+00:00,"['Youcheng Sun', 'Giuseppe Lipari', 'Étienne André', 'Laurent Fribourg']","EPTCS 145, 2014, pp. 49-64",10.4204/EPTCS.145.6,cs.OS,['cs.OS'],1404.0088,1
+682,2017-10-10 19:10:40+00:00,2017-10-10 19:10:40+00:00,"['Beom Heyn Kim', 'Eyal de Lara', 'David Lie']",,,cs.OS,['cs.OS'],1710.03789,1
+683,2014-03-03 08:13:29+00:00,2014-03-03 08:13:29+00:00,"['Sourav Kumar Bhoi', 'Sanjaya Kumar Panda', 'Imran Hossain Faruk']",International Journal of Computer Applications 2012,"10.5120/5010-7329 10.5120/5010-7329 10.5120/5010-7329 10.5120/5010-7329
+  10.5120/5010-7329",cs.OS,['cs.OS'],1403.0334,1
+684,2017-11-13 19:30:22+00:00,2017-11-13 19:30:22+00:00,"['Monowar Hasan', 'Sibin Mohan', 'Rodolfo Pellizzoni', 'Rakesh B. Bobba']",,,cs.CR,"['cs.CR', 'cs.OS']",1711.04808,1
+685,2014-04-24 11:06:06+00:00,2014-04-24 11:06:06+00:00,"['Sourav Kumar Bhoi', 'Sanjaya Kumar Panda', 'Debashee Tarai']",,,cs.OS,['cs.OS'],1404.6087,1
+686,2014-02-04 06:26:34+00:00,2014-02-04 06:26:34+00:00,"['S. R. Bhalgama', 'C. C. Kavar', 'S. S. Parmar']","IJCTT 7(3):147-150, January 2014. Published by Seventh Sense
+  Research Group",10.14445/22312803/IJCTT-V7P142,cs.OS,['cs.OS'],1402.0631,1
+687,2018-02-15 23:38:27+00:00,2018-02-15 23:38:27+00:00,"['Zhuoqun Cheng', 'Richard West', 'Craig Einstein']",,,cs.SY,"['cs.SY', 'cs.OS']",1802.05802,1
+688,2018-01-24 07:11:22+00:00,2018-01-24 07:11:22+00:00,"['Ying Ye', 'Zhuoqun Cheng', 'Soham Sinha', 'Richard West']",,,cs.OS,['cs.OS'],1801.07880,1
+689,2014-03-20 00:34:00+00:00,2014-03-20 00:34:00+00:00,"['Kexing Xing', 'Decheng Zuo', 'Haiying Zhou', 'Hou Kun-Mean']",,,cs.OS,['cs.OS'],1403.5010,1
+690,2018-06-19 21:59:59+00:00,2018-06-19 21:59:59+00:00,"['Julian Stecklina', 'Thomas Prescher']",,,cs.OS,"['cs.OS', 'cs.AR', 'cs.CR']",1806.07480,1
+691,2018-07-10 09:24:33+00:00,2018-07-10 09:24:33+00:00,['Oskar Schirmer'],,,cs.DC,"['cs.DC', 'cs.OS']",1807.03546,1
+692,2018-07-31 18:30:09+00:00,2018-07-31 18:30:09+00:00,"['Zheng Dong', 'Cong Liu']",,,cs.OS,['cs.OS'],1808.00017,1
+693,2016-06-18 18:55:42+00:00,2016-06-18 18:55:42+00:00,"['Mike Jones', 'Bill Arcand', 'Bill Bergeron', 'David Bestor', 'Chansup Byun', 'Lauren Milechin', 'Vijay Gadepally', 'Matt Hubbell', 'Jeremy Kepner', 'Pete Michaleas', 'Julie Mullen', 'Andy Prout', 'Tony Rosa', 'Siddharth Samsi', 'Charles Yee', 'Albert Reuther']",,10.1109/HPEC.2016.7761629,cs.DC,"['cs.DC', 'cs.CY', 'cs.OS', 'cs.SY']",1606.05794,1
+694,2018-07-25 16:15:01+00:00,2018-07-25 16:15:01+00:00,['Daniel G. Waddington'],,,cs.SE,"['cs.SE', 'cs.OS']",1807.09696,1
+695,2018-08-30 15:20:56+00:00,2018-08-30 15:20:56+00:00,"['Carlos San Vicente Gutiérrez', 'Lander Usategui San Juan', 'Irati Zamalloa Ugarte', 'Víctor Mayoral Vilches']",,,cs.OS,['cs.OS'],1808.10821,1
+696,2013-12-06 10:20:38+00:00,2013-12-06 10:20:38+00:00,"['Brijender Kahanwal', 'Tejinder Pal Singh']","International Journal of Advanced Research in Computer Science,
+  2(6) pp. 224-229, 2011",,cs.OS,['cs.OS'],1312.1822,1
+697,2020-04-06 04:39:58+00:00,2020-04-06 04:39:58+00:00,"['Xiaozhe Gu', 'Arvind Easwaran', 'Kieu-My Phan', 'Insik Shin']","Euromicro Conference on Real-Time Systems (ECRTS), Lund, 2015, pp.
+  13-24",10.1109/ECRTS.2015.9,cs.OS,['cs.OS'],2004.02400,1
+698,2013-10-23 17:14:25+00:00,2013-10-23 17:14:25+00:00,"['Ye Li', 'Richard West', 'Eric Missimer']",,,cs.OS,['cs.OS'],1310.6298,1
+699,2014-06-23 19:44:03+00:00,2014-06-23 19:44:03+00:00,"['Sreepathi Pai', 'R. Govindarajan', 'Matthew J. Thazhuthaveetil']",,,cs.AR,"['cs.AR', 'cs.OS', 'D.3.3; C.1.2']",1406.6037,1
+700,2016-09-26 17:36:18+00:00,2016-09-26 17:36:18+00:00,"['Zhiyong Shan', 'Yu-fang Sun']",,,cs.OS,['cs.OS'],1609.08154,1
+701,2012-08-31 06:32:38+00:00,2012-08-31 06:32:38+00:00,"['Pierre Olivier', 'Jalil Boukhobza', 'Eric Senn']","ACM SIGBED Review 9(2) 43-47 9, 2 (2012) 43-47",,cs.OS,"['cs.OS', 'cs.PF']",1208.6391,1
+702,2020-05-30 22:39:46+00:00,2020-05-30 22:39:46+00:00,"['Boris Teabe', 'Peterson Yuhala', 'Alain Tchana', 'Fabien Hermenier', 'Daniel Hagimont', 'Gilles Muller']",,,cs.OS,['cs.OS'],2006.00380,1
+703,2013-01-12 05:31:57+00:00,2013-01-12 05:31:57+00:00,['Amirreza Zarrabi'],"International Journal of Grid Computing & Applications (IJGCA)
+  Vol.3, No.4, December 2012",10.5121/ijgca.2012.3402,cs.DC,"['cs.DC', 'cs.OS', 'cs.SE']",1301.2649,1
+704,2013-11-11 06:21:29+00:00,2013-11-11 06:21:29+00:00,"['Hendra Gunadi', 'Alwen Tiu']",,,cs.LO,"['cs.LO', 'cs.CR', 'cs.OS', 'F.3.1; D.4.6']",1311.2362,1
+705,2013-10-23 17:29:42+00:00,2013-10-23 17:29:42+00:00,"['Ye Li', 'Eric Missimer', 'Richard West']",,,cs.OS,['cs.OS'],1310.6301,1
+706,2020-01-14 10:19:15+00:00,2020-01-14 10:19:15+00:00,"['Debasis Dwibedy', 'Rakesh Mohanty']",,,cs.OS,"['cs.OS', 'cs.DS']",2001.04698,1
+707,2015-06-24 21:14:27+00:00,2015-06-24 21:14:27+00:00,"['Da Zheng', 'Randal Burns', 'Alexander S. Szalay']",,,cs.OS,['cs.OS'],1506.07566,1
+708,2013-12-06 09:18:04+00:00,2013-12-06 09:18:04+00:00,"['Brijender Kahanwal', 'Tejinder Pal Singh', 'Ruchira Bhargava', 'Girish Pal Singh']","Asian Journal of Computer Science and Information Technology 2(5),
+  pp. 124-128, 2012",,cs.OS,['cs.OS'],1312.1810,1
+709,2013-09-12 10:26:10+00:00,2013-09-12 10:26:10+00:00,"['Neetu Goel', 'R. B. Garg']",,10.5120/13263-0743,cs.OS,['cs.OS'],1309.3096,1
+710,2015-11-13 06:27:39+00:00,2015-11-13 06:27:39+00:00,"['Sidney Amani', 'Toby Murray']","EPTCS 196, 2015, pp. 1-9",10.4204/EPTCS.196.1,cs.LO,"['cs.LO', 'cs.OS']",1511.04169,1
+711,2013-10-06 14:27:59+00:00,2013-10-06 14:27:59+00:00,['Sasa Paporovic'],,,cs.OS,"['cs.OS', 'cs.SE']",1310.1588,1
+712,2016-04-07 20:38:51+00:00,2016-04-07 20:38:51+00:00,"['Giuseppe Petracca', 'Ahmad Atamli', 'Yuqiong Sun', 'Jens Grossklags', 'Trent Jaeger']",,,cs.OS,['cs.OS'],1604.02171,1
+713,2014-03-21 05:31:33+00:00,2014-03-21 05:31:33+00:00,['Brijender Kahanwal'],"International Journal of Advances in Engineering Sciences,2014,
+  Vol. 4(1), PP 16-20",,cs.OS,['cs.OS'],1403.5976,1
+714,2015-08-21 09:59:27+00:00,2015-08-21 09:59:27+00:00,"['Wolfgang Schmidt', 'Michael Hanspach', 'Jörg Keller']",,,cs.CR,"['cs.CR', 'cs.OS']",1508.05228,1
+715,2016-09-03 23:09:11+00:00,2016-09-03 23:09:11+00:00,['Zhiyong Shan'],,10.1109/ISECS.2009.29,cs.OS,['cs.OS'],1609.00875,1
+716,2014-08-20 16:39:15+00:00,2014-08-20 16:39:15+00:00,"['Hugo A. Andrade', 'Simon Hogg', 'Stephan Ahrends']",,,cs.SE,"['cs.SE', 'cs.DC', 'cs.OS', 'cs.PL']",1408.4715,1
+717,2017-08-01 22:48:06+00:00,2017-08-01 22:48:06+00:00,"['Michael Jones', 'Jeremy Kepner', 'William Arcand', 'David Bestor', 'Bill Bergeron', 'Vijay Gadepally', 'Michael Houle', 'Matthew Hubbell', 'Peter Michaleas', 'Andrew Prout', 'Albert Reuther', 'Siddharth Samsi', 'Paul Monticiollo']",,10.1109/HPEC.2017.8091073,cs.DC,"['cs.DC', 'astro-ph.IM', 'cs.NI', 'cs.OS', 'cs.PF']",1708.00544,1
+718,2014-01-27 03:01:33+00:00,2014-01-27 03:01:33+00:00,"['Earlence Fernandes', 'Alexander Crowell', 'Ajit Aluri', 'Atul Prakash']",,,cs.CR,"['cs.CR', 'cs.OS']",1401.6726,1
+719,2013-12-20 11:11:54+00:00,2013-12-20 11:11:54+00:00,"['Florian Schmidt', 'David Orlea', 'Klaus Wehrle']",,,cs.NI,"['cs.NI', 'cs.IT', 'cs.OS', 'math.IT', 'C.2.2']",1312.5892,1
+720,2013-10-03 22:49:06+00:00,2013-10-03 22:49:06+00:00,"['Gary A. McGilvary', 'Josep Rius', 'Íñigo Goiri', 'Francesc Solsona', 'Adam Barker', 'Malcolm Atkinson']",,10.1109/CloudCom.2013.45,cs.DC,"['cs.DC', 'cs.OS']",1310.2148,1
+721,2013-12-16 20:32:52+00:00,2013-12-16 20:32:52+00:00,"['Lilia Zaourar', 'Mathieu Jan', 'Maurice Pitel']","34th IEEE Real-Time Systems Symposium (RTSS'13), WiP session,
+  Vancouver : Canada (2013)",,cs.OS,['cs.OS'],1312.4509,1
+722,2015-08-18 19:50:17+00:00,2015-08-18 19:50:17+00:00,"['Kim T. Briggs', 'Baoguo Zhou', 'Gerhard W. Dueck']",,,cs.PL,"['cs.PL', 'cs.OS']",1508.04753,1
+723,2014-07-16 10:03:51+00:00,2014-07-16 10:03:51+00:00,"['Elena Reshetova', 'Janne Karhunen', 'Thomas Nyman', 'N. Asokan']",,,cs.CR,"['cs.CR', 'cs.DC', 'cs.OS']",1407.4245,1
+724,2015-09-25 12:37:09+00:00,2015-09-25 12:37:09+00:00,['Victor Yodaiken'],,,cs.OS,['cs.OS'],1509.07694,1
+725,2015-10-09 02:58:40+00:00,2015-10-09 02:58:40+00:00,['Haryono Haryono'],"International Journal of advanced studies in Computer Science and
+  Engineering IJASCSE Volume 4, Issue 8, 2015",,cs.OS,['cs.OS'],1510.02552,1
+726,2015-11-13 06:27:48+00:00,2015-11-13 06:27:48+00:00,"['June Andronick', 'Corey Lewis', 'Carroll Morgan']","EPTCS 196, 2015, pp. 10-24",10.4204/EPTCS.196.2,cs.LO,"['cs.LO', 'cs.OS']",1511.04170,1
+727,2014-07-01 07:23:10+00:00,2014-07-01 07:23:10+00:00,"['Kazi Sakib', 'M. S. Hasan', 'M. A. Hossain']",,,cs.OS,"['cs.OS', 'cs.DC']",1407.0122,1
+728,2015-12-07 11:05:05+00:00,2015-12-07 11:05:05+00:00,"['Giuseppe Lipari', 'Luigi Palopoli']",,,cs.OS,['cs.OS'],1512.01978,1
+729,2014-05-08 07:09:55+00:00,2014-05-08 07:09:55+00:00,"['Frank Hannig', 'Jürgen Teich']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.RO', 'cs.SE']",1405.2281,1
+730,2018-05-04 07:36:09+00:00,2018-05-04 07:36:09+00:00,"['Reza Salkhordeh', 'Hossein Asadi']",DATE 2016,,cs.OS,['cs.OS'],1805.02514,1
+731,2014-01-09 00:04:41+00:00,2014-01-09 00:04:41+00:00,"['K. Eric Harper', 'Thijmen de Gooijer']",,,cs.DC,"['cs.DC', 'cs.OS', 'cs.PF', 'cs.SE']",1401.6100,1
+732,2015-08-28 08:45:35+00:00,2015-08-28 08:45:35+00:00,"['Chun-Hsian Huang', 'Kwuan-Wei Tseng', 'Chih-Cheng Lin', 'Fang-Yu Lin', 'Pao-Ann Hsiung']",,,cs.AR,"['cs.AR', 'cs.OS']",1508.07127,1
+733,2016-04-01 16:32:47+00:00,2016-04-01 16:32:47+00:00,"['Giuseppe Petracca', 'Yuqiong Sun', 'Ahmad Atamli', 'Trent Jaeger']",,,cs.CR,"['cs.CR', 'cs.OS']",1604.00320,1
+734,2014-10-28 19:20:34+00:00,2014-10-28 19:20:34+00:00,"['Xinyang Ge', 'Hayawardh Vijayakumar', 'Trent Jaeger']",,,cs.CR,"['cs.CR', 'cs.OS']",1410.7747,1
+735,2023-01-10 00:43:32+00:00,2023-01-10 00:43:32+00:00,"['Frank Sifei Luan', 'Stephanie Wang', 'Samyukta Yagati', 'Sean Kim', 'Kenneth Lien', 'Isaac Ong', 'Tony Hong', 'SangBin Cho', 'Eric Liang', 'Ion Stoica']",,,cs.DC,"['cs.DC', 'cs.OS']",2301.03734,1
+736,2016-01-12 20:46:07+00:00,2016-01-12 20:46:07+00:00,"['Michael Roland', 'Michael Hölzl']",,,cs.CR,"['cs.CR', 'cs.OS', 'C.2.0; C.3; C.5.3; D.2.7; D.4.6']",1601.03027,1
+737,2016-04-25 19:20:18+00:00,2016-04-25 19:20:18+00:00,"['Robert Grandl', 'Srikanth Kandula', 'Sriram Rao', 'Aditya Akella', 'Janardhan Kulkarni']",,,cs.DC,"['cs.DC', 'cs.DB', 'cs.OS', 'cs.PF', 'cs.SY']",1604.07371,1
+738,2023-01-18 12:47:14+00:00,2023-01-18 12:47:14+00:00,"['Gabriele Monaco', 'Gautam Gala', 'Gerhard Fohler']",,,cs.DC,"['cs.DC', 'cs.OS', 'C.3; D.4.7; C.2.4; D.2.11']",2301.07479,1
+739,2015-04-15 12:05:59+00:00,2015-04-15 12:05:59+00:00,"['Kévin Roussel', 'Ye-Qiong Song', 'Olivier Zendra']",,10.5220/0005237600050014,cs.NI,"['cs.NI', 'cs.OS', 'cs.PF']",1504.03875,1
+740,2015-02-05 11:36:45+00:00,2015-02-05 11:36:45+00:00,"['Camille Coti', 'Nicolas Greneche']",,,cs.OS,['cs.OS'],1502.01509,1
+741,2015-01-07 05:51:19+00:00,2015-01-07 05:51:19+00:00,"['Mahendra Vucha', 'Arvind Rajawat']",,10.5121/ijesa.2014.4401,cs.OS,"['cs.OS', 'cs.PF', 'cs.SY']",1501.01370,1
+742,2014-09-19 09:30:49+00:00,2014-09-19 09:30:49+00:00,"['Yanchao Lu', 'Donghong Wu', 'Bingsheng He', 'Xueyan Tang', 'Jianliang Xu', 'Minyi Guo']",,,cs.PF,"['cs.PF', 'cs.AR', 'cs.OS', 'B.3.2']",1409.5567,1
+743,2015-04-07 16:58:31+00:00,2015-04-07 16:58:31+00:00,"['Niv Dayan', 'Philippe Bonnet']",,,cs.DB,"['cs.DB', 'cs.OS']",1504.01666,1
+744,2014-07-16 15:35:47+00:00,2014-07-16 15:35:47+00:00,"['Nicolas Palix', 'Gaël Thomas', 'Suman Saha', 'Christophe Calvès', 'Gilles Muller', 'Julia L. Lawall']","ACM Transactions on Computer Systems 32, 2 (2014) 1--40",10.1145/2619090,cs.SE,"['cs.SE', 'cs.OS']",1407.4346,1
+745,2014-05-12 16:41:23+00:00,2014-05-12 16:41:23+00:00,"['Mario Kicherer', 'Wolfgang Karl']",,,cs.OS,['cs.OS'],1405.2912,1
+746,2020-01-06 09:04:59+00:00,2020-01-06 09:04:59+00:00,"['Denis Efremov', 'Ilya Shchepetkov']",,,cs.SE,"['cs.SE', 'cs.OS']",2001.01442,1
+747,2016-01-22 01:22:53+00:00,2016-01-22 01:22:53+00:00,"['Roberto di Pietro', 'Federico Franzoni', 'Flavio Lombardi']",,10.1007/978-3-319-58469-0_13,cs.OS,"['cs.OS', 'cs.CR']",1601.05851,1
+748,2014-10-28 19:23:26+00:00,2014-10-28 19:23:26+00:00,"['Daniel Defreez', 'Bhargava Shastry', 'Hao Chen', 'Jean-Pierre Seifert']",,,cs.CR,"['cs.CR', 'cs.OS']",1410.7754,1
+749,2013-04-22 16:23:24+00:00,2013-04-22 16:23:24+00:00,['Enoch Peserico'],,,cs.DS,"['cs.DS', 'cs.OS', 'cs.PF']",1304.6007,1
+750,2016-09-15 19:21:22+00:00,2016-09-15 19:21:22+00:00,"['Zhiyong Shan', 'Tzi-cker Chiueh', 'Xin Wang']",,,cs.OS,['cs.OS'],1609.04785,1
+751,2015-02-08 19:09:36+00:00,2015-02-08 19:09:36+00:00,"['Heechul Yun', 'Santosh Gondi', 'Siddhartha Biswas']",,,cs.OS,['cs.OS'],1502.02287,1
+752,2015-05-20 07:47:20+00:00,2015-05-20 07:47:20+00:00,"['Alok Ranjan', 'H. B. Sahu', 'Prasant Misra']","Journal of Advanced Research in Networking and Communication
+  Engineering, Vol(1) issue 1, 2014",,cs.OS,['cs.OS'],1505.05269,1
+753,2023-01-02 08:53:44+00:00,2023-01-02 08:53:44+00:00,"['Xujin Zhou', 'Irem Koprulu', 'Atilla Eryilmaz']",,,cs.IT,"['cs.IT', 'cs.NI', 'cs.OS', 'math.IT']",2301.00562,1
+754,2015-11-08 15:44:59+00:00,2015-11-08 15:44:59+00:00,"['Amar Ranjan Dash', 'Sandipta Kumar Sahu', 'Sanjay Kumar Samantra', 'Sradhanjali Sabat']",,10.5121/ijcsea.2015.5501,cs.OS,['cs.OS'],1511.02498,1
+755,2015-04-26 14:44:00+00:00,2015-04-26 14:44:00+00:00,"['Joel Reed', 'Jeremy Archuleta', 'Michael J. Brim', 'Joshua Lothian']",,,cs.OS,"['cs.OS', 'cs.DC']",1504.06833,1
+756,2022-11-30 04:48:07+00:00,2022-11-30 04:48:07+00:00,"['Aditya Basu', 'John Sampson', 'Zhiyun Qian', 'Trent Jaeger']",,,cs.CR,"['cs.CR', 'cs.OS']",2211.16735,1
+757,2015-05-06 18:14:56+00:00,2015-05-06 18:14:56+00:00,['Thomas Leibovici'],,,cs.DC,"['cs.DC', 'cs.OS']",1505.01448,1
+758,2023-01-11 16:15:17+00:00,2023-01-11 16:15:17+00:00,"['Nicolas Dejon', 'Chrystel Gaber', 'Gilles Grimaud']",,,cs.OS,['cs.OS'],2301.04546,1
+759,2015-11-08 21:12:17+00:00,2015-11-08 21:12:17+00:00,"['Rob van Glabbeek', 'Jan Friso Groote', 'Peter Höfner']","EPTCS 196, 2015",10.4204/EPTCS.196,cs.LO,"['cs.LO', 'cs.CR', 'cs.OS', 'cs.SY']",1511.02528,1
+760,2016-08-19 16:23:24+00:00,2016-08-19 16:23:24+00:00,"['Min Hong Yun', 'Songtao He', 'Lin Zhong']",,,cs.OS,['cs.OS'],1608.05654,1
+761,2015-04-28 14:05:59+00:00,2015-04-28 14:05:59+00:00,['Blake Caldwell'],,,cs.OS,"['cs.OS', 'cs.DC']",1504.07481,1
+762,2014-10-13 14:26:28+00:00,2014-10-13 14:26:28+00:00,"['Lavanya Sita Tekumalla', 'Chiranjib Bhattacharyya']",,,cs.OS,"['cs.OS', 'cs.LG', 'cs.SY']",1410.3463,1
+763,2014-10-13 08:51:40+00:00,2014-10-13 08:51:40+00:00,"['Joaquin Garcia-Alfaro', 'Gürkan Gür']","EPTCS 165, 2014",10.4204/EPTCS.165,cs.CR,"['cs.CR', 'cs.NI', 'cs.OS', 'Security']",1410.3226,1
+764,2023-02-08 10:15:07+00:00,2023-02-08 10:15:07+00:00,"['Matthew A. Johnson', 'Stavros Volos', 'Ken Gordon', 'Sean T. Allen', 'Christoph M. Wintersteiger', 'Sylvan Clebsch', 'John Starks', 'Manual Costa']",,,cs.CR,"['cs.CR', 'cs.NI', 'cs.OS']",2302.03976,1
+765,2023-03-07 07:31:46+00:00,2023-03-07 07:31:46+00:00,"['Quancheng Wang', 'Ming Tang', 'Jianming Fu']",,,cs.CR,"['cs.CR', 'cs.OS']",2303.03700,1
+766,2023-03-10 04:37:07+00:00,2023-03-10 04:37:07+00:00,"['Yiwei Yang', 'Pooneh Safayenikoo', 'Jiacheng Ma', 'Tanvir Ahmed Khan', 'Andrew Quinn']",,,cs.PF,"['cs.PF', 'cs.AR', 'cs.OS']",2303.06153,1
+767,2023-03-29 05:33:11+00:00,2023-03-29 05:33:11+00:00,"['Vikram Narayanan', 'Claudio Carvalho', 'Angelo Ruocco', 'Gheorghe Almási', 'James Bottomley', 'Mengmei Ye', 'Tobin Feldman-Fitzthum', 'Daniele Buono', 'Hubertus Franke', 'Anton Burtsev']",,,cs.CR,"['cs.CR', 'cs.OS']",2303.16463,1
+768,2023-03-27 18:38:28+00:00,2023-03-27 18:38:28+00:00,"['Pau-Chen Cheng', 'Wojciech Ozga', 'Enriquillo Valdez', 'Salman Ahmed', 'Zhongshu Gu', 'Hani Jamjoom', 'Hubertus Franke', 'James Bottomley']",,,cs.CR,"['cs.CR', 'cs.OS']",2303.15540,1

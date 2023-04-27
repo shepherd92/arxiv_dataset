@@ -1,0 +1,230 @@
+,update_time,publish_time,authors,journal_ref,doi,primary_category,categories,entry_id,version
+0,2022-09-09 16:04:31+00:00,2022-06-21 11:10:21+00:00,['Jens Ducrée'],,,cs.GL,"['cs.GL', 'cs.CR', '91-03, 01A61', 'E.3; K.2']",2206.10257,14
+1,2012-06-25 00:09:32+00:00,2005-07-05 17:03:37+00:00,['Craig Alan Feinstein'],"Progress in Physics, 2006, v. 3, 35-42",,cs.CC,"['cs.CC', 'cs.GL', 'F.1.3; F.2.2']",cs/0507008,7
+2,2018-09-19 01:20:34+00:00,2018-03-06 07:19:55+00:00,['Attila Egri-Nagy'],,,cs.CY,"['cs.CY', 'cs.GL']",1803.05998,4
+3,2009-10-04 15:23:16+00:00,2006-07-03 04:03:23+00:00,['Boris D. Lubachevsky'],,,cs.NE,"['cs.NE', 'cs.GL', 'F.1.1; J.3']",cs/0607007,4
+4,2015-05-10 16:23:39+00:00,2014-10-25 22:43:33+00:00,"['Christoph Becker', 'Ruzanna Chitchyan', 'Leticia Duboc', 'Steve Easterbrook', 'Martin Mahaux', 'Birgit Penzenstadler', 'Guillermo Rodriguez-Navas', 'Camille Salinesi', 'Norbert Seyff', 'Colin Venters', 'Coral Calero', 'Sedef Akinli Kocak', 'Stefanie Betz']",,,cs.SE,"['cs.SE', 'cs.GL']",1410.6968,4
+5,2012-01-30 22:01:07+00:00,2011-12-17 20:20:36+00:00,"['Theodore P. Hill', 'Erika Rogers']",,,math.HO,"['math.HO', 'cs.GL', 'physics.ed-ph', 'physics.soc-ph', '01A80, 01A07, 01A99']",1112.4082,4
+6,2019-08-26 19:29:48+00:00,2018-03-06 05:50:35+00:00,"['Sakib Mahmud Khan', 'Mashrur Chowdhury', 'Eric A Morris', 'Lipika Deka']",Journal of Infrastructure Systems 2019,10.1061/(ASCE)IS.1943-555X.0000507,cs.CY,"['cs.CY', 'cs.GL']",1803.05997,4
+7,2008-04-08 21:39:09+00:00,2008-01-10 16:46:04+00:00,"['Frank W. Bentrem', 'John T. Sample', 'Michael M. Harris']","Scientific Computing, vol. 25, no. 2, pp. 30-32 (March 2008)",,cs.MA,"['cs.MA', 'cs.GL', 'I.2.11; J.2']",0801.1630,3
+8,2010-10-11 11:01:40+00:00,2008-07-25 16:09:16+00:00,"['Carlo A. Furia', 'Dino Mandrioli', 'Angelo Morzenti', 'Matteo Rossi']","ACM Computing Surveys, 42(2):1--59, February 2010",10.1145/1667062.1667063,cs.GL,['cs.GL'],0807.4132,3
+9,2020-04-19 11:13:27+00:00,2020-01-30 15:15:59+00:00,['Jean-Christophe Pain'],,,math-ph,"['math-ph', 'astro-ph.GA', 'cs.GL', 'math.MP', 'physics.atom-ph']",2001.11893,3
+10,2011-08-09 20:18:03+00:00,2011-02-23 02:31:18+00:00,['Joseph F. Grcar'],,,math.HO,"['math.HO', 'cs.CY', 'cs.GL']",1102.4651,3
+11,2019-07-29 16:58:06+00:00,2018-11-06 18:02:40+00:00,['Jerome Feldman'],,10.1007/s41470-019-00041-4,cs.GL,"['cs.GL', 'cs.AI', 'q-bio.NC']",1811.06825,3
+12,2006-02-09 22:09:59+00:00,2005-05-03 19:23:35+00:00,['Carlos Gershenson'],,,nlin.AO,"['nlin.AO', 'cs.GL', 'cs.SE', 'physics.soc-ph']",nlin/0505009,3
+13,2020-01-05 18:03:31+00:00,2019-08-02 07:00:41+00:00,['János Végh'],,,cs.GL,['cs.GL'],1908.02651,3
+14,2004-03-11 14:27:31+00:00,2004-03-08 17:50:32+00:00,['Wolfram Schmied'],,,cs.AI,"['cs.AI', 'cs.GL', 'I.2.0']",cs/0403009,2
+15,2004-11-08 07:17:42+00:00,2004-11-05 12:38:05+00:00,['Serban E. Vlad'],"The 12-th Conference on Applied and Industrial Mathematics CAIM
+  2004, University of Pitesti, October 15-17, 2004",,cs.GL,['cs.GL'],cs/0411009,2
+16,2022-09-17 16:46:07+00:00,2022-08-06 13:24:20+00:00,"['Emily Ruppel', 'Sihang Liu', 'Elba Garza', 'Sukyoung Ryu', 'Alexandra Silva', 'Talia Ringer']",,,cs.CY,"['cs.CY', 'cs.GL', 'cs.PL']",2208.04738,2
+17,2006-07-25 19:26:39+00:00,2006-01-26 09:08:51+00:00,"['Marc Barthelemy', 'Alessandro Flammini']",J. Stat. Mech. (2006) L07002,10.1088/1742-5468/2006/07/L07002,physics.soc-ph,"['physics.soc-ph', 'cond-mat.dis-nn', 'cs.GL']",physics/0601203,2
+18,2018-01-16 14:59:32+00:00,2017-07-20 08:39:29+00:00,"['Stefan Pfenninger', 'Lion Hirth', 'Ingmar Schlecht', 'Eva Schmid', 'Frauke Wiese', 'Tom Brown', 'Chris Davis', 'Birgit Fais', 'Matthew Gidden', 'Heidi Heinrichs', 'Clara Heuberger', 'Simon Hilpert', 'Uwe Krien', 'Carsten Matke', 'Arjuna Nebel', 'Robbie Morrison', 'Berit Müller', 'Guido Pleßmann', 'Matthias Reeg', 'Jörn C. Richstein', 'Abhishek Shivakumar', 'Iain Staffell', 'Tim Tröndle', 'Clemens Wingenbach']","Energy Strategy Reviews, Volume 19, January 2018, Pages 63-71",10.1016/j.esr.2017.12.002,cs.CY,"['cs.CY', 'cs.GL']",1707.08164,2
+19,2022-10-30 12:23:23+00:00,2022-06-22 09:57:06+00:00,"['Arnald Puy', 'Andrea Saltelli']",,,cs.GL,"['cs.GL', 'math.HO']",2207.12230,2
+20,2022-07-25 03:10:31+00:00,2022-07-15 20:17:50+00:00,"['Haiyi Mao', 'Minxue Jia', 'Jason Xiaotian Dou', 'Haotian Zhang', 'Panayiotis V. Benos']",,,q-bio.GN,"['q-bio.GN', 'cs.AI', 'cs.GL']",2207.07734,2
+21,2000-04-07 23:42:37+00:00,1999-05-13 21:44:55+00:00,"['Alexandre Blais', 'Alexandre M. Zagoskin']","Physical Review A, v.61, 042308 (2000)",10.1103/PhysRevA.61.042308,quant-ph,"['quant-ph', 'cond-mat.mes-hall', 'cond-mat.other', 'cond-mat.supr-con', 'cs.GL']",quant-ph/9905043,2
+22,2018-06-18 08:26:30+00:00,2017-08-28 06:45:57+00:00,"['Fabien Benureau', 'Nicolas Rougier']",,10.3389/fninf.2017.00069,cs.GL,"['cs.GL', 'cs.CY']",1708.08205,2
+23,2004-11-16 05:15:12+00:00,2004-02-17 06:54:26+00:00,['P. H. Potgieter'],"Suid-Afrikaanse Tydskrif vir Natuurwetenskap en Tegnologie, Vol
+  23, Issue 1 / 2, Mar / Jun, 2-6 (2004)",,cs.GL,"['cs.GL', 'F.1.2']",cs/0402037,2
+24,2006-05-18 07:22:53+00:00,2006-03-01 15:26:33+00:00,"['Igor Podlubny', 'Katarina Kassayova']","Research Evaluation, vol. 15, no. 3, December 2006, pp. 154-162",,math.ST,"['math.ST', 'cs.GL', 'physics.soc-ph', 'stat.TH', '00A99']",math/0603024,2
+25,2006-09-27 09:43:52+00:00,2006-08-15 16:40:24+00:00,['Solomon Feferman'],"Logical Methods in Computer Science, Volume 2, Issue 3 (September
+  27, 2006) lmcs:2248",10.2168/LMCS-2(3:6)2006,cs.GL,"['cs.GL', 'cs.LO', 'F.4.1; F.4.3']",cs/0608062,2
+26,2018-08-26 09:10:53+00:00,2018-06-11 14:09:03+00:00,['Lawrence C Paulson'],"Biographical Memoirs of Fellows of the Royal Society 65 (2018),
+  89-113",10.1098/rsbm.2018.0019,cs.GL,"['cs.GL', 'cs.SE']",1806.04002,2
+27,2013-07-05 14:09:11+00:00,2007-01-04 09:45:28+00:00,['Franco Milicchio'],,,cs.OS,"['cs.OS', 'cs.GL']",cs/0701021,2
+28,2020-06-04 07:44:12+00:00,2018-10-25 13:57:21+00:00,"['Alexey N. Medvedev', 'Renaud Lambiotte', 'Jean-Charles Delvenne']","In: Ghanbarnejad F., Saha Roy R., Karimi F., Delvenne JC., Mitra
+  B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. Springer
+  Proceedings in Complexity. Springer, Cham",10.1007/978-3-030-14683-2_9,cs.SI,"['cs.SI', 'cs.GL']",1810.10881,2
+29,2022-11-26 10:25:19+00:00,2022-06-11 11:04:13+00:00,"['Athanasios Vlontzos', 'Daniel Rueckert', 'Bernhard Kainz']",Machine.Learning.for.Biomedical.Imaging. 1 (2022),,cs.CV,"['cs.CV', 'cs.AI', 'cs.GL']",2206.05498,2
+30,2023-02-16 12:34:09+00:00,2023-02-13 14:42:15+00:00,['David Heckerman'],,,cs.AI,"['cs.AI', 'cs.GL', '68T01', 'I.2.0']",2302.05449,2
+31,2022-09-08 18:15:35+00:00,2022-04-15 18:47:49+00:00,"['Jennafer S. Roberts', 'Laura N. Montoya']",,,cs.AI,"['cs.AI', 'cs.CY', 'cs.GL', 'cs.HC', 'cs.NE']",2204.07612,2
+32,2005-02-21 16:31:50+00:00,2004-10-27 16:02:30+00:00,['Igor Podlubny'],"Scientometrics, Vol.64, no.1, July 2005, pp.95-99. Journal ISSN:
+  0138-9130 (Paper) 1588-2861 (Online)",10.1007/s11192-005-0240-0,math.ST,"['math.ST', 'cs.GL', 'physics.soc-ph', 'stat.TH', '00A99']",math/0410574,2
+33,2001-10-22 21:02:46+00:00,2001-10-04 17:35:18+00:00,['Robert Cannon'],,,cs.GL,"['cs.GL', 'K.4.m Miscellaneous']",cs/0110018,2
+34,2022-06-01 11:46:47+00:00,2022-05-30 18:08:28+00:00,"['Nikos D. Fakotakis', 'Stavros Nousias', 'Gerasimos Arvanitis', 'Evangelia I. Zacharaki', 'Konstantinos Moustakas']",,,cs.SD,"['cs.SD', 'cs.CV', 'cs.CY', 'cs.GL', 'eess.AS']",2205.15360,2
+35,2006-06-07 01:49:08+00:00,2006-03-30 22:31:26+00:00,['Russ Abbott'],,,cs.MA,"['cs.MA', 'cs.GL']",cs/0603125,2
+36,2019-04-24 22:23:47+00:00,2018-06-29 21:23:47+00:00,"['Emery Berger', 'Stephen M. Blackburn', 'Carla Brodley', 'H. V. Jagadish', 'Kathryn S. McKinley', 'Mario A. Nascimento', 'Minjeong Shin', 'Lexing Xie']",,,cs.GL,"['cs.GL', 'cs.DL']",1807.00071,2
+37,2021-07-16 08:47:27+00:00,2021-07-06 06:01:14+00:00,['Lev N. Shchur'],,10.1109/SORUCOM51654.2020.9465053,cond-mat.stat-mech,"['cond-mat.stat-mech', 'cs.GL', 'physics.comp-ph']",2107.02406,2
+38,2023-02-03 00:18:49+00:00,2023-01-24 00:57:37+00:00,"['Raymond Leung', 'Andrew J Hill', 'Arman Melkumyan']",,,cs.CY,"['cs.CY', 'cs.GL']",2301.09771,2
+39,2015-08-20 16:37:13+00:00,2015-03-30 18:17:30+00:00,"['Mark Stalzer', 'Chris Mentzel']",,,cs.DL,"['cs.DL', 'cs.GL']",1503.08776,2
+40,2019-07-04 19:02:49+00:00,2019-03-03 11:14:42+00:00,['Carlos Zednik'],,,cs.GL,['cs.GL'],1903.04361,2
+41,2016-02-25 18:02:20+00:00,2016-02-19 18:16:57+00:00,['Gary R. Prok'],,,cs.GL,['cs.GL'],1602.07646,2
+42,2009-03-19 10:38:33+00:00,2008-10-22 08:23:10+00:00,['Victor Lebreton'],,,q-fin.TR,"['q-fin.TR', 'cs.GL']",0810.4000,2
+43,2012-11-26 12:10:26+00:00,2010-12-19 14:06:14+00:00,"['Naomi Jacobs', 'Martyn Amos']",,,cs.GL,['cs.GL'],1012.4170,2
+44,2009-12-07 11:09:29+00:00,2009-12-04 20:54:07+00:00,"['Vincenza Carchiolo', 'Alessandro Longheu', 'Michele Malgeri', 'Giuseppe Mangioni']","International Journal of Computer Science and Information
+  Security, IJCSIS, Vol. 6, No. 2, pp. 113-118, November 2009, USA",,cs.IR,"['cs.IR', 'cs.GL', 'physics.soc-ph']",0912.0913,2
+45,2016-03-11 19:54:55+00:00,2016-02-12 00:19:42+00:00,['Jérémy Barbay'],,,cs.GL,['cs.GL'],1602.03934,2
+46,2020-03-29 17:31:50+00:00,2020-03-03 20:10:40+00:00,['Miguel A. F. Sanjuan'],,10.1142/S021812742150173X,cs.GL,['cs.GL'],2003.01771,2
+47,2017-03-15 07:06:07+00:00,2017-03-12 08:10:59+00:00,['Hossein Hassani'],,,cs.GL,['cs.GL'],1703.04080,2
+48,2021-03-04 16:34:34+00:00,2020-10-07 17:10:28+00:00,"['Paul Ralph', 'Nauman bin Ali', 'Sebastian Baltes', 'Domenico Bianculli', 'Jessica Diaz', 'Yvonne Dittrich', 'Neil Ernst', 'Michael Felderer', 'Robert Feldt', 'Antonio Filieri', 'Breno Bernard Nicolau de França', 'Carlo Alberto Furia', 'Greg Gay', 'Nicolas Gold', 'Daniel Graziotin', 'Pinjia He', 'Rashina Hoda', 'Natalia Juristo', 'Barbara Kitchenham', 'Valentina Lenarduzzi', 'Jorge Martínez', 'Jorge Melegati', 'Daniel Mendez', 'Tim Menzies', 'Jefferson Molleri', 'Dietmar Pfahl', 'Romain Robbes', 'Daniel Russo', 'Nyyti Saarimäki', 'Federica Sarro', 'Davide Taibi', 'Janet Siegmund', 'Diomidis Spinellis', 'Miroslaw Staron', 'Klaas Stol', 'Margaret-Anne Storey', 'Davide Taibi', 'Damian Tamburri', 'Marco Torchiano', 'Christoph Treude', 'Burak Turhan', 'Xiaofeng Wang', 'Sira Vegas']",,,cs.SE,"['cs.SE', 'cs.GL']",2010.03525,2
+49,2020-11-03 12:02:16+00:00,2020-08-03 17:15:18+00:00,['Frank Emmert-Streib'],,10.3390/make3010014,cs.GL,['cs.GL'],2008.12672,2
+50,2022-06-08 16:56:47+00:00,2022-02-15 00:17:40+00:00,"['Jascha Grübel', 'Tyler Thrash', 'Leonel Aguilar', 'Michal Gath-Morad', 'Julia Chatain', 'Robert W. Sumner', 'Christoph Hölscher', 'Victor R. Schinazi']",,,cs.CY,"['cs.CY', 'cs.GL', 'cs.HC']",2202.07104,2
+51,2020-10-23 12:28:17+00:00,2020-04-28 17:30:10+00:00,"['Sarah Spiekermann', 'Till Winkler']",,,cs.CY,"['cs.CY', 'cs.GL']",2004.13676,2
+52,2013-06-07 16:52:29+00:00,2013-06-02 00:36:34+00:00,['Scott Aaronson'],,,quant-ph,"['quant-ph', 'cs.GL', 'physics.hist-ph']",1306.0159,2
+53,2020-05-05 16:42:37+00:00,2020-04-27 11:07:21+00:00,"['Hartwig Anzt', 'Felix Bach', 'Stephan Druskat', 'Frank Löffler', 'Axel Loewe', 'Bernhard Y. Renard', 'Gunnar Seemann', 'Alexander Struck', 'Elke Achhammer', 'Piush Aggarwal', 'Franziska Appel', 'Michael Bader', 'Lutz Brusch', 'Christian Busse', 'Gerasimos Chourdakis', 'Piotr W. Dabrowski', 'Peter Ebert', 'Bernd Flemisch', 'Sven Friedl', 'Bernadette Fritzsch', 'Maximilian D. Funk', 'Volker Gast', 'Florian Goth', 'Jean-Noël Grad', 'Sibylle Hermann', 'Florian Hohmann', 'Stephan Janosch', 'Dominik Kutra', 'Jan Linxweiler', 'Thilo Muth', 'Wolfgang Peters-Kottig', 'Fabian Rack', 'Fabian H. C. Raters', 'Stephan Rave', 'Guido Reina', 'Malte Reißig', 'Timo Ropinski', 'Joerg Schaarschmidt', 'Heidi Seibold', 'Jan P. Thiele', 'Benjamin Uekerman', 'Stefan Unger', 'Rudolf Weeber']",F1000Research 2020,10.12688/f1000research.23224.1,cs.GL,"['cs.GL', 'cs.SE']",2005.01469,2
+54,2013-06-16 21:57:37+00:00,2012-06-04 22:41:04+00:00,"['Joseph F. Fitzsimons', 'Eleanor G. Rieffel', 'Valerio Scarani']",,,quant-ph,"['quant-ph', 'cs.GL']",1206.0785,2
+55,2012-06-20 20:37:56+00:00,2012-04-05 20:06:16+00:00,"['Douglas N. Arnold', 'Henry Cohn']","Notices of the American Mathematical Society 59 (2012), 828-833",10.1090/noti857,math.HO,"['math.HO', 'cs.GL']",1204.1351,2
+56,2020-09-30 11:31:26+00:00,2019-09-19 05:57:18+00:00,"['Jörg Fehr', 'Christian Himpe', 'Stephan Rave', 'Jens Saak']","Journal of Open Research Software, 9(1), 2021",10.5334/jors.307,cs.GL,"['cs.GL', 'cs.SE', '68N30, 97N80, 97P99']",1909.09469,2
+57,2014-01-29 14:15:59+00:00,2013-07-20 18:44:29+00:00,['Greg Wilson'],,,cs.GL,"['cs.GL', 'cs.CY', 'physics.ed-ph']",1307.5448,2
+58,2000-01-19 01:48:39+00:00,1998-09-08 19:02:58+00:00,"['Eleanor G. Rieffel', 'Wolfgang Polak']","ACM Comput.Surveys 32:300-335,2000",,quant-ph,"['quant-ph', 'cs.GL']",quant-ph/9809016,2
+59,2020-06-25 16:14:43+00:00,2019-08-09 08:12:54+00:00,"['Niall H. Robinson', 'Joe Hamman', 'Ryan Abernathey']",,,cs.DC,"['cs.DC', 'cs.GL']",1908.03356,2
+60,2009-08-29 18:33:55+00:00,2009-08-29 18:33:55+00:00,"['Azeez Nureni Ayofe', 'Azeez Raheem Ajetola']","International Journal of Computer Science and Information
+  Security, IJCSIS, Vol. 4, No. 1 & 2, August 2009, USA",,cs.GL,"['cs.GL', 'cs.CY']",0908.4353,1
+61,2002-10-01 01:37:42+00:00,2002-10-01 01:37:42+00:00,['Krzysztof R. Apt'],,,cs.GL,"['cs.GL', 'A.0']",cs/0210001,1
+62,2009-04-21 13:00:15+00:00,2009-04-21 13:00:15+00:00,['Manuel Oriol'],,,cs.GL,"['cs.GL', 'cs.GT', 'K.4.4']",0904.3243,1
+63,2003-06-26 14:08:39+00:00,2003-06-26 14:08:39+00:00,['Gilson Antonio Giraldi'],,,cs.GL,"['cs.GL', 'H.1.1']",cs/0306132,1
+64,2003-06-24 17:33:13+00:00,2003-06-24 17:33:13+00:00,"['Alessandro P. S. de Moura', 'Ying-Cheng Lai', 'Adilson E. Motter']","Phys. Rev. E 68, 017102 (2003)",10.1103/PhysRevE.68.017102,cond-mat.dis-nn,"['cond-mat.dis-nn', 'cs.GL']",cond-mat/0306609,1
+65,2004-04-11 08:36:04+00:00,2004-04-11 08:36:04+00:00,"['Darran Nathan', 'Eva Rosdiana', 'Chua Beng Koon']",,,cs.GL,"['cs.GL', 'cs.CL', 'D.3.2']",cs/0404026,1
+66,2004-04-15 03:17:56+00:00,2004-04-15 03:17:56+00:00,"['Saju Jude Dominic', 'G. Sajith']",,,cs.GL,"['cs.GL', 'cs.DB', 'E.2;H.2.2;G.3']",cs/0404033,1
+67,2001-06-11 14:11:22+00:00,2001-06-11 14:11:22+00:00,['Krzysztof R. Apt'],"Communications of ACM, 44(5), pp. 25-28",,cs.GL,"['cs.GL', 'A.0']",cs/0106022,1
+68,2004-08-01 15:04:53+00:00,2004-08-01 15:04:53+00:00,['Vigen A. Geodakian'],"Nauka i zhizn (Science and Life), 1965",,cs.NE,"['cs.NE', 'cs.GL', 'q-bio.PE', 'F.1.1; J.3']",cs/0408006,1
+69,2008-09-29 09:42:23+00:00,2008-09-29 09:42:23+00:00,['Christoph Schommer'],,,cs.CY,"['cs.CY', 'cs.GL', 'K.4.0; A.0']",0809.4916,1
+70,2008-09-04 18:17:05+00:00,2008-09-04 18:17:05+00:00,['Fionn Murtagh'],"CEPIS UPGRADE, vol. IX, no. 5, pp. 56-64, Oct. 2008",,cs.CY,"['cs.CY', 'cs.GL', 'K.0; K.1; K.3.0; K.4.3; K.7.0']",0809.0874,1
+71,2013-12-08 19:50:05+00:00,2013-12-08 19:50:05+00:00,['Serge Abiteboul'],,,cs.GL,['cs.GL'],1312.3213,1
+72,2008-07-15 21:31:36+00:00,2008-07-15 21:31:36+00:00,"['Marko A. Rodriguez', 'Vadas Gintautas', 'Alberto Pepe']","First Monday, volume 14, number 1, ISSN:1396-0466, University of
+  Illinois at Chicago Library, January 2009.",,cs.CY,"['cs.CY', 'cs.GL', 'K.4.0']",0807.2466,1
+73,2014-02-05 17:43:12+00:00,2014-02-05 17:43:12+00:00,['Hector Zenil'],,,cs.GL,['cs.GL'],1402.1099,1
+74,2009-08-04 01:59:07+00:00,2009-08-04 01:59:07+00:00,['Marko A. Rodriguez'],"Bulletin of the American Society for Information Science and
+  Technology, American Society for Information Science and Technology, volume
+  35, number 6, ISSN: 1550-8366, LA-UR-09-03724, pages 38-43, September 2009",,cs.AI,"['cs.AI', 'cs.DL', 'cs.GL', 'E.1; C.2.4']",0908.0373,1
+75,2004-06-16 10:01:06+00:00,2004-06-16 10:01:06+00:00,"['David King', 'Chris Kimble']","Proceedings 9e colloque de l'AIM, Evry, France, May 2004",,cs.SE,"['cs.SE', 'cs.GL', 'K.6.3, I.0']",cs/0406022,1
+76,2013-12-09 14:35:08+00:00,2013-12-09 14:35:08+00:00,"['Mark Burgin', 'Gordana Dodig-Crnkovic']",,,cs.GL,['cs.GL'],1312.2447,1
+77,2004-10-29 12:08:52+00:00,2004-10-29 12:08:52+00:00,['Serban E. Vlad'],"The 12-th Conference on Applied and Industrial Mathematics CAIM
+  2004, University of Pitesti, October 15-17, 2004",,cs.GL,['cs.GL'],cs/0410075,1
+78,1999-04-22 15:47:22+00:00,1999-04-22 15:47:22+00:00,"['Stephen F. Bush', 'John Hershey', 'Kirby Vosburgh']",,,cs.NI,"['cs.NI', 'cs.CC', 'cs.GL', 'cs.PF', 'C.2;C.4;B.8;F.2;H.1']",cs/9904016,1
+79,1999-07-08 23:16:17+00:00,1999-07-08 23:16:17+00:00,"['Anand Venkataraman', 'Ray Kemp']",,,cs.LO,"['cs.LO', 'cs.GL', 'E.4; D.1.6; D.3.0']",cs/9907014,1
+80,2009-04-08 23:46:10+00:00,2009-04-08 23:46:10+00:00,"['Chaomei Chen', 'Yue Chen', 'Mark Horowitz', 'Haiyan Hou', 'Zeyuan Liu', 'Don Pellegrino']","Journal of Informetirics, 3(2009), 191-209",,cs.GL,"['cs.GL', 'cs.CY']",0904.1439,1
+81,2008-08-27 15:21:21+00:00,2008-08-27 15:21:21+00:00,"['Victor van Reijswoud', 'Arjan de Jager']","""Publishing studies"" book series, edited by Giandomenico Sica,
+  ISSN 1973-6061 (Printed edition), ISSN 1973-6053 (Electronic edition)",,cs.GL,['cs.GL'],0808.3717,1
+82,2009-10-26 22:50:08+00:00,2009-10-26 22:50:08+00:00,"['Gordana Dodig-Crnkovic', 'Vincent C. Müller']",,,cs.GL,['cs.GL'],0910.5001,1
+83,2008-11-05 20:38:22+00:00,2008-11-05 20:38:22+00:00,"['Andreas Blass', 'Nachum Dershowitz', 'Yuri Gurevich']","Bulletin of Symbolic Logic, vol. 15, no. 2, pp. 145-168, 2009",,cs.GL,"['cs.GL', 'cs.DS', 'cs.LO']",0811.0811,1
+84,2006-02-12 22:11:14+00:00,2006-02-12 22:11:14+00:00,['Russ Abbott'],,,cs.MA,"['cs.MA', 'cs.DC', 'cs.GL']",cs/0602045,1
+85,2008-04-05 23:55:16+00:00,2008-04-05 23:55:16+00:00,['Serban E. Vlad'],,,cs.GL,['cs.GL'],0804.0879,1
+86,2000-12-11 06:58:06+00:00,2000-12-11 06:58:06+00:00,['Douglas M. Snyder'],,,cs.GL,"['cs.GL', 'A.0']",cs/0012003,1
+87,2015-06-20 17:07:55+00:00,2015-06-20 17:07:55+00:00,['S. Barry Cooper'],,,math.LO,"['math.LO', 'cs.GL', '03D99']",1506.06270,1
+88,2018-07-25 10:26:51+00:00,2018-07-25 10:26:51+00:00,"['Sauro Succi', 'Peter V. Coveney']",,10.1098/rsta.2018.0145,cs.GL,['cs.GL'],1807.09515,1
+89,2000-01-21 05:31:08+00:00,2000-01-21 05:31:08+00:00,['Lane A. Hemaspaandra'],,,cs.CY,"['cs.CY', 'cs.GL', 'K.3.2; F.1.3']",cs/0001016,1
+90,2006-02-20 18:08:20+00:00,2006-02-20 18:08:20+00:00,['Nathan Boeger'],,,cs.GL,['cs.GL'],cs/0602070,1
+91,2001-01-15 02:31:54+00:00,2001-01-15 02:31:54+00:00,['Ming-Yang Kao'],"SIGACT News, 28(2):67--69, June 1997",,cs.GL,"['cs.GL', 'cs.DS', 'F.2']",cs/0101011,1
+92,1998-09-02 19:39:25+00:00,1998-09-02 19:39:25+00:00,"['C. Gordon Bell', 'Jim Gray']",,,cs.GL,"['cs.GL', 'C.0']",cs/9809010,1
+93,1998-11-01 17:44:15+00:00,1998-11-01 17:44:15+00:00,"['Lane A. Hemaspaandra', 'Alan L. Selman']",,,cs.GL,"['cs.GL', 'cs.CC', 'K.3.2; F.1.0']",cs/9811005,1
+94,1999-11-11 23:05:28+00:00,1999-11-11 23:05:28+00:00,['Jim Gray'],,,cs.GL,"['cs.GL', 'D.2;H.2;H.3;H.5; I.2']",cs/9911005,1
+95,2011-03-03 13:32:59+00:00,2011-03-03 13:32:59+00:00,['Zoran Majkic'],,,cs.LO,"['cs.LO', 'cs.GL', 'cs.IT', 'math.IT']",1103.0680,1
+96,2012-10-29 19:14:54+00:00,2012-10-29 19:14:54+00:00,"['Gordana Dodig Crnkovic', 'Raffaela Giovagnoli']",,,cs.GL,['cs.GL'],1210.7784,1
+97,2009-09-18 16:27:51+00:00,2009-09-18 16:27:51+00:00,"['Pan Hui', 'Richard Mortier', 'Tristan Henderson', 'Jon Crowcroft']",,,cs.NI,"['cs.NI', 'cs.CY', 'cs.GL']",0909.3481,1
+98,2012-07-03 05:55:24+00:00,2012-07-03 05:55:24+00:00,['Gordana Dodig-Crnkovic'],,,cs.GL,['cs.GL'],1207.1033,1
+99,2018-06-11 12:22:05+00:00,2018-06-11 12:22:05+00:00,"['Daniel Nüst', 'Carl Boettiger', 'Ben Marwick']",,,cs.GL,['cs.GL'],1806.09525,1
+100,2012-07-03 05:54:51+00:00,2012-07-03 05:54:51+00:00,['Gordana Dodig-Crnkovic'],,,cs.GL,['cs.GL'],1207.1032,1
+101,2022-04-11 14:30:27+00:00,2022-04-11 14:30:27+00:00,"['David Patterson', 'Joseph Gonzalez', 'Urs Hölzle', 'Quoc Le', 'Chen Liang', 'Lluis-Miquel Munguia', 'Daniel Rothchild', 'David So', 'Maud Texier', 'Jeff Dean']",,,cs.LG,"['cs.LG', 'cs.AI', 'cs.GL']",2204.05149,1
+102,2021-07-21 22:17:11+00:00,2021-07-21 22:17:11+00:00,['Shaykh Siddique'],,10.5281/zenodo.4902206,cs.SE,"['cs.SE', 'cs.GL']",2107.10375,1
+103,2021-04-30 07:32:41+00:00,2021-04-30 07:32:41+00:00,['Charles Bodon'],,,cs.GL,['cs.GL'],2105.05302,1
+104,2022-12-15 21:02:49+00:00,2022-12-15 21:02:49+00:00,"['Petar Radanliev', 'David De Roure', 'Pete Burnap', 'Omar Santos']",,10.1007/s12626-021-00086-5,cs.CY,"['cs.CY', 'cs.GL', 'cs.SY', 'eess.SY', 'stat.ME']",2212.08141,1
+105,2016-03-19 00:02:51+00:00,2016-03-19 00:02:51+00:00,['Steven Meyer'],,,cs.GL,"['cs.GL', 'F.0']",1603.06018,1
+106,2008-04-12 23:58:30+00:00,2008-04-12 23:58:30+00:00,['Serban E. Vlad'],,,cs.GL,['cs.GL'],0804.2035,1
+107,2004-12-17 23:04:08+00:00,2004-12-17 23:04:08+00:00,['Serban E. Vlad'],"in New Developments in Computer Science Research, Editor Susan
+  Shannon, Nova Science Publishers, Inc., New York, 2005",,cs.GL,['cs.GL'],cs/0412090,1
+108,2012-10-12 18:48:58+00:00,2012-10-12 18:48:58+00:00,"['François Pellegrini', 'Sébastien Canevet']",,,cs.GL,['cs.GL'],1210.3597,1
+109,2012-11-23 13:55:44+00:00,2012-11-23 13:55:44+00:00,"['Naomi Jacobs', 'Martyn Amos']",,,cs.GL,['cs.GL'],1211.5508,1
+110,2013-03-15 18:40:15+00:00,2013-03-15 18:40:15+00:00,"['A. N. Gorban', 'G. S. Yablonsky']",Computers and Mathematics with Applications 65 (2013) 1421-1426,10.1016/j.camwa.2013.04.023,cs.GL,['cs.GL'],1303.3855,1
+111,2022-12-11 18:32:00+00:00,2022-12-11 18:32:00+00:00,"['Mike Thelwall', 'Kayvan Kousha', 'Mahshid Abdoli', 'Emma Stuart', 'Meiko Makita', 'Paul Wilson', 'Jonathan Levitt']",,,cs.CY,"['cs.CY', 'cs.CL', 'cs.GL', 'cs.IR', 'cs.LG']",2212.08041,1
+112,2020-12-10 20:44:48+00:00,2020-12-10 20:44:48+00:00,['Corey J. Maley'],,,cs.GL,"['cs.GL', 'q-bio.NC', 'F.m; K.2']",2012.05965,1
+113,2012-05-25 21:04:53+00:00,2012-05-25 21:04:53+00:00,['Roger Penrose'],,,cs.GL,"['cs.GL', 'cs.AI', 'cs.CC', 'cs.IT', 'math.IT', 'physics.hist-ph', 'physics.pop-ph']",1205.5823,1
+114,2022-05-27 05:51:43+00:00,2022-05-27 05:51:43+00:00,['Nick Zhang'],,,cs.GL,['cs.GL'],2205.15011,1
+115,2022-04-20 17:05:09+00:00,2022-04-20 17:05:09+00:00,"['Kory W. Mathewson', 'Patrick M. Pilarski']",,,cs.HC,"['cs.HC', 'cs.GL', 'cs.LG']",2204.09622,1
+116,2013-04-12 16:29:42+00:00,2013-04-12 16:29:42+00:00,['Ian P. Gent'],,,cs.GL,"['cs.GL', 'cs.DL']",1304.3674,1
+117,2010-02-09 20:54:33+00:00,2010-02-09 20:54:33+00:00,"['Chaomei Chen', 'Jian Zhang', 'Michael S. Vogeley']","Scientometrics, 83(3), 669-688 (2010)",10.1007/s11192-009-0123-x,cs.GL,['cs.GL'],1002.1936,1
+118,2017-09-05 22:08:22+00:00,2017-09-05 22:08:22+00:00,"['Claire Le Goues', 'Yuriy Brun', 'Sven Apel', 'Emery Berger', 'Sarfraz Khurshid', 'Yannis Smaragdakis']","Communications of the ACM, vol. 61, no. 6, June 2018, pp. 34-37",10.1145/3208157,cs.DL,"['cs.DL', 'cs.GL', 'cs.SE']",1709.01609,1
+119,2016-05-26 19:36:40+00:00,2016-05-26 19:36:40+00:00,['Craig Alan Feinstein'],"Progress in Physics, 2016 (vol. 12), issue 3, pp. 280-283",,cs.GL,['cs.GL'],1605.08639,1
+120,2018-06-06 10:47:20+00:00,2018-06-06 10:47:20+00:00,['Panagiotis Metaxas'],,,cs.GL,"['cs.GL', 'cs.CY']",1806.09541,1
+121,2013-06-14 05:11:34+00:00,2013-06-14 05:11:34+00:00,"['Mary Hall', 'Robert M. Kirby', 'Feifei Li', 'Miriah Meyer', 'Valerio Pascucci', 'Jeff M. Phillips', 'Rob Ricci', 'Jacobus Van der Merwe', 'Suresh Venkatasubramanian']",,,cs.GL,"['cs.GL', 'cs.DC']",1306.3295,1
+122,2013-06-21 19:15:51+00:00,2013-06-21 19:15:51+00:00,"['Andreas Tolk', 'Saikou Y. Diallo', 'Jose J. Padilla', 'Ross Gore']",,,cs.GL,"['cs.GL', 'cs.AI', '00']",1306.5215,1
+123,2015-06-01 16:09:53+00:00,2015-06-01 16:09:53+00:00,['Wladmir Cardoso Brandão'],,,cs.GL,"['cs.GL', 'A.1; K.3.2']",1506.00555,1
+124,2017-07-27 07:44:49+00:00,2017-07-27 07:44:49+00:00,"['Hans van Ditmarsch', 'Michael Ian Hartley', 'Barteld Kooi', 'Jonathan Welton', 'Joseph B. W. Yeo']","EPTCS 251, 2017, pp. 1-9",10.4204/EPTCS.251.1,cs.AI,"['cs.AI', 'cs.GL', 'cs.LO']",1708.02654,1
+125,2010-09-04 14:56:07+00:00,2010-09-04 14:56:07+00:00,"['Sajal Kabiraj', 'Vinay Topkar', 'R. C. Walke']","International Journal of Managing Information Technology (IJMIT)
+  Vol.2, No.3, August 2010",,cs.CY,"['cs.CY', 'cs.GL']",1009.0844,1
+126,2016-05-17 05:54:01+00:00,2016-05-17 05:54:01+00:00,['Joseph M. Hellerstein'],,,cs.GL,"['cs.GL', 'cs.DB']",1605.05566,1
+127,2017-01-26 16:52:22+00:00,2017-01-26 16:52:22+00:00,"['Emanuelle Burton', 'Judy Goldsmith', 'Sven Koenig', 'Benjamin Kuipers', 'Nicholas Mattei', 'Toby Walsh']",,,cs.AI,"['cs.AI', 'cs.CY', 'cs.GL', 'K.3.2; K.4.1; K.7.m']",1701.07769,1
+128,2017-01-18 15:23:41+00:00,2017-01-18 15:23:41+00:00,"['Hui Guan', 'Thanos Gentimis', 'Hamid Krim', 'James Keiser']",,,cs.IR,"['cs.IR', 'cs.GL']",1702.02107,1
+129,2017-03-21 12:57:26+00:00,2017-03-21 12:57:26+00:00,"['Dan Stefanoiu', 'Janetta Culita']",,,cs.GL,['cs.GL'],1703.07194,1
+130,2017-06-01 03:31:20+00:00,2017-06-01 03:31:20+00:00,['Hector Zenil'],,,cs.GL,['cs.GL'],1706.08803,1
+131,2012-07-03 05:56:03+00:00,2012-07-03 05:56:03+00:00,"['Gordana Dodig-Crnkovic', 'Mark Burgin']",,,cs.GL,"['cs.GL', 'cs.LO']",1207.1034,1
+132,2013-04-19 12:01:24+00:00,2013-04-19 12:01:24+00:00,['S. Barry Cooper'],"In ""A Computable Universe - Understanding and Exploring Nature as
+  Computation"" (Ed. Hector Zenil), World Scientific, 2013, pp. 125-142",,math.LO,"['math.LO', 'cs.GL']",1304.5385,1
+133,2022-03-09 19:53:09+00:00,2022-03-09 19:53:09+00:00,['René van Dantzig'],,,physics.ins-det,"['physics.ins-det', 'cs.GL']",2203.11280,1
+134,2020-10-01 15:55:51+00:00,2020-10-01 15:55:51+00:00,['Krzysztof R. Apt'],,,cs.GL,"['cs.GL', 'A.1']",2010.00506,1
+135,2022-10-24 08:05:21+00:00,2022-10-24 08:05:21+00:00,"['Dan Ofer', 'Dafna Shahaf']",,,cs.LG,"['cs.LG', 'cs.AI', 'cs.CL', 'cs.CY', 'cs.GL', '68T01, 68T50', 'I.2.7; I.2; K.4; J.4; J.5']",2210.13016,1
+136,2021-04-04 00:38:26+00:00,2021-04-04 00:38:26+00:00,"['Zhongkai Shangguan', 'Zihe Zheng', 'Jiebo Luo']",,,cs.GL,['cs.GL'],2104.05636,1
+137,2022-01-15 13:51:12+00:00,2022-01-15 13:51:12+00:00,['Rogerio Rossi'],,,cs.GL,['cs.GL'],2201.05852,1
+138,2021-11-26 12:23:06+00:00,2021-11-26 12:23:06+00:00,"['Thorsten Wittkopp', 'Philipp Wiesner', 'Dominik Scheinert', 'Odej Kao']",,,cs.DB,"['cs.DB', 'cs.GL', 'cs.LG']",2111.13462,1
+139,2019-03-07 18:53:52+00:00,2019-03-07 18:53:52+00:00,"['Mark Daley', 'Mark Eramian', 'Christopher Power', 'Ian McQuillan']","Journal of Automata, Languages and Combinatorics, 23, 127-141,
+  2018",10.25596/jalc-2018-127,cs.GL,['cs.GL'],1903.03405,1
+140,2019-05-18 03:23:59+00:00,2019-05-18 03:23:59+00:00,"['Genaro J. Martinez', 'Juan C. Seck-Tuoh-Mora', 'Sergio V. Chapa-Vergara', 'Christian Lemaitre']","Journal of Parallel, Emergent and Distributed Systems, 2019",10.1080/17445760.2019.1608990,cs.GL,"['cs.GL', 'nlin.CG']",1905.07527,1
+141,2019-03-25 23:40:20+00:00,2019-03-25 23:40:20+00:00,"['Giovanni A. Cignoni', 'Fabio Gadducci']",,,cs.GL,"['cs.GL', '01-02 Research exposition, 68-03 Historical', 'K.2']",1904.00944,1
+142,2021-05-04 19:40:57+00:00,2021-05-04 19:40:57+00:00,"['Yfke Dulek', 'Stacey Jeffery', 'Christian Majenz', 'Christian Schaffner', 'Florian Speelman', 'Ronald de Wolf']",,,cs.GL,['cs.GL'],2105.02773,1
+143,2022-01-17 09:50:46+00:00,2022-01-17 09:50:46+00:00,"['Iñigo Martinez', 'Elisabeth Viles', 'Igor G. Olaizola']","2021 IEEE International Conference on Big Data, pages 2313-2318",10.1109/BigData52589.2021.9671588,cs.DB,"['cs.DB', 'cs.GL', 'cs.LG', 'cs.SE']",2201.06310,1
+144,2021-09-21 06:42:47+00:00,2021-09-21 06:42:47+00:00,"['Yichen Tang', 'Jerry J. Zhang', 'Paul M. Corballis', 'Luke E. Hallum']",,,cs.LG,"['cs.LG', 'cs.CV', 'cs.GL', 'cs.HC', 'I.5.4; J.3; J.m']",2109.13085,1
+145,2019-08-26 09:19:55+00:00,2019-08-26 09:19:55+00:00,['Juergen F. H. Winkler'],,,cs.GL,"['cs.GL', 'B.0; K.2']",1908.09549,1
+146,2020-04-18 00:49:47+00:00,2020-04-18 00:49:47+00:00,"['Lucas Potter', 'Xavier-Lewis Palmer']",,,cs.CR,"['cs.CR', 'cs.GL']",2005.02135,1
+147,2020-07-10 17:58:22+00:00,2020-07-10 17:58:22+00:00,"['Alexander M. Rush', 'Hendrik Strobelt']",,,cs.HC,"['cs.HC', 'cs.GL']",2007.12238,1
+148,2018-07-03 18:00:40+00:00,2018-07-03 18:00:40+00:00,"['S. O. Semerikov', 'A. M. Striuk', 'K. I. Slovak', 'N. V. Rashevska', 'Yu. V. Yechkalo']",New computer technology 16 (2018) 9-24,,cs.GL,"['cs.GL', 'A.0; K.2']",1807.07824,1
+149,2021-08-19 12:37:42+00:00,2021-08-19 12:37:42+00:00,['Mohammad-Ali Miri'],,10.1364/OL.433101,physics.optics,"['physics.optics', 'cond-mat.dis-nn', 'cs.GL', 'physics.data-an']",2108.08654,1
+150,2022-09-21 16:40:03+00:00,2022-09-21 16:40:03+00:00,"['Rihab Gorsane', 'Omayma Mahjoub', 'Ruan de Kock', 'Roland Dubb', 'Siddarth Singh', 'Arnu Pretorius']",,,cs.LG,"['cs.LG', 'cs.AI', 'cs.GL', 'cs.MA', 'I.2.11; I.2.0; A.1']",2209.10485,1
+151,2021-12-01 03:28:08+00:00,2021-12-01 03:28:08+00:00,['N. Karjanto'],,,math.HO,"['math.HO', 'cs.GL', '97I30, 97I50, 01A05']",2112.00257,1
+152,2022-09-26 16:23:02+00:00,2022-09-26 16:23:02+00:00,"['Nurullah Sevim', 'Ege Ozan Özyedek', 'Furkan Şahinuç', 'Aykut Koç']",,,cs.CL,"['cs.CL', 'cs.AI', 'cs.GL', 'eess.AS']",2209.12816,1
+153,2019-01-15 13:47:06+00:00,2019-01-15 13:47:06+00:00,"['Kai-Kristian Kemell', 'Xiaofeng Wang', 'Anh Nguyen-Duc', 'Jason Grendus', 'Tuure Tuunanen', 'Pekka Abrahamsson']",,,cs.GL,"['cs.GL', 'econ.GN', 'q-fin.EC']",1901.04819,1
+154,2022-07-21 05:35:02+00:00,2022-07-21 05:35:02+00:00,"['Martin Stoffers', 'Alexander Weinert']",,,cs.DB,"['cs.DB', 'cs.GL']",2207.14163,1
+155,2022-11-16 14:58:01+00:00,2022-11-16 14:58:01+00:00,['Hironori Washizaki'],,,cs.SE,"['cs.SE', 'cs.GL']",2211.09554,1
+156,2022-07-15 17:34:00+00:00,2022-07-15 17:34:00+00:00,"['Philip E. Bourne', 'Vivien Bonazzi', 'Amy Brand', 'Bonnie Carroll', 'Ian Foster', 'Ramanathan V. Guha', 'Robert Hanisch', 'Sallie Ann Keller', 'Mary Lee Kennedy', 'Christine Kirkpatrick', 'Barend Mons', 'Sarah M. Nusser', 'Michael Stebbins', 'George Strawn', 'Alex Szalay']",,10.1126/science.abo5947,cs.DL,"['cs.DL', 'cs.GL']",2208.04682,1
+157,2018-10-02 20:01:43+00:00,2018-10-02 20:01:43+00:00,['Roman V. Yampolskiy'],,,cs.GL,"['cs.GL', 'cs.AI', 'cs.CY']",1810.02724,1
+158,2022-09-19 13:53:51+00:00,2022-09-19 13:53:51+00:00,"['Maja Schneider', 'Christian Marchington', 'Marco Körner']",,,cs.DL,"['cs.DL', 'cs.GL']",2210.07178,1
+159,2022-08-02 21:42:01+00:00,2022-08-02 21:42:01+00:00,"['Jennifer Head', ""Dianne P. O'Leary""]",,,cs.GL,"['cs.GL', '68.03', 'K.2']",2208.01765,1
+160,2019-07-29 04:01:12+00:00,2019-07-29 04:01:12+00:00,['Tansu Alpcan'],,,cs.GL,['cs.GL'],1907.12204,1
+161,2022-10-01 10:07:28+00:00,2022-10-01 10:07:28+00:00,"['Richard Shute', 'Nick Lynch']",,,cs.SE,"['cs.SE', 'cs.GL']",2210.00236,1
+162,2022-04-05 12:55:31+00:00,2022-04-05 12:55:31+00:00,['Gil Kalai'],,,quant-ph,"['quant-ph', 'cs.GL', 'physics.hist-ph']",2204.02768,1
+163,2019-05-23 15:46:13+00:00,2019-05-23 15:46:13+00:00,"['Cristian Ivan', 'Bipin Indurkhya']",,,cs.AI,"['cs.AI', 'cs.GL']",1905.09730,1
+164,2019-07-03 17:42:17+00:00,2019-07-03 17:42:17+00:00,"['Martin Geier', 'Samarjit Chakraborty']",,,cs.GL,"['cs.GL', 'cs.CY']",1907.01874,1
+165,2022-09-06 08:49:44+00:00,2022-09-06 08:49:44+00:00,"['Yanchao Xu', 'Wenbo Shao', 'Jun Li', 'Kai Yang', 'Weida Wang', 'Hua Huang', 'Chen Lv', 'Hong Wang']",,,cs.CV,"['cs.CV', 'cs.GL']",2209.02297,1
+166,2022-09-13 12:51:20+00:00,2022-09-13 12:51:20+00:00,['Mousa Jari'],,10.5121/csit.2022.121319,cs.CR,"['cs.CR', 'cs.CY', 'cs.GL', 'cs.HC']",2209.11197,1
+167,2022-10-11 21:22:30+00:00,2022-10-11 21:22:30+00:00,"['Renee Shelby', 'Shalaleh Rismani', 'Kathryn Henne', 'AJung Moon', 'Negar Rostamzadeh', 'Paul Nicholas', ""N'Mah Yilla"", 'Jess Gallegos', 'Andrew Smart', 'Emilio Garcia', 'Gurleen Virk']",,,cs.HC,"['cs.HC', 'cs.GL']",2210.05791,1
+168,2021-09-23 17:20:37+00:00,2021-09-23 17:20:37+00:00,['Michael Correll'],,,cs.GL,"['cs.GL', 'cs.HC']",2109.12975,1
+169,2022-09-01 01:46:29+00:00,2022-09-01 01:46:29+00:00,['Jonny L. Saunders'],,,cs.GL,"['cs.GL', 'K.2; K.4.1; K.4.3; E.2; H.5.3; H.4.3; K.6.4']",2209.07493,1
+170,2008-04-17 16:46:55+00:00,2008-04-17 16:46:55+00:00,"['David King', 'Chris Kimble']",,,cs.SE,"['cs.SE', 'cs.GL', 'K.6.3; I.0']",0804.2852,1
+171,2022-07-28 09:44:21+00:00,2022-07-28 09:44:21+00:00,"['Viktor Zobernig', 'Richard A. Saldanha', 'Jinke He', 'Erica van der Sar', 'Jasper van Doorn', 'Jia-Chen Hua', 'Lachlan R. Mason', 'Aleksander Czechowski', 'Drago Indjic', 'Tomasz Kosmala', 'Alessandro Zocca', 'Sandjai Bhulai', 'Jorge Montalvo Arvizu', 'Claude Klöckl', 'John Moriarty']",,,cs.LG,"['cs.LG', 'cs.AI', 'cs.GL', 'cs.SY', 'eess.SY', 'math.OC']",2208.00003,1
+172,2007-02-24 00:34:10+00:00,2007-02-24 00:34:10+00:00,"['Tanya L. Crenshaw', 'Erin Wolf Chambers', 'Heather Metcalf', 'Umesh Thakkar']",,,cs.GL,"['cs.GL', 'K.3.2']",cs/0702141,1
+173,2006-10-20 21:33:17+00:00,2006-10-20 21:33:17+00:00,['Serban E. Vlad'],,,cs.GL,['cs.GL'],cs/0610127,1
+174,2020-07-17 05:04:37+00:00,2020-07-17 05:04:37+00:00,"['Fabio S. Priuli', 'Claudia Violante']",,,cs.GL,"['cs.GL', 'cs.CR', 'stat.OT']",2008.03122,1
+175,2007-05-05 12:04:52+00:00,2007-05-05 12:04:52+00:00,"['V. Sundaram', 'K. P. N. Murthy']",,,cs.GL,['cs.GL'],0705.0742,1
+176,2007-12-16 21:00:02+00:00,2007-12-16 21:00:02+00:00,['David Chadwick'],"IFIP, Integrity and Internal Control in Information Systems, Vol
+  24, pp. 205-211, Kluwer, 2003",,cs.GL,"['cs.GL', 'J.1; H.4.1; K.6.4; D.2.9']",0712.2594,1
+177,2008-01-25 01:09:47+00:00,2008-01-25 01:09:47+00:00,"['Alberto Pepe', 'Johan Bollen']",,,cs.CL,"['cs.CL', 'cs.GL']",0801.3864,1
+178,2022-04-06 21:09:27+00:00,2022-04-06 21:09:27+00:00,"['David Leslie', 'Michael Katell', 'Mhairi Aitken', 'Jatinder Singh', 'Morgan Briggs', 'Rosamund Powell', 'Cami Rincón', 'Thompson Chengeta', 'Abeba Birhane', 'Antonella Perini', 'Smera Jayadeva', 'Anjali Mazumder']",,10.5281/zenodo.6408304,cs.CY,"['cs.CY', 'cs.AI', 'cs.GL', 'cs.HC']",2204.03090,1
+179,2017-08-23 19:32:55+00:00,2017-08-23 19:32:55+00:00,['Hung Cao'],,,cs.NI,"['cs.NI', 'cs.GL']",1708.07160,1
+180,2020-10-23 21:24:57+00:00,2020-10-23 21:24:57+00:00,"['Clarice D. Aiello', 'D. D. Awschalom', 'Hannes Bernien', 'Tina Brower-Thomas', 'Kenneth R. Brown', 'Todd A. Brun', 'Justin R. Caram', 'Eric Chitambar', 'Rosa Di Felice', 'Michael F. J. Fox', 'Stephan Haas', 'Alexander W. Holleitner', 'Eric R. Hudson', 'Jeffrey H. Hunt', 'Robert Joynt', 'Scott Koziol', 'H. J. Lewandowski', 'Douglas T. McClure', 'Jens Palsberg', 'Gina Passante', 'Kristen L. Pudenz', 'Christopher J. K. Richardson', 'Jessica L. Rosenberg', 'R. S. Ross', 'Mark Saffman', 'M. Singh', 'David W. Steuerman', 'Chad Stark', 'Jos Thijssen', 'A. Nick Vamivakas', 'James D. Whitfield', 'Benjamin M. Zwickl']",Quantum Sci. Technol. 6 030501 (2021),10.1088/2058-9565/abfa64,physics.ed-ph,"['physics.ed-ph', 'cs.ET', 'cs.GL', 'quant-ph']",2010.13778,1
+181,2022-01-05 17:53:34+00:00,2022-01-05 17:53:34+00:00,['Corneliu Arsene'],,,physics.soc-ph,"['physics.soc-ph', 'cs.GL']",2201.02046,1
+182,2020-06-21 16:35:09+00:00,2020-06-21 16:35:09+00:00,"['Sergei Levashkin', 'Victor Alexandrov', 'Adolfo Guzmán-Arenas']",,,cs.GL,"['cs.GL', '01-02, 68-03, 68Qxx, 68Rxx, 68Txx, 68Uxx, 68Vxx, 68Wxx, 94-03, 94Axx', 'A.1; F.2; G.2; K.2']",2006.11842,1
+183,2016-07-04 12:40:15+00:00,2016-07-04 12:40:15+00:00,['Adam Loy'],The UMAP Journal 36 (2015) 285-292,,stat.OT,"['stat.OT', 'cs.GL']",1607.00858,1
+184,2018-07-05 21:32:18+00:00,2018-07-05 21:32:18+00:00,['Yehia Elkhatib'],"4th Workshop on Curricula and Teaching Methods in Cloud Computing,
+  Big Data, and Data Science, 2017",10.1109/CloudCom.2017.58,cs.GL,"['cs.GL', 'cs.LG', 'stat.ML']",1807.03750,1
+185,2006-07-07 01:17:05+00:00,2006-07-07 01:17:05+00:00,['G. A. Maney'],,,cs.GL,['cs.GL'],cs/0607022,1
+186,2012-06-20 20:14:13+00:00,2012-06-20 20:14:13+00:00,['Serban E. Vlad'],,,cs.GL,"['cs.GL', '94C99']",1206.4708,1
+187,2011-07-23 12:12:12+00:00,2011-07-23 12:12:12+00:00,"['J. A. Bergstra', 'G. P. A. J. Delen', 'S. F. M. van Vlijmen']",,,cs.SE,"['cs.SE', 'cs.GL', 'K.6.0; J.4; H.4.0; D.0']",1107.4684,1
+188,1991-11-01 00:00:00+00:00,1991-11-01 00:00:00+00:00,['Donald E. Knuth'],"Theoretical Comp. Sci. 90 (1991), 1--15",,cs.GL,['cs.GL'],cs/9301114,1
+189,2020-04-16 20:14:20+00:00,2020-04-16 20:14:20+00:00,"['George Fletcher', 'Paul Groth', 'Juan Sequeda']",,,cs.DB,"['cs.DB', 'cs.CY', 'cs.GL']",2004.07917,1
+190,2009-07-30 21:06:19+00:00,2009-07-30 21:06:19+00:00,"['Muhammad Sohail', 'Abdur Rashid Khan']","International Journal of Computer Science and Information
+  Security, IJCSIS, July 2009, Volume 3. No.1",,cs.CY,"['cs.CY', 'cs.GL']",0907.5429,1
+191,2022-05-03 03:56:17+00:00,2022-05-03 03:56:17+00:00,"['Ruoting Wu', 'Yuxin Zhang', 'Qibiao Peng', 'Liang Chen', 'Zibin Zheng']",,,cs.SE,"['cs.SE', 'cs.AI', 'cs.GL', 'cs.PL']",2205.01293,1
+192,2021-07-29 14:31:44+00:00,2021-07-29 14:31:44+00:00,"['Stephen L. France', 'Mahyar Sharif Vaghefi', 'Brett Kazandjian']",,,cs.DL,"['cs.DL', 'cs.GL', 'H.4.0; I.5.3; I.7.0']",2107.14019,1
+193,2011-12-07 19:44:48+00:00,2011-12-07 19:44:48+00:00,"['Casey Bennett', 'Thomas Doub', 'April Bragg', 'Jason Luellen', 'Christina Van Regenmorter', 'Jennifer Lockman', 'Randall Reiserer']","First IEEE International Conference on Healthcare Informatics,
+  Imaging and Systems Biology (HISB). (2011). 229-236",10.1109/HISB.2011.20,cs.AI,"['cs.AI', 'cs.GL']",1112.1670,1
+194,2007-06-04 17:17:44+00:00,2007-06-04 17:17:44+00:00,['David R. Wright'],,,cs.GL,"['cs.GL', 'K.7.4']",0706.0484,1
+195,2008-04-16 15:43:27+00:00,2008-04-16 15:43:27+00:00,['Christoph Schommer'],,,cs.GL,"['cs.GL', 'K.3.2; A.2']",0804.2621,1
+196,2019-07-11 08:52:25+00:00,2019-07-11 08:52:25+00:00,"[""V. V. V'yugin""]",,,cs.GL,"['cs.GL', 'cs.IT', 'math.IT']",1907.05056,1
+197,2023-03-24 01:46:27+00:00,2023-03-24 01:46:27+00:00,['Raúl Rojas'],,,cs.GL,"['cs.GL', 'D.0; K.2']",2303.13740,1
+198,2021-07-26 18:52:00+00:00,2021-07-26 18:52:00+00:00,"['José Suárez-Varela', 'Miquel Ferriol-Galmés', 'Albert López', 'Paul Almasan', 'Guillermo Bernárdez', 'David Pujol-Perich', 'Krzysztof Rusek', 'Loïck Bonniot', 'Christoph Neumann', 'François Schnitzler', 'François Taïani', 'Martin Happ', 'Christian Maier', 'Jia Lei Du', 'Matthias Herlich', 'Peter Dorfinger', 'Nick Vincent Hainke', 'Stefan Venz', 'Johannes Wegener', 'Henrike Wissing', 'Bo Wu', 'Shihan Xiao', 'Pere Barlet-Ros', 'Albert Cabellos-Aparicio']","ACM SIGCOMM Computer Communication Review, Vol. 51, No. 3, pp.
+  9-16, 2021",10.1145/3477482.3477485,cs.NI,"['cs.NI', 'cs.AI', 'cs.GL', 'cs.LG']",2107.12433,1
+199,2021-04-07 21:00:38+00:00,2021-04-07 21:00:38+00:00,"['Krzysztof R. Apt', 'Tony Hoare']",,,cs.GL,"['cs.GL', 'A.1']",2104.03392,1
+200,2022-06-12 03:50:19+00:00,2022-06-12 03:50:19+00:00,['Nick Zhang'],,,cs.GL,['cs.GL'],2206.05274,1
+201,2021-03-09 02:29:44+00:00,2021-03-09 02:29:44+00:00,"['Daniel Zhang', 'Saurabh Mishra', 'Erik Brynjolfsson', 'John Etchemendy', 'Deep Ganguli', 'Barbara Grosz', 'Terah Lyons', 'James Manyika', 'Juan Carlos Niebles', 'Michael Sellitto', 'Yoav Shoham', 'Jack Clark', 'Raymond Perrault']",,,cs.AI,"['cs.AI', 'cs.GL']",2103.06312,1
+202,2021-01-11 19:55:09+00:00,2021-01-11 19:55:09+00:00,['Michael Lissack'],,,cs.CY,"['cs.CY', 'cs.AI', 'cs.GL', 'physics.hist-ph']",2101.10098,1
+203,2023-01-07 18:55:04+00:00,2023-01-07 18:55:04+00:00,['Thomas J. Misa'],"In Robin Hammerman and Andrew L. Russell, eds., Ada's Legacy:
+  Cultures of Computing from the Victorian to the Digital Age. Association for
+  Computing Machinery and Morgan & Claypool, 2015",10.1145/2809523.2809527,math.HO,"['math.HO', 'cs.CY', 'cs.GL', 'F.1; G.0; K.2']",2301.02919,1
